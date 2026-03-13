@@ -1,0 +1,575 @@
+Story,id,text_original,Sentiments-GPT5,Multi-GPT5,Sentiments-Perplexity,Multi-Perplexity,Sentiments-Mistral,Multi-Mistral,Sentiments-GPTOSS20B,Multi-GPTOSS20B,Sentiments-Aggregated,Multi-Aggregated
+1-DHUDI,S1,Der Hase und der Igel. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Der Hase und der Igel. Das Märchen geht so:,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S2,Es ist Herbst. Der Wind weht über die Felder. Die Sonne scheint hell. Die Vögel singen. Und die Bienen summen.,positive,no,positive,no,positive,no,positive,no,positive,no
+1-DHUDI,S3,Es ist Sonntagmorgen. Die Kirchenglocken läuten. Alle sind fröhlich. Auch der Igel ist fröhlich.,positive,no,positive,no,positive,no,positive,no,positive,no
+1-DHUDI,S4,Der Igel hat eine Frau. Die Igelfrau ist im Haus beschäftigt. Und der Igel hat nichts zu tun. Also geht der Igel spazieren.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S5,Auf seinem Weg trifft der Igel einen Hasen. Der Hase geht auch spazieren. Und so sagt der Igel zum Hasen: Guten Morgen!,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S6,Der Hase antwortet nicht. Der Hase ist nämlich nicht nett. Aber der Hase fragt den Igel: Wieso bist du so früh schon wach?,negative,no,negative,no,negative,no,negative,no,negative,no
+1-DHUDI,S7,Der Igel antwortet: Ich gehe spazieren. Der Hase lacht. Und sagt: Aber du hast krumme Beine. Mit diesen krummen Beinen kannst du nicht spazieren gehen.,negative,no,negative,no,negative,no,negative,no,negative,no
+1-DHUDI,S8,Der Igel ist wütend. Der Hase hat nämlich recht: Die Beine vom Igel sind krumm. Aber deshalb muss der Hase nicht über den Igel lachen.,negative,no,negative,no,negative,no,negative,no,negative,no
+1-DHUDI,S9,Also fragt der Igel den Hasen: Findest du deine Beine besser? Der Hase nickt.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S10,Und so sagt der Igel zum Hasen: Lass uns um die Wette laufen! Ich bin bestimmt schneller als du.,positive,no,positive,no,neutral,no,positive,no,positive,no
+1-DHUDI,S11,Der Hase lacht wieder. Und denkt: Der Igel kann nicht schneller sein als ich. Der Igel hat krumme Beine. Deshalb werde ich gewinnen.,negative,no,negative,no,negative,no,negative,no,negative,no
+1-DHUDI,S12,Der Hase sagt: Der Gewinner soll vom Verlierer einen Preis bekommen. Der Igel antwortet: Der Gewinner bekommt vom Verlierer eine Goldmünze. Und eine Flasche Wein. Der Hase ist einverstanden.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S13,Der Igel sagt: Ich muss zuerst etwas essen. Ich gehe jetzt nach Hause. Und frühstücke. In einer halben Stunde bin ich zurück. Dann laufen wir um die Wette. Der Hase ist zufrieden.,neutral,no,positive,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S14,Und der Igel geht nach Hause. Auf seinem Weg nach Hause denkt der Igel: Der Hase hat lange Beine. Und der Hase ist schnell. Aber der Hase ist dumm. Ich bin schlau. Deshalb werde ich gewinnen.,positive,no,positive,no,positive,no,negative,no,positive,no
+1-DHUDI,S15,Zu Hause sagt der Igel zur Igelfrau: Zieh dich an. Du musst mit mir auf das Feld gehen. Ich will mit dem Hasen um die Wette laufen. Der Gewinner bekommt vom Verlierer eine Goldmünze. Und eine Flasche Wein. Komm mit!,neutral,no,positive,no,neutral,no,positive,no,multi,yes
+1-DHUDI,S16,Die Igelfrau antwortet: Bist du dumm? Der Hase ist viel schneller als du. Du kannst nicht gewinnen.,negative,no,negative,no,negative,no,negative,no,negative,no
+1-DHUDI,S17,Der Igel ist wütend. Und sagt: Sei still! Ich will mit dem Hasen um die Wette laufen. Zieh dich an. Und komm mit!,negative,no,negative,no,negative,no,negative,no,negative,no
+1-DHUDI,S18,Also zieht die Igelfrau sich an. Und der Igel und die Igelfrau gehen zum Feld.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S19,Auf dem Weg sagt der Igel zur Igelfrau: Siehst du den langen Acker? Auf dem Acker laufen wir um die Wette.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S20,Der Hase läuft in einer Furche. Und ich laufe in der anderen Furche. Wir laufen oben am Acker los.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S21,Du musst nur folgende Dinge tun: Du stellst dich unten in die Furche. Dann wartest du auf den Hasen. Du siehst den Hasen kommen? Dann rufst du: Ich bin schon hier.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S22,Der Igel und die Igelfrau kommen beim Acker an. Der Igel zeigt der Igelfrau ihren Platz. Dann geht der Igel den Acker hinauf. Der Igel geht zu dem Treffpunkt mit dem Hasen. Der Hase wartet schon auf den Igel.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S23,Der Hase fragt den Igel: Kann es losgehen? Der Igel nickt. Hase und Igel machen sich bereit.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S24,Der Hase ruft: Auf die Plätze. Fertig. Los! Der Hase rennt los.,neutral,no,neutral,no,neutral,no,positive,no,neutral,no
+1-DHUDI,S25,Aber der Igel geht nur 3 Schritte. Dann macht der Igel sich klein. Und der Igel bleibt ruhig an seinem Platz sitzen.,neutral,no,neutral,no,neutral,no,negative,no,neutral,no
+1-DHUDI,S26,Der Hase kommt unten am Acker an. Die Igelfrau sieht den Hasen. Und die Igelfrau ruft: Ich bin schon hier!,positive,no,positive,no,positive,no,neutral,no,positive,no
+1-DHUDI,S27,Der Hase ist überrascht. Und denkt: Das ist nicht möglich. Deshalb ruft der Hase: Wir laufen noch einmal!,neutral,no,neutral,no,negative-positive,yes,neutral,no,neutral,no
+1-DHUDI,S28,Und der Hase rennt wieder los. Der Hase rennt sehr schnell. Und die langen Ohren wehen dem Hasen um den Kopf.,neutral,no,neutral,no,neutral,no,positive,no,neutral,no
+1-DHUDI,S29,Aber die Igelfrau geht nur 3 Schritte. Dann macht die Igelfrau sich klein. Und die Igelfrau bleibt ruhig an ihrem Platz sitzen.,neutral,no,neutral,no,neutral,no,negative,no,neutral,no
+1-DHUDI,S30,Der Hase kommt oben am Acker an. Oben am Acker steht der Igel. Der Igel sieht den Hasen. Und der Igel ruft: Ich bin schon hier!,positive,no,positive,no,positive,no,neutral,no,positive,no
+1-DHUDI,S31,Der Hase ärgert sich. Und der Hase schreit: Wir laufen noch einmal!,negative,no,negative,no,negative,no,negative,no,negative,no
+1-DHUDI,S32,Der Igel nickt. Der Hase läuft den Acker hinauf und hinab. Der Hase will nämlich unbedingt gewinnen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S33,Der Igel bleibt die ganze Zeit oben am Acker. Und die Igelfrau bleibt die ganze Zeit unten am Acker.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+1-DHUDI,S34,Egal an welchem Ende vom Acker der Hase ankommt: Einer von den Igeln ist schon da. Und ruft: Ich bin schon hier!,positive,no,positive,no,positive,no,neutral,no,positive,no
+1-DHUDI,S35,Der Hase läuft ein weiteres Mal den Acker hinauf. Aber diesmal kommt der Hase nicht ans Ziel: Der Hase fällt mitten auf dem Acker um. Und bleibt liegen. Der Hase kann nicht mehr weiterlaufen.,negative,no,negative,no,negative,no,negative,no,negative,no
+1-DHUDI,S36,Der Igel freut sich. Der Igel hat nämlich die Wette gewonnen. Also nimmt der Igel die Goldmünze. Und die Flasche Wein.,positive,no,positive,no,positive,no,positive,no,positive,no
+1-DHUDI,S37,Dann ruft der Igel die Igelfrau zu sich. Und der Igel und die Igelfrau gehen fröhlich nach Hause. Das war das Märchen von Hase und Igel.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S1,Frau Holle. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Frau Holle. Das Märchen geht so:,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S2,Eine Frau hat 2 Töchter. Die eine Tochter ist schön. Und fleißig. Aber die andere Tochter ist hässlich. Und faul. Beide Töchter heißen Marie.,neutral,no,neutral,no,neutral,no,negative-positive,yes,neutral,no
+2-FrauHolle,S3,Die Frau hat aber die faule Marie viel lieber. Die faule Marie ist nämlich ihr eigenes Kind. Die fleißige Marie hat eine andere Mutter. Die Mutter von der fleißigen Marie ist aber schon gestorben. Die Frau ist also nur die Stiefmutter von der fleißigen Marie.,negative,no,negative,no,negative,no,neutral,no,negative,no
+2-FrauHolle,S4,Die Frau hat die faule Marie viel lieber. Deshalb muss die fleißige Marie die ganze Arbeit allein machen: Jeden Tag muss die fleißige Marie am Brunnen sitzen. Und mit einem Spinnrad Wolle zu einem Faden machen.,negative,no,negative,no,negative,no,negative-positive,yes,negative,no
+2-FrauHolle,S5,Die fleißige Marie wickelt den Faden auf eine Spule. Das ist eine sehr anstrengende Arbeit. Aber die fleißige Marie muss diese anstrengende Arbeit trotzdem jeden Tag machen. So will es die Stiefmutter.,negative,no,negative,no,negative,no,neutral,no,negative,no
+2-FrauHolle,S6,An einem Tag sticht sich die fleißige Marie bei der Arbeit in den Finger. Der Finger blutet. Und auch die Spule mit der Wolle wird dabei blutig.,negative,no,negative,no,neutral,no,negative,no,negative,no
+2-FrauHolle,S7,Marie will die blutige Spule im Brunnen waschen. Aber Marie passt nicht auf. Deshalb fällt die blutige Spule in den Brunnen. Und versinkt.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S8,Jetzt weint Marie viele Tränen: Die Stiefmutter wird nämlich sehr böse darüber sein. Und mit Marie schimpfen. Am Abend geht Marie zur Stiefmutter. Und sagt: Liebe Stiefmutter: Die Spule ist mir in den Brunnen gefallen.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S9,Da wird die Stiefmutter sehr böse. Und sagt: Du dummes Kind. Du hast die Spule in den Brunnen fallen lassen? Dann geh zurück zum Brunnen. Und hol die Spule wieder heraus.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S10,Marie weint. Aber Marie geht zurück zum Brunnen. Marie muss die Spule aus dem Brunnen holen.,negative,no,negative,no,negative,no,neutral,no,negative,no
+2-FrauHolle,S11,Marie denkt: Was soll ich jetzt tun? Marie hat große Angst vor ihrer Stiefmutter. Deshalb springt Marie in den Brunnen. Der Brunnen ist dunkel. Und sehr tief.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S12,Aber Marie ertrinkt nicht. Marie fällt immer tiefer in den Brunnen. Dabei dreht sich alles. Und plötzlich ist der Brunnen weg.,neutral,no,neutral,no,neutral,no,negative,no,neutral,no
+2-FrauHolle,S13,Marie liegt auf einer Wiese. Die Sonne scheint. Und die Vögel singen.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S14,Marie ist überrascht. Und denkt: Wo bin ich? Dann steht Marie auf. Und geht über die Wiese.,neutral,no,neutral,no,neutral,no,positive,no,neutral,no
+2-FrauHolle,S15,Auf der Wiese steht ein alter Backofen. Der Backofen ist aus Mauersteinen. Der Backofen dampft. Im Backofen ist nämlich Brot. Das Brot ist fertig gebacken.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S16,Da ruft das Brot: Zieh mich heraus. Zieh mich heraus. Sonst verbrenne ich.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S17,Marie ist überrascht: Das Brot kann sprechen. Aber Marie geht zu dem Backofen. Und holt das Brot heraus.,positive,no,positive,no,positive,no,neutral,no,positive,no
+2-FrauHolle,S18,Dann geht Marie weiter. Nach einer Weile kommt Marie zu einem Baum. Am Baum sind viele Äpfel. Die Äpfel sind alle rot,neutral,no,positive,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S19,Da ruft der Baum: Schüttel mich. Schüttel mich. Meine Äpfel sind alle reif.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S20,Marie ist überrascht: Der Baum kann sprechen. Aber Marie geht zu dem Baum. Marie schüttelt den Baum. Und die Äpfel fallen auf den Boden. Marie legt die Äpfel auf einen Haufen.,positive,no,positive,no,positive,no,neutral,no,positive,no
+2-FrauHolle,S21,Dann geht Marie weiter. Nach einer Weile kommt Marie zu einem Haus. Das Haus ist klein.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S22,Und in dem Haus wohnt eine Frau. Die Frau schaut aus dem Fenster. Die Frau ist alt. Und die Frau hat sehr große Zähne.,neutral,no,neutral,no,negative,no,neutral,no,neutral,no
+2-FrauHolle,S23,Deshalb hat Marie Angst. Und will weglaufen. Aber die alte Frau mit den großen Zähnen ruft: Hab keine Angst.,negative-neutral,yes,negative-positive,yes,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S24,Ich bin Frau Holle. Und ich wohne in diesem Haus. Du kannst bei mir bleiben. Und für mich arbeiten.,positive,no,positive,no,neutral,no,positive,no,positive,no
+2-FrauHolle,S25,Du kannst für mich kochen. Und du kannst mir bei der Arbeit im Haus helfen. Und du kannst mein Bett machen. Ich werde mich gut um dich kümmern.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S26,Marie denkt: Frau Holle ist nett. Ich will bei Frau Holle bleiben. Und ich will für Frau Holle arbeiten. Und so bleibt Marie bei Frau Holle.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S27,Marie kocht. Und Marie hilft Frau Holle bei der Arbeit im Haus. Und Marie macht das Bett von Frau Holle.,positive,no,positive,no,neutral,no,positive,no,positive,no
+2-FrauHolle,S28,Jeden Tag muss Marie die Bettdecke von Frau Holle gut ausschütteln. Dann fliegen nämlich die Bettfedern auf die Erde. Und werden zu Schnee. Das freut die Menschen auf der Erde. Es ist nämlich Winter.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S29,Und so vergehen die Tage: Marie macht jeden Tag das Bett von Frau Holle. Und auf der Erde schneit es. Und die Menschen freuen sich über den Schnee.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S30,Das kann Marie vom Fenster aus sehen. Marie macht ihre Arbeit gut. Und Frau Holle ist sehr zufrieden. Frau Holle kümmert sich gut um Marie.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S31,Und die Wochen vergehen. Aber dann wird Marie traurig. Und denkt: Warum bin ich traurig?,negative-positive,yes,negative-positive,yes,neutral,no,negative,no,multi,yes
+2-FrauHolle,S32,Die Arbeit macht mir Spaß. Frau Holle ist sehr nett. Und kümmert sich gut um mich. Marie hat Heimweh. Marie will zurück nach Hause.,negative-positive,yes,negative-positive,yes,negative-neutral,yes,negative-positive,yes,multi,yes
+2-FrauHolle,S33,Marie denkt: Zu Hause ist mein Leben nicht so schön. Und trotzdem vermisse ich meine Stiefmutter. Und meine Stiefschwester.,negative,no,negative,no,neutral,no,negative,no,negative,no
+2-FrauHolle,S34,Also geht Marie zu Frau Holle. Und sagt: Liebe Frau Holle: Es geht mir sehr gut bei dir. Aber ich kann nicht länger bei dir bleiben.,negative-positive,yes,negative-positive,yes,neutral,no,negative,no,multi,yes
+2-FrauHolle,S35,Ich will nach Hause. Ich vermisse nämlich meine Stiefmutter. Und meine Stiefschwester. Ich muss gehen.,negative,no,negative,no,neutral,no,negative,no,negative,no
+2-FrauHolle,S36,Frau Holle ist sehr traurig. Aber Frau Holle versteht das. Frau Holle nimmt Marie an die Hand.,negative-positive,yes,negative-positive,yes,neutral,no,negative,no,multi,yes
+2-FrauHolle,S37,Und Frau Holle geht mit Marie zu einem Tor. Dann sagt Frau Holle zu Marie: Stell dich unter das Tor.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S38,Marie gehorcht. Plötzlich regnet es. Aber der Regen ist kein normaler Regen. Der Regen ist aus Gold. Und das Gold bleibt an Marie kleben.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S39,Frau Holle sagt: Das Gold ist für dich. Du warst sehr fleißig. Und Frau Holle gibt der fleißigen Marie die Spule aus dem Brunnen. Jetzt hat die fleißige Marie ihre Spule wieder. Und auch die Spule ist jetzt aus Gold.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S40,Dann geht Marie durch das Tor. Und plötzlich ist Marie wieder am Brunnen. Jetzt ist Marie zu Hause.,positive,no,positive,no,neutral,no,neutral,no,multi,yes
+2-FrauHolle,S41,Auf dem Brunnen sitzt ein Hahn. Der Hahn ruft: So ein Glück. So ein Glück. Unsere Gold-Marie ist zurück.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S42,Marie geht zum Haus von der Stiefmutter. Die Stiefmutter sieht Marie. Und ist überrascht: Marie ist voll mit Gold.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S43,Jetzt ist die Stiefmutter plötzlich sehr nett zu Marie. Und auch die faule Stiefschwester ist plötzlich sehr nett zu Marie.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S44,Marie erzählt von Frau Holle. Da wird die Stiefmutter neidisch.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S45,Und denkt: Meine faule Tochter Marie soll auch so viel Glück haben. Und ein Kleid voll mit Gold haben.,negative,no,neutral,no,negative,no,negative,no,negative,no
+2-FrauHolle,S46,Also sagt die Stiefmutter zu ihrer faulen Tochter Marie: Mach es so wie deine fleißige Stiefschwester:,neutral,no,neutral,no,neutral,no,negative,no,neutral,no
+2-FrauHolle,S47,Setz dich mit der Spule an den Brunnen. Und stich dir in den Finger. Dein Finger blutet? Dann nimm die Spule. Und lass Blut auf die Spule tropfen. Die Spule ist voll mit Blut? Dann wirf die blutige Spule in den Brunnen.,negative,no,negative,no,neutral,no,negative,no,negative,no
+2-FrauHolle,S48,So macht es die faule Marie: Die faule Marie wirft die blutige Spule in den Brunnen.,negative,no,negative,no,neutral,no,negative,no,negative,no
+2-FrauHolle,S49,Und springt dann selbst in den Brunnen hinein. Die faule Marie fällt immer tiefer in den Brunnen. Dabei dreht sich alles. Und plötzlich ist der Brunnen weg.,neutral,no,neutral,no,neutral,no,negative,no,neutral,no
+2-FrauHolle,S50,Die faule Marie liegt auf einer Wiese. Die Sonne scheint. Und die Vögel singen.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S51,Die faule Marie kennt die Wiese. Die faule Marie hat nämlich die Geschichte von ihrer fleißigen Stiefschwester gehört.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S52,Und weiß von dem Brot im Backofen. Und von den Äpfeln am Apfelbaum. Und von Frau Holle.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S53,Die faule Marie sieht sich um. Die faule Marie sieht den Backofen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S54,Und hört das Brot rufen: Zieh mich heraus. Zieh mich heraus. Sonst verbrenne ich.,neutral,no,neutral,no,neutral,no,negative,no,neutral,no
+2-FrauHolle,S55,Aber die faule Marie antwortet: Nein. Ich mache mich nicht schmutzig.,negative,no,negative,no,negative,no,neutral,no,negative,no
+2-FrauHolle,S56,Dann geht die faule Marie weiter. Nach einer Weile kommt die faule Marie zu dem Apfelbaum. Am Baum sind viele Äpfel. Die Äpfel sind alle rot.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S57,Und der Baum ruft: Schüttel mich. Schüttel mich. Meine Äpfel sind alle reif.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S58,Aber die faule Marie antwortet: Nein. Die Äpfel können mir auf den Kopf fallen. Und mich verletzen. Dann geht die faule Marie weiter.,negative,no,negative,no,negative,no,neutral,no,negative,no
+2-FrauHolle,S59,Nach einer Weile kommt die faule Marie zu einem Haus. Es ist das Haus von Frau Holle. Die faule Marie erkennt das Haus von Frau Holle gleich.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S60,Die Frau am Fenster ist nämlich alt. Und die Frau am Fenster hat sehr große Zähne. Das weiß die faule Marie von ihrer fleißigen Stiefschwester.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S61,Die faule Marie sagt: Liebe Frau Holle: Ich will für dich arbeiten. Frau Holle freut sich sehr darüber. Und bittet die faule Marie in ihr Haus.,positive,no,positive,no,neutral,no,positive,no,positive,no
+2-FrauHolle,S62,Am 1. Tag ist die faule Marie noch sehr fleißig: Die faule Marie kocht. Und die faule Marie macht die Arbeit im Haus. Und die faule Marie macht das Bett von Frau Holle.,positive,no,positive,no,neutral,no,positive,no,positive,no
+2-FrauHolle,S63,Und die faule Marie schüttelt die Bettdecke gut aus. Und wieder fallen die Bettfedern auf die Erde. Und werden zu Schnee. Das freut die Menschen auf der Erde. Es ist nämlich Winter.,positive,no,positive,no,positive,no,positive,no,positive,no
+2-FrauHolle,S64,Aber schon am 2. Tag hat die faule Marie keine Lust zu arbeiten: Die faule Marie kocht nicht. Und die faule Marie macht die Arbeit im Haus nicht.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S65,Die faule Marie macht nur das Bett von Frau Holle. Und schüttelt die Bettdecke aus. So fallen die Bettfedern auf die Erde. Und werden zu Schnee.,neutral,no,neutral,no,neutral,no,negative,no,neutral,no
+2-FrauHolle,S66,Dann legt sich die faule Marie selbst in das Bett. Und schläft ein.,neutral,no,neutral,no,negative,no,neutral,no,neutral,no
+2-FrauHolle,S67,Am 3. Tag arbeitet die faule Marie nicht. Und bleibt den ganzen Tag im Bett liegen.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S68,Keiner schüttelt die Bettdecke aus. Und deshalb gibt es auf der Erde keinen Schnee. Und die Menschen sind traurig.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S69,Das merkt Frau Holle. Frau Holle ärgert sich über die faule Marie. Und sagt: Du kannst zurück nach Hause gehen. Du brauchst nicht mehr für mich arbeiten.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S70,Die faule Marie ist zufrieden. Und denkt: Jetzt bekomme ich mein Gold.,positive,no,positive,no,neutral,no,positive,no,positive,no
+2-FrauHolle,S71,Frau Holle nimmt die faule Marie an die Hand. Und Frau Holle geht mit der faulen Marie zu dem Tor. Dann sagt Frau Holle zu der faulen Marie: Stell dich unter das Tor.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S72,Die faule Marie gehorcht. Plötzlich regnet es. Aber der Regen ist nicht aus Gold. Der Regen ist aus Pech. Das Pech ist schwarz. Und klebrig. Das Pech bleibt an der faulen Marie kleben.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S73,Und Frau Holle sagt: Du warst faul. Deshalb ist das Pech deine Belohnung. Gold ist nur für fleißige Mädchen.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S74,Dann gibt Frau Holle der faulen Marie die Spule aus dem Brunnen. Jetzt hat die faule Marie ihre Spule wieder. Aber auch die Spule ist voll mit Pech. Und schwarz. Und klebrig.,negative,no,negative,no,negative,no,negative,no,negative,no
+2-FrauHolle,S75,Dann geht die faule Marie durch das Tor. Und plötzlich ist die faule Marie wieder am Brunnen. Jetzt ist die faule Marie zu Hause.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+2-FrauHolle,S76,Auf dem Brunnen sitzt der Hahn. Und ruft: So ein Glück. So ein Glück. Unsere Pech-Marie ist zurück.,negative,no,negative,no,neutral,no,negative,no,negative,no
+2-FrauHolle,S77,Das Pech klebt an der faulen Marie. Und das Pech geht nie mehr ab. Das war das Märchen von Frau Holle.,negative,no,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S1,Der Wolf und die 7 Geißlein. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Der Wolf und die 7 Geißlein. Das Märchen geht so:,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S2,Eine Geiß hat 7 Geißlein. Eine Geiß ist eine Ziege. Und die Geißlein sind die Kinder von der Ziege. Die Ziegenmutter liebt ihre Ziegenkinder sehr.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S3,Es ist ein schöner Morgen. Und die Ziegenmutter sagt zu ihren Ziegenkindern: Ich gehe in den Wald. Und hole Futter.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S4,Passt gut auf euch auf! Vielleicht kommt der Wolf. Der Wolf ist ein böses Tier. Der Wolf will euch fressen.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S5,Deshalb dürft ihr nicht die Tür aufmachen. Der Wolf ist schlau. Und der Wolf kann sich verkleiden. Aber ihr erkennt den Wolf an seiner Stimme:,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S6,Die Stimme vom Wolf ist dunkel. Und böse. Und ihr erkennt den Wolf an seinen Pfoten: Die Pfoten vom Wolf sind schwarz.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S7,So erkennt ihr den Wolf. Ihr dürft dem Wolf nicht die Tür aufmachen.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S8,Die Ziegenkinder antworten: Liebe Mutter. Hab keine Angst. Wir passen gut auf uns auf. Wir machen die Tür nicht auf.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S9,Die Ziegenmutter ist beruhigt. Und die Ziegenmutter geht in den Wald. Jetzt sind die Ziegenkinder alleine im Haus. Die Ziegenkinder spielen.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S10,Plötzlich klopft es an der Tür. Eine Stimme ruft: Liebe Kinder. Macht die Tür auf. Ich habe Geschenke für euch.,neutral,no  ,neutral,no,neutral,no,positive,no,neutral,no
+3-DerWolf,S11,Die Stimme ist dunkel. Und böse. Deshalb rufen die Ziegenkinder: Du bist nicht unsere Ziegenmutter. Die Stimme von unserer Ziegenmutter ist hell. Und freundlich. ,negative-positive,yes  ,negative,no,negative,no,negative-positive,yes,multi,yes
+3-DerWolf,S12,Aber deine Stimme ist dunkel. Und böse. Du bist der Wolf. Wir machen die Tür nicht auf.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S13,Der Wolf ärgert sich. Und verschwindet. Der Wolf geht in einen Laden. Der Wolf kauft ein großes Stück Kreide.,negative,no  ,negative,no,negative,no,neutral,no,negative,no
+3-DerWolf,S14,Der Wolf isst die Kreide. Der Wolf weiß nämlich: Kreide macht die Stimme hell.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S15,Dann geht der Wolf wieder zum Haus von den Ziegenkindern. Der Wolf klopft an die Tür. Und ruft: Liebe Kinder. Macht die Tür auf. Ich habe Geschenke für euch.,neutral,no  ,neutral,no,neutral,no,positive,no,neutral,no
+3-DerWolf,S16,Die Ziegenkinder denken: Die Stimme ist hell. Und die Stimme ist freundlich. So wie die Stimme von unserer Ziegenmutter.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S17,Aber die Ziegenkinder sind vorsichtig. Die Ziegenkinder gucken aus dem Fenster. Und die Ziegenkinder sehen eine schwarze Pfote.,neutral,no  ,neutral,no,negative,no,negative,no,multi,yes
+3-DerWolf,S18,Deshalb rufen die Ziegenkinder: Du bist nicht unsere Ziegenmutter. Unsere Ziegenmutter hat eine weiße Pfote. Deine Pfote ist schwarz. Du bist der Wolf. Wir machen die Tür nicht auf.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S19,Der Wolf ärgert sich. Und verschwindet. Jetzt hat der Wolf eine Idee: Der Wolf geht zum Bäcker.,negative,no  ,neutral,no,negative,no,neutral,no,multi,yes
+3-DerWolf,S20,Der Wolf sagt zum Bäcker: Meine Pfote tut weh. Mach mir Teig auf meine Pfote. Das kühlt meine Pfote. Dann tut meine Pfote nicht mehr weh.,negative,no  ,negative,no,neutral,no,neutral,no,multi,yes
+3-DerWolf,S21,Der Bäcker hat Angst vor dem Wolf. Deshalb macht der Bäcker Teig auf die Pfote vom Wolf.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S22,Dann geht der Wolf zum Müller. Der Wolf weiß: Der Müller macht aus Körnern weißes Mehl.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S23,Also sagt der Wolf zum Müller: Mach weißes Mehl auf meine Pfote.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S24,Der Müller antwortet: Du bist der böse Wolf. Ich helfe dir nicht.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S25,Der Wolf ärgert sich. Und sagt: Mach weißes Mehl auf meine Pfote. Oder ich fresse dich!,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S26,Jetzt hat der Müller Angst. Deshalb macht der Müller weißes Mehl auf die Pfote vom Wolf. Die Pfote vom Wolf ist jetzt auch ganz weiß.,negative,no  ,negative,no,negative,no,neutral,no,negative,no
+3-DerWolf,S27,So geht der Wolf wieder zum Haus von den Ziegenkindern. Der Wolf klopft an die Tür.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S28,Und ruft: Liebe Kinder. Macht die Tür auf. Ich habe Geschenke für euch.,neutral,no  ,neutral,no,neutral,no,positive,no,neutral,no
+3-DerWolf,S29,Die Ziegenkinder rufen: Deine Stimme ist hell. Und freundlich. So wie die Stimme von unserer Ziegenmutter.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S30,Aber zeig uns erst deine Pfote. Der Wolf hält seine Pfote vor das Fenster.,neutral,no  ,neutral,no,neutral,no,negative,no,neutral,no
+3-DerWolf,S31,Die Ziegenkinder sehen eine weiße Pfote. Die Ziegenkinder denken: Das ist unsere Ziegenmutter.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S32,Die Ziegenkinder freuen sich. Und die Ziegenkinder machen die Tür auf. Doch vor der Tür steht der böse Wolf.,negative-positive,yes  ,negative-positive,yes,negative-positive,yes,negative-positive,yes,multi,yes
+3-DerWolf,S33,Die Ziegenkinder erschrecken ganz fürchterlich. Und die Ziegenkinder haben große Angst. Die Ziegenkinder verstecken sich im Haus:,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S34,Das 1. Ziegenkind versteckt sich unter dem Tisch. Das 2. Ziegenkind versteckt sich im Bett.,negative,no  ,negative,no,neutral,no,negative,no,negative,no
+3-DerWolf,S35,Das 3. Ziegenkind versteckt sich im Ofen. Das 4. Ziegenkind versteckt sich in der Küche.,negative,no  ,negative,no,neutral,no,negative,no,negative,no
+3-DerWolf,S36,Das 5. Ziegenkind versteckt sich im Schrank. Das 6. Ziegenkind versteckt sich in der Waschschüssel.,negative,no  ,negative,no,neutral,no,negative,no,negative,no
+3-DerWolf,S37,Das 7. Ziegenkind versteckt sich in der Wanduhr. Die Wanduhr hat nämlich einen Uhrenkasten. Der Uhrenkasten ist ein sehr gutes Versteck.,negative,no  ,neutral,no,neutral,no,negative,no,multi,yes
+3-DerWolf,S38,Der Wolf läuft durch das Haus. Und sucht die Ziegenkinder. Der Wolf findet 6 Ziegenkinder.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S39,Aber das 7. Ziegenkind findet der Wolf nicht. Der Wolf guckt nämlich nicht in den Uhrenkasten.,neutral,no  ,neutral,no,neutral,no,negative,no,neutral,no
+3-DerWolf,S40,Der Wolf hat großen Hunger. Also verschluckt der Wolf alle 6 Ziegenkinder. Jetzt ist der Wolf satt. Und müde.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S41,Der Wolf geht hinaus auf die Wiese. Der Wolf legt sich unter einen Baum. Und schläft ein.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S42,Die Ziegenmutter hat Futter geholt. Jetzt kommt die Ziegenmutter nach Hause.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S43,Und erschrickt: Die Tür vom Haus ist offen. Die Ziegenmutter geht vorsichtig ins Haus.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S44,Die Ziegenmutter sieht: Der Tisch ist umgefallen. Scherben liegen auf dem Boden. Ein Stuhl ist kaputt.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S45,Die Ziegenmutter sucht ihre Ziegenkinder. Und die Ziegenmutter ruft ihre Ziegenkinder. Aber die Ziegenkinder antworten nicht.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S46,Die Ziegenmutter sucht überall. Aber es ist kein Ziegenkind da.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S47,Plötzlich ruft eine Stimme: Liebe Ziegenmutter. Ich bin hier.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S48,Da guckt die Ziegenmutter in den Uhrenkasten. Und findet das 7. Ziegenkind. Das 7. Ziegenkind weint.,negative,no  ,negative,no,negative-positive,yes,positive,no,negative,no
+3-DerWolf,S49,Und das 7. Ziegenkind sagt: Der Wolf war hier. Und der Wolf hat die anderen Ziegenkinder gefressen.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S50,Jetzt weint auch die Ziegenmutter. Die Ziegenmutter geht nach draußen. Und das 7. Ziegenkind geht mit.,negative,no  ,negative,no,negative,no,negative,no,negative,no
+3-DerWolf,S51,Die Ziegenmutter sieht den Wolf: Der Wolf liegt unter einem Baum. Der Wolf schläft. Und der Wolf schnarcht laut.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S52,Die Ziegenmutter guckt sich den Wolf genau an: Der Wolf hat einen dicken Bauch. Der Bauch vom Wolf bewegt sich.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S53,Die Ziegenmutter denkt: Meine Ziegenkinder leben noch.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S54,Die Ziegenmutter sagt zum 7. Ziegenkind: Hol mir eine Schere. Und eine Nadel. Und einen Faden.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S55,Das 7. Ziegenkind holt diese Dinge. Die Ziegenmutter nimmt jetzt die Schere. Und die Ziegenmutter schneidet den Bauch vom Wolf auf.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S56,Die Ziegenmutter sieht das 1. Ziegenkind. Das 1. Ziegenkind bewegt sich. Und das 1. Ziegenkind lebt.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S57,Die Ziegenmutter schneidet weiter. Die Ziegenmutter sieht: Alle Ziegenkinder bewegen sich. Und alle Ziegenkinder leben.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S58,Die Ziegenkinder klettern aus dem Bauch vom Wolf. Die Ziegenmutter umarmt ihre Ziegenkinder.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S59,Die Ziegenkinder freuen sich. Und die Ziegenkinder tanzen.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S60,Aber die Ziegenmutter sagt: Holt schnell große Steine. Die Steine legen wir in den Bauch vom Wolf.,neutral,no  ,neutral,no,neutral,no,negative,no,neutral,no
+3-DerWolf,S61,Der Wolf soll denken: Die Steine sind Ziegenkinder. Beeilt euch. Vielleicht wacht der Wolf gleich auf.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S62,Die Ziegenkinder holen große Steine. Und die Ziegenkinder legen die Steine in den Bauch vom Wolf.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S63,Die Ziegenmutter nimmt den Faden. Und die Ziegenmutter nimmt die Nadel. Und die Ziegenmutter näht den Bauch vom Wolf zu.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S64,Der Wolf merkt nichts. Der Wolf schläft weiter.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S65,Die Ziegenmutter sagt zu ihren Ziegenkindern: Jetzt gehen wir schnell ins Haus. Und wir sehen dem Wolf vom Haus aus zu.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S66,Nach einer Weile wacht der Wolf auf. Der Wolf hat Durst. Die Steine im Bauch haben den Wolf durstig gemacht. Der Wolf geht zum Brunnen.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S67,Die Steine bewegen sich im Bauch vom Wolf. Der Wolf denkt: Mein Bauch ist voll mit Ziegenkindern. Die Ziegenkinder sind schwer. So wie Steine.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S68,Der Wolf will aus dem Brunnen trinken. Deshalb lehnt sich der Wolf über den Rand vom Brunnen. Aber die Steine im Bauch vom Wolf sind schwer.,neutral,no  ,neutral,no,neutral,no,neutral,no,neutral,no
+3-DerWolf,S69,Die Steine ziehen den Wolf in den Brunnen. Der Wolf verliert das Gleichgewicht. Der Wolf kann sich nicht festhalten. Der Wolf fällt in den Brunnen. Und ertrinkt.,negative,no  ,positive,no,positive,no,negative,no,multi,yes
+3-DerWolf,S70,Die Ziegenkinder sehen das. Und die Ziegenkinder sind sehr froh: Jetzt kann ihnen der böse Wolf nichts mehr tun.,negative-positive,yes  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S71,Die Ziegenkinder laufen zum Brunnen. Und die Ziegenmutter läuft mit.,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S72,Die Ziegenmutter und die Ziegenkinder tanzen um den Brunnen. Und rufen: Der Wolf ist tot! Der Wolf ist tot!,positive,no  ,positive,no,positive,no,positive,no,positive,no
+3-DerWolf,S73,Das war das Märchen vom Wolf und den 7 Geißlein.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S1,Schneewittchen und die 7 Zwerge. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Schneewittchen. Das Märchen geht so:,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S2,Ein König und eine Königin leben in einem Schloss. Die Königin bekommt eine Tochter. Die Tochter ist sehr schön:,positive,no,positive,no,positive,no,neutral,no,positive,no
+4-Schneewittchen,S3,Die Tochter hat schwarze Haare. Und rote Lippen. Und ihre Haut ist so weiß wie Schnee. Deshalb bekommt die Tochter den Namen: Schneewittchen. ,positive,no,positive,no,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S4,Schneewittchen ist nur wenige Tage alt. Da stirbt die Königin. Die Geburt war nämlich sehr schwer.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S5,Ein Jahr vergeht. Da heiratet der König eine neue Frau.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S6,Die neue Frau ist jetzt die Königin. Die neue Königin ist schön. Und auf ihre Schönheit ist die neue Königin sehr stolz. ,neutral,no,neutral,no,positive,no,neutral,no,neutral,no
+4-Schneewittchen,S7,Deshalb darf niemand schöner sein als die Königin. Sonst wird die Königin sehr böse.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S8,Die Königin hat einen besonderen Spiegel. Der Spiegel kann sprechen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S9,Und so fragt die Königin den Spiegel jeden Tag: Mein lieber Spiegel an der Wand: Wer ist die Schönste im ganzen Land?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S10,Und der Spiegel antwortet: Frau Königin: Du bist die Schönste im Land. Aber Schneewittchen ist noch viel schöner als du.,negative-neutral,yes,neutral,no,negative,no,neutral,no,neutral,no
+4-Schneewittchen,S11,Da wird die Königin wütend. Die Königin ist neidisch auf Schneewittchen. Die Königin will nämlich die Schönste sein.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S12,So ruft die Königin einen Jäger zu sich. Die Königin sagt zum Jäger: Ich kann Schneewittchen nicht mehr sehen. Bring Schneewittchen in den Wald. Und töte Schneewittchen. ,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S13,Dann bring mir das Herz von Schneewittchen. Und auch ihre Leber. So weiß ich: Schneewittchen ist tot.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S14,Der Jäger hat Angst vor der Königin. Deshalb gehorcht der Jäger. Der Jäger geht mit Schneewittchen in den Wald. Der Jäger hat ein großes Messer dabei.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S15,Mit dem Messer will der Jäger Schneewittchen töten. Aber Schneewittchen weint viele Tränen.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S16,Und sagt: Lieber Jäger: Bitte tu mir nichts. Ich laufe in den Wald. Und ich komme nie mehr zurück.,negative-neutral,yes,negative,no,negative,no,neutral,no,negative,no
+4-Schneewittchen,S17,Der Jäger mag Schneewittchen sehr. Deshalb antwortet der Jäger: Lauf weg. Aber komm nie zurück.,neutral-positive,yes,positive,no,neutral-positive,yes,neutral,no,multi,yes
+4-Schneewittchen,S18,Und so läuft Schneewittchen in den tiefen Wald.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S19,Der Jäger denkt: Die Königin wird mich bestrafen. Deshalb tötet der Jäger ein Wildschwein. ,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S20,Der Jäger nimmt das Herz und die Leber vom Wildschwein. Und bringt es der Königin.,neutral,no,neutral,no,negative,no,neutral,no,neutral,no
+4-Schneewittchen,S21,Die Königin will das Herz und die Leber essen. Deshalb muss der Koch das Herz und die Leber kochen. Der Koch bringt das Essen.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S22,Und die Königin denkt: Ich esse das Herz und die Leber von Schneewittchen. Jetzt ist Schneewittchen tot.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S23,Aber Schneewittchen ist nicht tot. Schneewittchen läuft durch den tiefen Wald. Schneewittchen ist ganz allein. Und Schneewittchen hat große Angst.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S24,Schneewittchen kommt zu einem Häuschen. Ein Häuschen ist ein kleines Haus. Schneewittchen geht in das Häuschen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S25,Und auch in dem Häuschen ist alles sehr klein. In dem Häuschen wohnen nämlich Zwerge.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S26,Aber das weiß Schneewittchen nicht. Die Zwerge sind nämlich nicht zu Hause.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S27,In dem Häuschen ist es sauber. Und es gibt einen kleinen Tisch.,positive,no,positive,no,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S28,Auf dem Tisch stehen 7 kleine Teller. Und 7 kleine Becher. Und unter dem Dach sind 7 kleine Betten.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S29,Schneewittchen ist sehr hungrig. Und durstig. Deshalb nimmt Schneewittchen von jedem Teller ein bisschen. So nimmt Schneewittchen niemandem zu viel weg.,neutral-positive,yes,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S30,Dann ist Schneewittchen müde. Schneewittchen legt sich in ein kleines Bett. Und schläft sofort ein.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S31,Draußen ist es schon dunkel. Jetzt kommen die Zwerge nach Hause.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S32,Die Zwerge machen das Licht an. Und die Zwerge denken: Jemand war in unserem Haus!,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S33,Die Zwerge rufen: Wer hat auf unseren Stühlen gesessen? Und wer hat von unseren Tellern gegessen? Und wer hat aus unseren Bechern getrunken?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S34,Plötzlich ruft ein Zwerg: In meinem Bett liegt ein Mädchen! Das Mädchen ist sehr schön. Das Mädchen schläft!,positive,no,positive,no,positive,no,neutral,no,positive,no
+4-Schneewittchen,S35,Die Zwerge lassen Schneewittchen schlafen. Am nächsten Morgen wacht Schneewittchen auf. Schneewittchen sieht die 7 Zwerge. Schneewittchen erschreckt sich.,negative-neutral,yes,negative-neutral,yes,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S36,Aber die 7 Zwerge sind sehr nett zu Schneewittchen.,positive,no,positive,no,positive,no,positive,no,positive,no
+4-Schneewittchen,S37,Die 7 Zwerge fragen: Wie heißt du? Schneewittchen antwortet: Ich heiße Schneewittchen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S38,Die Zwerge sagen: Wir sind die 7 Zwerge. Und wir wohnen hinter den 7 Bergen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S39,Dann fragen die Zwerge: Wie kommst du in unser Häuschen?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S40,Und Schneewittchen erzählt von der Königin. Schneewittchen sagt: Ich kann nicht ins Schloss zurück.,negative,no,negative,no,negative,no,neutral,no,negative,no
+4-Schneewittchen,S41,Die böse Königin will mich töten. Deshalb bin ich weggelaufen. Dann habe ich euer Häuschen gefunden.,negative-positive,yes,negative-positive,yes,negative,no,negative,no,multi,yes
+4-Schneewittchen,S42,Die Zwerge sagen: Du kannst gerne bei uns bleiben. Aber dafür musst du unser Häuschen sauber machen. Und für uns das Essen kochen.,positive,no,positive,no,positive,no,neutral,no,positive,no
+4-Schneewittchen,S43,Und so bleibt Schneewittchen bei den 7 Zwergen. Hinter den 7 Bergen. Die Zwerge arbeiten den ganzen Tag. Deshalb ist Schneewittchen oft alleine.,neutral,no,negative-neutral,yes,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S44,Die Zwerge sagen zu Schneewittchen: Pass gut auf dich auf. Und lass niemanden in das Häuschen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S45,Schneewittchen ist bei den 7 Zwergen im Wald. Und die böse Königin ist im Schloss.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S46,Die Königin denkt: Schneewittchen ist tot. Und ich bin die Schönste im ganzen Land.,negative,no,negative,no,positive,no,neutral,no,negative,no
+4-Schneewittchen,S47,Deshalb fragt die Königin ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S48,Und der Spiegel antwortet: Frau Königin: Du bist die Schönste im Land.,neutral,no,neutral,no,positive,no,neutral,no,neutral,no
+4-Schneewittchen,S49,Aber Schneewittchen wohnt hinter den Bergen. Bei den 7 Zwergen. Und Schneewittchen ist noch viel schöner als du.,negative-neutral,yes,negative-positive,yes,negative,no,neutral,no,multi,yes
+4-Schneewittchen,S50,Die Königin ist wütend. Die Königin weiß jetzt: Der Jäger hat gelogen.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S51,Der Jäger hat Schneewittchen nicht getötet. Deshalb will die Königin Schneewittchen jetzt selber töten.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S52,Die Königin verkleidet sich. Das heißt: Die Königin zieht alte Sachen an. Und die Königin malt ihr Gesicht an.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S53,Jetzt sieht die Königin aus wie eine alte Marktfrau. So kann niemand die Königin erkennen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S54,Die Königin geht in den Wald. Die Königin geht zum Haus von den 7 Zwergen. Die Königin klopft an die Tür.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S55,Und ruft: Liebes Mädchen! Ich verkaufe schöne Dinge!,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S56,Schneewittchen schaut aus dem Fenster. Aber Schneewittchen erkennt die böse Königin nicht.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S57,Schneewittchen sagt: Was verkaufst du?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S58,Die Königin antwortet: Ich verkaufe Gürtel. Die Gürtel sind sehr schön. Du kannst einen Gürtel anprobieren!,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S59,Schneewittchen findet die verkleidete Königin nett. Deshalb öffnet Schneewittchen die Tür.,neutral-positive,yes,negative-positive,yes,neutral,no,positive,no,multi,yes
+4-Schneewittchen,S60,Die verkleidete Königin zieht Schneewittchen den Gürtel an. Und macht den Gürtel fester.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S61,Schneewittchen bekommt keine Luft mehr. Schneewittchen fällt zu Boden.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S62,Die böse Königin denkt: Endlich ist Schneewittchen tot! Jetzt bin ich wieder die Schönste im Land.,negative,no,negative,no,positive,no,negative,no,negative,no
+4-Schneewittchen,S63,Am Abend kommen die Zwerge nach Hause. Die Zwerge finden Schneewittchen. Und denken: Schneewittchen ist tot!,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S64,Dann sehen die Zwerge den Gürtel: Der Gürtel ist viel zu eng.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S65,Die Zwerge schneiden den Gürtel auf. Jetzt kann Schneewittchen wieder atmen. Schneewittchen öffnet die Augen. ,negative-positive,yes,negative-positive,yes,positive,no,positive,no,multi,yes
+4-Schneewittchen,S66,Die Zwerge fragen: Was ist passiert? Und Schneewittchen erzählt von der Marktfrau.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S67,Die Zwerge sagen: Das war die böse Königin. Die Königin hat sich bestimmt verkleidet.,negative,no,negative,no,negative,no,neutral,no,negative,no
+4-Schneewittchen,S68,Liebes Schneewittchen: Du darfst niemandem die Tür öffnen!,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S69,Die böse Königin geht zurück zum Schloss. Und fragt ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S70,Und der Spiegel antwortet: Frau Königin: Du bist die Schönste im Land.,neutral,no,positive,no,positive,no,neutral,no,multi,yes
+4-Schneewittchen,S71,Aber Schneewittchen wohnt hinter den Bergen. Bei den 7 Zwergen. Und Schneewittchen ist noch viel schöner als du.,negative-neutral,yes,negative,no,negative,no,neutral,no,negative,no
+4-Schneewittchen,S72,Die Königin ist wütend. Jetzt weiß die Königin nämlich: Schneewittchen lebt immer noch. ,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S73,Aber Schneewittchen soll sterben. Die Königin will nämlich die Schönste sein.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S74,Deshalb macht die Königin einen neuen Plan: Die Königin nimmt einen Kamm. Die Königin legt den Kamm in einen Topf mit Gift. So wird der Kamm giftig.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S75,Dann verkleidet die Königin sich wieder: Die Königin zieht andere Sachen an. Und die Königin malt ihr Gesicht an.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S76,So geht die Königin in den Wald. Die Königin geht zum Haus von den Zwergen. Die Königin klopft an die Tür. ,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S77,Und ruft: Liebes Mädchen! Ich verkaufe schöne Dinge.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S78,Schneewittchen schaut aus dem Fenster. Schneewittchen erkennt die Königin nicht.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S79,Aber Schneewittchen weiß: Die Zwerge sind nicht zu Hause. Ich darf niemandem die Tür öffnen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S80,Schneewittchen sagt zu der verkleideten Königin: Geh weiter. Ich darf niemanden ins Haus lassen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S81,Die verkleidete Königin antwortet: Du musst mich nicht ins Haus lassen. Ich verkaufe die Sachen am Fenster.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S82,Die Königin zeigt Schneewittchen einen Kamm. Der Kamm ist giftig. Aber das weiß Schneewittchen nicht.,negative,no,negative,no,neutral,no,negative,no,negative,no
+4-Schneewittchen,S83,Schneewittchen findet den Kamm sehr schön. Schneewittchen kauft den Kamm. ,neutral,no,positive,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S84,Und die verkleidete Königin kämmt Schneewittchen mit dem giftigen Kamm die Haare.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S85,Das Gift wirkt sofort: Schneewittchen fällt zu Boden.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S86,Die Königin denkt: Jetzt ist Schneewittchen endlich tot!,negative,no,negative,no,positive,no,negative,no,negative,no
+4-Schneewittchen,S87,Am Abend kommen die 7 Zwerge nach Hause. Die Zwerge finden Schneewittchen.,negative,no,negative,no,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S88,Die Zwerge denken: Die böse Königin war hier. Aber vielleicht können wir Schneewittchen helfen.,negative-positive,yes,negative-positive,yes,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S89,Die Zwerge suchen alles ab. Die Zwerge finden den Kamm. Die Zwerge ziehen den Kamm aus den Haaren von Schneewittchen.,positive,no,positive,no,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S90,Schneewittchen öffnet die Augen. Und Schneewittchen erzählt von der verkleideten Frau.,positive,no,positive,no,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S91,Die Zwerge sagen: Das war die böse Königin. Du hast die böse Königin wieder nicht erkannt!,negative,no,neutral,no,negative,no,neutral,no,multi,yes
+4-Schneewittchen,S92,Du musst besser aufpassen! Und du darfst niemandem die Tür öffnen!,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S93,Die böse Königin geht zurück zum Schloss. Und fragt ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land? ,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S94,Und der Spiegel antwortet: Frau Königin: Du bist die Schönste im Land.,neutral,no,positive,no,positive,no,neutral,no,multi,yes
+4-Schneewittchen,S95,Aber Schneewittchen wohnt hinter den Bergen. Bei den 7 Zwergen. Und Schneewittchen ist noch viel schöner als du.,negative-neutral,yes,negative,no,negative,no,neutral,no,negative,no
+4-Schneewittchen,S96,Jetzt wird die Königin wütend. Und schreit: Schneewittchen muss sterben!,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S97,Die Königin nimmt einen Apfel. Der Apfel sieht sehr lecker aus. Aber der Apfel ist giftig. Die Königin hat die eine Hälfte vom Apfel vergiftet.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S98,Die Königin verkleidet sich wieder. Die Königin zieht andere Sachen an. Und die Königin malt ihr Gesicht an.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S99,So geht die Königin in den Wald. Die Königin geht bis zum Haus von den 7 Zwergen. Die Königin klopft an die Tür.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S100,Aber Schneewittchen sagt: Die Zwerge sind nicht zu Hause. Ich darf die Tür nicht öffnen!,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S101,Die Königin antwortet: Das ist schade. Ich habe nämlich sehr schöne Äpfel. Ich möchte dir einen Apfel schenken.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S102,Schneewittchen sagt: Ich darf den Apfel nicht nehmen. Die Königin antwortet: Du musst keine Angst haben.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S103,Der Apfel hat 2 Hälften: Eine Hälfte ist rot. Die andere Hälfte ist weiß,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S104,Ich schneide den Apfel in der Mitte durch. Du kannst die rote Hälfte essen. Und ich esse die weiße Hälfte.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S105,So weißt du: Der Apfel ist nicht giftig. Ich esse den Apfel nämlich auch.,neutral,no,negative,no,neutral-positive,yes,neutral,no,neutral,no
+4-Schneewittchen,S106,Die Königin beißt in die weiße Hälfte vom Apfel. Die weiße Hälfte ist nämlich nicht giftig.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S107,Aber Schneewittchen beißt in die rote Hälfte vom Apfel. Und nur die rote Hälfte ist giftig. ,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S108,Das Gift wirkt sofort: Schneewittchen fällt zu Boden.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S109,Die Königin lacht laut. Und sagt: Die Zwerge können dir nicht helfen. Jetzt bist du für immer tot.,negative,no,negative,no,positive,no,negative,no,negative,no
+4-Schneewittchen,S110,Die Königin geht zurück zum Schloss. Und fragt ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S111,Der Spiegel antwortet: Frau Königin: Du bist die Schönste im ganzen Land.,neutral,no,positive,no,positive,no,neutral,no,multi,yes
+4-Schneewittchen,S112,Jetzt ist die Königin die Schönste von allen. Deshalb ist die Königin sehr glücklich.,positive,no,positive,no,positive,no,positive,no,positive,no
+4-Schneewittchen,S113,Am Abend kommen die Zwerge nach Hause. Die Zwerge finden Schneewittchen auf dem Boden. Schneewittchen atmet nicht mehr.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S114,Die Zwerge denken: Die Königin hat Schneewittchen vergiftet! Wir müssen Schneewittchen helfen!,negative,no,negative,no,negative,no,neutral,no,negative,no
+4-Schneewittchen,S115,Die Zwerge suchen das Gift. Aber die Zwerge können das Gift nicht finden. Deshalb sind die Zwerge sehr traurig.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S116,Jetzt wissen die Zwerge: Schneewittchen ist tot!,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S117,Die Zwerge wollen Schneewittchen beerdigen. Aber die Zwerge denken: Schneewittchen ist so schön.,negative-positive,yes,negative-positive,yes,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S118,Wir können Schneewittchen nicht unter die Erde legen. Deshalb bekommt Schneewittchen einen Sarg aus Glas. So können wir Schneewittchen immer sehen.,negative-neutral,yes,positive,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S119,Die Zwerge legen Schneewittchen in einen Sarg aus Glas. Und bringen den Sarg mit Schneewittchen in den Wald.,neutral,no,negative,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S120,Die Zwerge besuchen Schneewittchen jeden Tag.,neutral,no,positive,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S121,Die Tage vergehen. Ein Prinz reitet durch den Wald. Der Prinz sieht den Sarg aus Glas.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S122,Und der Prinz sieht Schneewittchen in dem Sarg liegen. Der Prinz verliebt sich sofort in das schöne Schneewittchen.,positive,no,positive,no,positive,no,positive,no,positive,no
+4-Schneewittchen,S123,Deshalb reitet der Prinz zu den Zwergen. Und sagt: Bitte gebt mir Schneewittchen. Ich nehme Schneewittchen mit auf mein Schloss.,positive,no,positive,no,positive,no,neutral,no,positive,no
+4-Schneewittchen,S124,Die Zwerge antworten: Wir mögen Schneewittchen so sehr. Wir können dir Schneewittchen nicht geben.,negative-positive,yes,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S125,Der Prinz sagt: Bitte gebt mir Schneewittchen. Oder ich werde für immer traurig sein.,negative-neutral,yes,negative,no,negative,no,neutral,no,negative,no
+4-Schneewittchen,S126,Das wollen die Zwerge nicht. Deshalb entscheiden die Zwerge: Der Prinz darf Schneewittchen mitnehmen.,positive,no,positive,no,positive,no,neutral,no,positive,no
+4-Schneewittchen,S127,Der Prinz möchte Schneewittchen in sein Schloss bringen. Deshalb ruft der Prinz seine Diener.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S128,Die Diener helfen dem Prinzen den Sarg mit Schneewittchen ins Schloss zu tragen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S129,Auf dem Weg stolpert ein Diener über einen Stein. Und lässt den Sarg fallen. Der Sarg fällt auf die Erde.,negative,no,negative,no,neutral,no,negative,no,negative,no
+4-Schneewittchen,S130,Und Schneewittchen bekommt einen Ruck. Plötzlich fällt ein Stück Apfel aus dem Mund von Schneewittchen.,neutral-positive,yes,positive,no,neutral,no,negative,no,multi,yes
+4-Schneewittchen,S131,Schneewittchen hat das Apfelstück nicht geschluckt. Und der giftige Apfel hat Schneewittchen nicht getötet.,positive,no,positive,no,positive,no,neutral,no,positive,no
+4-Schneewittchen,S132,Schneewittchen öffnet die Augen. Und fragt: Wo bin ich?,positive,no,positive,no,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S133,Der Prinz antwortet: Du bist bei mir. Ich bin ein Prinz.,positive,no,positive,no,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S134,Und ich nehme dich mit auf mein Schloss. Du sollst meine Prinzessin sein. Willst du mich heiraten?,positive,no,positive,no,positive,no,positive,no,positive,no
+4-Schneewittchen,S135,Schneewittchen ist glücklich. Und Schneewittchen will den Prinzen heiraten. Es gibt ein großes Fest.,positive,no,positive,no,positive,no,positive,no,positive,no
+4-Schneewittchen,S136,Zu dem Fest sind viele Gäste eingeladen. Und auch die böse Königin ist eingeladen. Die böse Königin kennt den Prinzen nämlich nicht.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S137,Die Königin denkt: Schneewittchen ist tot. Und ich bin die Schönste im ganzen Land.,negative,no,positive,no,positive,no,negative,no,multi,yes
+4-Schneewittchen,S138,Auf dem Fest wird keine Frau schöner sein als ich.,negative,no,positive,no,positive,no,negative,no,multi,yes
+4-Schneewittchen,S139,Und so fragt die Königin ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+4-Schneewittchen,S140,Und der Spiegel antwortet: Frau Königin: Du bist die schönste im Land. Aber die Prinzessin ist noch viel schöner als du.,negative-neutral,yes,negative,no,negative,no,neutral,no,negative,no
+4-Schneewittchen,S141,Die Königin ist wütend. Und die Königin will diese Prinzessin sehen. Deshalb geht die Königin zu dem Fest.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S142,Auf dem Fest sieht die böse Königin: Schneewittchen ist die schöne Prinzessin.,positive,no,positive,no,neutral,no,neutral,no,multi,yes
+4-Schneewittchen,S143,Der Spiegel hat die Wahrheit gesagt. Schneewittchen lebt. Und Schneewittchen ist wunderschön. Die Königin hat verloren.,negative-positive,yes,negative-positive,yes,negative,no,positive,no,multi,yes
+4-Schneewittchen,S144,Schneewittchen sieht die böse Königin. Und denkt: Die böse Königin wollte mich töten. Deshalb werde ich die böse Königin bestrafen.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S145,Schneewittchen gibt der bösen Königin schwere Schuhe. Die böse Königin muss mit den schweren Schuhen tanzen.,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S146,Die Königin hat große Schmerzen. Die Schuhe sind nämlich sehr schwer,negative,no,negative,no,negative,no,negative,no,negative,no
+4-Schneewittchen,S147,Aber die böse Königin muss immer weiter tanzen. Dann fällt die Königin zu Boden. Die böse Königin ist tot.,negative,no,negative,no,negative,no,positive,no,negative,no
+4-Schneewittchen,S148,Jetzt muss Schneewittchen nie wieder Angst vor der bösen Königin haben.,positive,no,positive,no,positive,no,positive,no,positive,no
+4-Schneewittchen,S149,Schneewittchen ist glücklich. Und der Prinz ist glücklich. Und auch die Zwerge sind glücklich.,positive,no,positive,no,positive,no,positive,no,positive,no
+4-Schneewittchen,S150,Alle leben noch viele Jahre lang. Das war das Märchen von Schneewittchen.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S1,Hänsel und Gretel. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt:  änsel und Gretel. Das Märchen geht so:,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S2,Eine Familie lebt an einem großen Wald. Der Vater hat 2 Kinder: Der Junge heißt Hänsel. Und das Mädchen heißt Gretel.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S3,Die Mutter von Hänsel und Gretel ist gestorben. Jetzt hat der Vater eine neue Frau. Diese Frau ist die Stiefmutter von Hänsel und Gretel.,negative,no,negative,no,neutral,no,negative,no,negative,no
+5-HaenselUndGretel,S4,Die Familie ist arm. Und die Familie hat nur wenig zu essen. Deshalb macht sich der Vater große Sorgen.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S5,Der Vater fragt seine neue Frau: Was soll aus uns werden? Wir haben nichts zu essen für meine armen Kinder.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S6,Seine Frau antwortet: Morgen bringen wir Hänsel und Gretel in den Wald. Alleine werden Hänsel und Gretel nicht den Weg nach Hause finden. Dann sind wir Hänsel und Gretel los.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S7,Der Vater antwortet: Ich will meine Kinder nicht im Wald lassen. Die wilden Tiere werden die Kinder fressen.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S8,Seine Frau antwortet: Du Dummkopf. Wir sind arm.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S9,Wir können nicht genug Essen für uns alle kaufen. Hänsel und Gretel müssen weg.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S10,Hänsel und Gretel liegen im Bett. Aber Hänsel und Gretel sind noch wach.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S11,Deshalb haben Hänsel und Gretel alles gehört. Gretel ist sehr traurig.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S12,Hänsel tröstet Gretel: Mach dir keine Sorgen. Morgen bringen uns Vater und die Stiefmutter in den Wald.,negative-positive,yes,neutral,no,negative-positive,yes,negative,no,multi,yes
+5-HaenselUndGretel,S13,Aber ich nehme kleine weiße Steine vom Hof mit. Die kleinen weißen Steine lasse ich auf den Weg fallen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S14,Dann werden uns die kleinen weißen Steine den Weg nach Hause zeigen.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S15,Es ist der nächste Morgen. Die Stiefmutter weckt Hänsel und Gretel: Ihr faulen Kinder!,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S16,Steht auf. Wir wollen in den Wald gehen. Und Holz sammeln.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S17,Die Familie geht in den Wald. Hänsel hat kleine weiße Steine vom Hof in seinen Hosen·taschen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S18,Und Hänsel lässt die kleinen weißen Steine auf den Weg fallen. So wie Hänsel es Gretel versprochen hat.,positive,no,positive,no,positive,no,neutral,no,positive,no
+5-HaenselUndGretel,S19,Im Wald sagt die Stiefmutter zu Hänsel und Gretel: Ihr wartet hier. Wir gehen Holz sammeln. Wir holen euch später ab.,negative,no,neutral,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S20,Aber der Vater und die Stiefmutter gehen ohne Hänsel und Gretel nach Hause.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S21,Jetzt sind Hänsel und Gretel allein im Wald. Hänsel und Gretel sind sehr müde. Und Hänsel und Gretel schlafen ein.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S22,Es ist dunkle Nacht. Hänsel und Gretel wachen auf. Hänsel und Gretel wollen nach Hause.,neutral,no,neutral,no,negative,no,negative,no,multi,yes
+5-HaenselUndGretel,S23,Zum Glück scheint der Mond hell. So können Hänsel und Gretel die kleinen weißen Steine auf dem Weg sehen.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S24,Und Hänsel und Gretel finden den Weg nach Hause. Hänsel und Gretel kommen zu Hause an. Hänsel und Gretel umarmen den Vater.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S25,Der Vater freut sich sehr. Der Vater hat seine 2 Kinder nämlich vermisst. Aber die Stiefmutter ärgert sich.,negative-positive,yes,negative-positive,yes,negative-positive,yes,negative-positive,yes,multi,yes
+5-HaenselUndGretel,S26,Wenige Tage später: Die Familie hat wieder nichts zu essen. Die Stiefmutter will Hänsel und Gretel wieder in den Wald schicken.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S27,Dieses Mal hat Hänsel keine kleinen weißen Steine. Die Stiefmutter hat nämlich abends die Tür zum Hof abgeschlossen.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S28,Deshalb kann Hänsel keine kleinen weißen Steine vom Hof holen.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S29,Aber Hänsel hat Brotkrümel. Die Familie geht in den Wald. Und Hänsel lässt die Brotkrümel auf den Weg fallen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S30,Im Wald sagt die Stiefmutter zu Hänsel und Gretel: Ihr wartet hier. Wir gehen Holz sammeln. Wir holen euch später ab.,negative,no,neutral,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S31,Aber der Vater und die Stiefmutter gehen ohne Hänsel und Gretel nach Hause.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S32,Jetzt sind Hänsel und Gretel allein im Wald. Hänsel und Gretel sind sehr müde. Und Hänsel und Gretel schlafen ein.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S33,Es ist dunkle Nacht. Hänsel und Gretel wachen auf. Hänsel und Gretel wollen nach Hause.,neutral,no,neutral,no,negative,no,negative,no,multi,yes
+5-HaenselUndGretel,S34,Zum Glück scheint der Mond hell. So können Hänsel und Gretel vielleicht die Brotkrümel auf dem Weg sehen.,neutral,no,neutral,no,neutral,no,positive,no,neutral,no
+5-HaenselUndGretel,S35,Aber Hänsel und Gretel sehen die Brotkrümel auf dem Weg nicht. Die Brotkrümel sind weg. Vögel haben die Brotkrümel gegessen.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S36,Hänsel und Gretel laufen durch den Wald: Hänsel und Gretel suchen den Weg nach Hause.,neutral,no,neutral,no,negative,no,neutral,no,neutral,no
+5-HaenselUndGretel,S37,Aber Hänsel und Gretel finden den Weg nach Hause nicht. So laufen Hänsel und Gretel 3 Tage lang durch den Wald.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S38,Hänsel und Gretel sind hungrig. Und Hänsel und Gretel frieren.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S39,Nach einer Weile sehen Hänsel und Gretel einen kleinen Vogel auf einem Ast. Der kleine Vogel singt wunderschön.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S40,Dann fliegt der kleine Vogel weiter. Hänsel und Gretel laufen dem kleinen Vogel nach.,neutral,no,neutral,no,neutral,no,positive,no,neutral,no
+5-HaenselUndGretel,S41,Dann kommen Hänsel und Gretel zu einem Häuschen. Ein Häuschen ist ein kleines Haus.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S42,Das Häuschen ist mitten im Wald. Das Häuschen ist aus Brot. Und Zucker. Und das Dach von dem Häuschen ist mit Leb·kuchen bedeckt.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S43,Hänsel sagt zu Gretel: Das Häuschen sieht lecker aus. Und ich bin sehr hungrig.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S44,Lass uns ein Stück vom Häuschen essen. Ich esse ein Stück vom Dach.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S45,Hänsel und Gretel essen ein Stück vom Häuschen. Plötzlich hören Hänsel und Gretel eine Stimme. Die Stimme kommt aus dem Häuschen:,negative-positive,yes,neutral,yes,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S46,Knusper knusper Knäuschen. Wer knuspert an meinem Häuschen?,negative,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S47,Hänsel und Gretel antworten: Der Wind. Der Wind. Das himmlische Kind. Dann essen Hänsel und Gretel weiter.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S48,Die Tür vom Häuschen geht auf. Und eine alte Frau kommt aus dem Häuschen. Hänsel und Gretel erschrecken sich.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S49,Aber die alte Frau sagt: Liebe Kinder! Kommt herein. Habt keine Angst.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S50,Hänsel und Gretel gehen mit der alten Frau ins Häuschen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S51,Die alte Frau ist sehr nett zu Hänsel und Gretel.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S52,Die alte Frau gibt Hänsel und Gretel zu essen: Milch. Und Pfannkuchen. Äpfel. Und Nüsse.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S53,Dann gehen Hänsel und Gretel ins Bett. Hänsel und Gretel sind sehr glücklich. Und denken: Die alte Frau ist nett.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S54,Aber das ist falsch: Die alte Frau ist nämlich eine böse Hexe. Und die böse Hexe will Hänsel und Gretel essen.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S55,Es ist der nächste Tag. Jetzt ist die Hexe nicht mehr nett zu Hänsel und Gretel.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S56,Die Hexe ist böse. Die Hexe packt Hänsel. Und die Hexe sperrt Hänsel in einen Käfig.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S57,Der Käfig hat ein Gitter. Deshalb kann Hänsel nicht aus dem Käfig heraus.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S58,Dann sagt die Hexe zu Gretel: Du faules Mädchen! Mach dich an die Arbeit! Koch Essen!,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S59,Hänsel soll nämlich fett werden. Dann kann ich Hänsel essen.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S60,Gretel weint viele Tränen. Aber Gretel muss auf die Hexe hören.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S61,Jeden Morgen kommt die Hexe zu Hänsel. Und die Hexe fragt: Bist du schon fett?,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S62,Zeig mir deine Finger. Ich will deine Finger fühlen.,neutral,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S63,Aber Hänsel ist schlau: Hänsel steckt nicht seine Finger durch das Gitter. Hänsel steckt einen dünnen Knochen durch das Gitter.,positive,no,positive,no,neutral,no,positive,no,positive,no
+5-HaenselUndGretel,S64,Die Hexe hat nämlich schlechte Augen. Deshalb sieht die Hexe den Knochen nicht.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S65,Und die Hexe denkt: Hänsel ist immer noch zu dünn.,neutral,no,neutral,no,negative,no,negative,no,multi,yes
+5-HaenselUndGretel,S66,Die Zeit vergeht: Hänsel und Gretel sind viele Wochen bei der Hexe.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S67,An einem Morgen ruft die Hexe zu Gretel: Morgen will ich Hänsel im Ofen braten.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S68,Gretel denkt: Der liebe Gott soll uns beschützen! Die Hexe darf Hänsel nicht essen.,negative,no,negative,no,negative-positive,yes,positive,no,negative,no
+5-HaenselUndGretel,S69,Die arme Gretel weint viele Tränen. Aber die Hexe sagt zu Gretel: Sei still. Weinen hilft dir nicht.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S70,Am nächsten Morgen sagt die Hexe zu Gretel: Jetzt brate ich Hänsel im Ofen. Ist der Ofen heiß?,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S71,Gretel soll in den Ofen steigen. Die Hexe will Gretel nämlich in den Ofen stoßen. Gretel soll im Ofen braten.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S72,Aber Gretel ist schlau. Gretel kennt den Plan von der Hexe.,positive,no,positive,no,neutral,no,positive,no,positive,no
+5-HaenselUndGretel,S73,Und deshalb fragt Gretel die Hexe: Wie komme ich in den Ofen?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S74,Die Hexe ist wütend. Und sagt: Dummes Kind! Geh da weg. Ich zeige es dir.,negative,no,negative,no,negative,no,negative,no,negative,no
+5-HaenselUndGretel,S75,Und die Hexe macht es Gretel vor: Die Hexe steckt den Kopf in den Ofen.,negative,no,neutral,no,neutral,no,negative,no,multi,yes
+5-HaenselUndGretel,S76,Und sofort gibt Gretel der Hexe einen Stoß: Die Hexe fällt in den Ofen.,positive,no,negative-positive,yes,neutral,no,positive,no,positive,no
+5-HaenselUndGretel,S77,Gretel macht schnell die Tür vom Ofen zu. Und die böse Hexe verbrennt im Ofen.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S78,Dann läuft Gretel schnell zum Käfig. Gretel befreit Hänsel aus dem Käfig.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S79,Und ruft: Wir sind frei! Die böse Hexe ist im Ofen verbrannt!,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S80,Hänsel und Gretel umarmen sich.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S81,Dann gehen Hänsel und Gretel in das Häuschen von der Hexe: In allen Ecken stehen große Kisten.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S82,In den Kisten sind Edelsteine. Hänsel steckt sich Edelsteine in seine Hosentaschen. Und auch Gretel nimmt einige Edelsteine.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S83,Dann sagt Hänsel zu Gretel: Lass uns den Weg nach Hause suchen. Und Hänsel und Gretel laufen durch den Wald.,neutral,no,neutral,no,neutral,no,positive,no,neutral,no
+5-HaenselUndGretel,S84,Hänsel und Gretel haben Glück: Hänsel und Gretel finden endlich den Weg aus dem Wald.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S85,Nach einer Weile sehen Hänsel und Gretel das Haus vom Vater. Hänsel und Gretel kommen am Haus vom Vater an.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S86,Hänsel und Gretel gehen in das Haus hinein: Der Vater sieht Hänsel und Gretel.,positive,no,positive,no,neutral,no,positive,no,positive,no
+5-HaenselUndGretel,S87,Und der Vater ist sehr glücklich. Ohne seine Kinder war der Vater sehr traurig.,negative-positive,yes,negative-positive,yes,positive,no,positive,no,multi,yes
+5-HaenselUndGretel,S88,Die Stiefmutter ist nicht mehr da. Die Stiefmutter ist nämlich gestorben.,positive,no,neutral,no,neutral,no,neutral,no,neutral,no
+5-HaenselUndGretel,S89,Hänsel und Gretel umarmen den Vater.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S90,Dann zeigen Hänsel und Gretel dem Vater die Edelsteine.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S91,Jetzt ist die Familie reich. Und die Familie muss nie wieder Hunger leiden.,positive,no,positive,no,positive,no,positive,no,positive,no
+5-HaenselUndGretel,S92,Hänsel und Gretel und ihr Vater leben glücklich zusammen. Das war das Märchen von Hänsel und Gretel.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S1,Dornröschen. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Dornröschen. Das Märchen geht so:,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S2,Ein König und eine Königin wünschen sich ein Kind. An einem Morgen badet die Königin. Da kommt ein Frosch.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S3,Der Frosch sagt zur Königin: Du bekommst noch in diesem Jahr ein Kind.,positive,no,positive,no,positive,no,neutral,no,positive,no
+6-Dornroeschen,S4,Und der Frosch hat recht: Die Königin bekommt noch im gleichen Jahr ein Mädchen. Das Mädchen heißt: Dornröschen.,positive,no,positive,no,positive,no,neutral,no,positive,no
+6-Dornroeschen,S5,Der König und die Königin sind sehr glücklich. Deshalb feiern der König und die Königin ein großes Fest.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S6,Zu diesem Fest lädt der König alle ein: Die Familie. Freunde. Und viele andere Gäste.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S7,Der König will auch die 13 Feen aus dem Königreich einladen. Feen können Wünsche erfüllen.,positive,no,positive,no,neutral,no,positive,no,positive,no
+6-Dornroeschen,S8,Die 13 Feen sollen Dornröschen gute Dinge wünschen.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S9,Und die 13 Feen sollen von goldenen Tellern essen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S10,Aber der König hat nur 12 goldene Teller. Deshalb lädt der König nur 12 Feen ein.,neutral,no,neutral,no,negative,no,negative,no,multi,yes
+6-Dornroeschen,S11,Das heißt: Die 13. Fee darf nicht zu dem großen Fest kommen.,negative,no,neutral,no,negative,no,negative,no,negative,no
+6-Dornroeschen,S12,Es ist der Tag von dem Fest. Viele Gäste sind gekommen. Und auch die 12 Feen sind auf dem Fest.,positive,no,positive,no,positive,no,neutral,no,positive,no
+6-Dornroeschen,S13,Die Feen sprechen ihre guten Wünsche zu Dornröschen:,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S14,Die Feen wünschen Dornröschen Schönheit. Und Freundlichkeit. Und viele andere Dinge.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S15,So sprechen 11 Feen ihre guten Wünsche.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S16,Plötzlich kommt die 13. Fee zur Tür herein. Die 13. Fee ist sehr wütend.,negative,no,negative,no,negative,no,negative,no,negative,no
+6-Dornroeschen,S17,Der König hat die 13. Fee nämlich nicht eingeladen. Der König hatte ja nur 12 goldene Teller.,neutral,no,neutral,no,negative,no,neutral,no,neutral,no
+6-Dornroeschen,S18,Jetzt sagt die 13. Fee zum König und zur Königin:,neutral,no,neutral,no,negative,no,neutral,no,neutral,no
+6-Dornroeschen,S19,An ihrem 15. Geburtstag soll sich Dornröschen an einer Spindel stechen. Und sterben.,negative,no,negative,no,negative,no,negative,no,negative,no
+6-Dornroeschen,S20,So spricht die 13. Fee ihren bösen Wunsch. Und verschwindet.,negative,no,negative,no,negative,no,negative,no,negative,no
+6-Dornroeschen,S21,Die Gäste sind erschrocken. Und alle Menschen auf dem Fest haben Angst.,negative,no,negative,no,negative,no,negative,no,negative,no
+6-Dornroeschen,S22,Aber zum Glück hat die 12. Fee ihren Wunsch noch nicht gesprochen:,positive,no,positive,no,neutral-positive,yes,positive,no,positive,no
+6-Dornroeschen,S23,Die 12. Fee kann den bösen Wunsch nicht rückgängig machen. Aber die 12. Fee kann den bösen Wunsch verwandeln.,neutral,no,neutral,no,neutral-positive,yes,positive,no,neutral,no
+6-Dornroeschen,S24,So sagt die 12. Fee: Dornröschen wird an ihrem 15. Geburtstag nicht sterben.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S25,Aber Dornröschen wird 100 Jahre schlafen. Jetzt hat auch der König Angst.,negative,no,negative,no,negative-neutral,yes,negative-neutral,yes,multi,yes
+6-Dornroeschen,S26,Und sagt: Alle Spindeln im Königreich werden verbrannt.,neutral,no,neutral,no,neutral,no,negative,no,neutral,no
+6-Dornroeschen,S27,So kann sich Dornröschen nicht an einer Spindel stechen. Und Dornröschen muss nicht 100 Jahre schlafen.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S28,Die Jahre vergehen. Und Dornröschen wird älter.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S29,Alle guten Wünsche von den 12 Feen gehen in Erfüllung:,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S30,Dornröschen ist sehr schön. Und Dornröschen ist sehr freundlich. Und alle mögen Dornröschen.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S31,Es ist der 15. Geburtstag von Dornröschen: Dornröschen ist allein. Und Dornröschen erkundet das Schloss.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S32,Dornröschen kommt zu einem alten Turm. Im Turm ist ein kleines Zimmer. Dornröschen geht in das kleine Zimmer:,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S33,Eine alte Frau sitzt an einem Spinnrad. Die alte Frau arbeitet mit einer Spindel.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S34,Dornröschen fragt die alte Frau: Was machst du da?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S35,Die alte Frau antwortet: Ich mache Wolle zu einem Faden.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S36,Dornröschen ist neugierig. Dornröschen hat noch nie eine Spindel gesehen. Dornröschen nimmt die Spindel in die Hand.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S37,Plötzlich geht der böse Wunsch von der 13. Fee in Erfüllung: Dornröschen sticht sich an der Spindel.,negative,no,negative,no,negative,no,negative,no,negative,no
+6-Dornroeschen,S38,Und Dornröschen fällt in einen tiefen Schlaf. Aber nicht nur Dorn·röschen schläft ein.,negative,no,negative,no,negative,no,neutral,no,negative,no
+6-Dornroeschen,S39,Auch die Menschen im Schloss schlafen ein: Der König und die Königin. Der Koch. Die Diener.,negative,no,negative,no,negative,no,neutral,no,negative,no
+6-Dornroeschen,S40,Und sogar die Tiere schlafen ein: Die Pferde im Stall. Die Tauben auf dem Dach. Und die Fliegen an der Wand.,negative,no,neutral,no,negative,no,neutral,no,multi,yes
+6-Dornroeschen,S41,Jetzt ist es überall still. Die Jahre vergehen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S42,Und eine Dornenhecke wächst um das Schloss. Die Dornenhecke wird jedes Jahr größer. Bis das ganze Schloss von der Dornenhecke bedeckt ist.,neutral,no,neutral,no,negative,no,neutral,no,neutral,no
+6-Dornroeschen,S43,Die Menschen im Land erzählen sich die Geschichte von Dornröschen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S44,Und viele Prinzen wollen in das Schloss. Die Prinzen wollen Dornröschen wecken.,positive,no,positive,no,positive,no,neutral,no,positive,no
+6-Dornroeschen,S45,Aber die Dornenhecke bedeckt das ganze Schloss. Und die Dornen sind sehr gefährlich.,negative,no,negative,no,negative,no,negative,no,negative,no
+6-Dornroeschen,S46,Viele Prinzen stechen sich an den Dornen. Und viele Prinzen sterben.,negative,no,negative,no,negative,no,negative,no,negative,no
+6-Dornroeschen,S47,Dornröschen schläft jetzt schon 100 Jahre. Aber kein Prinz konnte Dornröschen wecken.,negative,no,negative,no,neutral,no,negative,no,negative,no
+6-Dornroeschen,S48,Da kommt ein besonderer Prinz in das Land. Der Prinz hört die Geschichte von Dornröschen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S49,Der Prinz denkt: Viele Prinzen wollten Dornröschen wecken. Und viele Prinzen sind in der Dornenhecke gestorben.,negative,no,neutral,no,neutral,no,negative,no,multi,yes
+6-Dornroeschen,S50,Aber ich habe keine Angst. Ich werde Dornröschen wecken.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S51,Und so reitet der Prinz zum Schloss von Dornröschen. Der Prinz kommt zu dem Schloss von Dornröschen. Und der Prinz sieht die Dornenhecke.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S52,Der Prinz entdeckt einen geheimen Weg. Dieser Weg führt durch die Dornenhecke.,neutral,no,neutral,no,positive,no,neutral,no,neutral,no
+6-Dornroeschen,S53,Der Prinz geht den Weg entlang. Und der Prinz sticht sich nicht an den Dornen.,positive,no,positive,no,positive,no,neutral,no,positive,no
+6-Dornroeschen,S54,So kommt der Prinz bis ins Schloss. Im Schloss ist es ganz still. Alle schlafen nämlich.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S55,Der Prinz geht durch das Schloss. Und der Prinz findet den alten Turm.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S56,Im Turm liegt Dornröschen auf einem Bett. Und schläft.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+6-Dornroeschen,S57,Der Prinz sieht Dornröschen. Und der Prinz denkt: Dornröschen ist sehr schön.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S58,Der Prinz bückt sich zu Dornröschen herunter. Und der Prinz küsst Dornröschen.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S59,Plötzlich öffnet Dornröschen die Augen. Und Dornröschen lächelt den Prinzen an.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S60,Jetzt erwachen auch die Menschen im Schloss: Der König und die Königin. Der Koch. Die Diener.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S61,Und auch die Tiere erwachen: Die Pferde im Stall. Die Tauben auf dem Dach. Und die Fliegen an der Wand.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S62,Das Schloss ist wieder voller Leben.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S63,Dornröschen und der Prinz heiraten. Und alle Menschen im Land feiern ein großes Fest.,positive,no,positive,no,positive,no,positive,no,positive,no
+6-Dornroeschen,S64,Und Dornröschen und der Prinz leben für immer glücklich zusammen. Das war das Märchen von Dornröschen.,positive,no,positive,no,positive,no,positive,no,positive,no
+7-BremerStadtmusikanten,S1,Die Bremer Stadtmusikanten. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S2,Dieses Märchen heißt: Die Bremer Stadtmusikanten. Das Märchen geht so:,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S3,Ein Mann hat eine Mühle. Der Mann hat auch einen Esel.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S4,Der Esel trägt viele Jahre lang Getreidesäcke zur Mühle.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S5,Mit den Jahren wird der Esel alt. Und schwach.,negative,no,negative,no,negative,no,neutral,no,negative,no
+7-BremerStadtmusikanten,S6,Aber der Mann möchte keinen alten und schwachen Esel. Deshalb will der Mann den Esel töten.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S7,Das merkt der Esel. Deshalb will der Esel fortlaufen.,negative,no,negative,no,negative,no,neutral,no,negative,no
+7-BremerStadtmusikanten,S8,Der Esel will nach Bremen gehen. Bremen ist eine Stadt in Norddeutschland.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S9,In Bremen will der Esel ein Stadtmusikant werden. Musikant ist ein anderes Wort für Musiker.,positive,no,positive,no,positive,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S10,Der Esel will also in Bremen Musik machen.,positive,no,positive,no,positive,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S11,So läuft der Esel fort. Nach einer Weile trifft der Esel einen Hund.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S12,Der Hund sieht sehr traurig aus. Der Esel fragt den Hund: Warum bist du so traurig?,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S13,Der Hund antwortet: Ich bin alt. Und ich bin schwach.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S14,Ich kann meinem Herrn nicht mehr beim Jagen helfen. Mein Herr wollte mich töten. Deshalb bin ich fortgelaufen.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S15,Der Esel sagt zum Hund. Ich gehe nach Bremen. In Bremen werde ich Stadtmusikant. Willst du mitkommen?,positive,no,positive,no,positive,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S16,Der Hund kommt gerne mit. Und so gehen der Esel und der Hund zusammen nach Bremen.,positive,no,positive,no,positive,no,positive,no,positive,no
+7-BremerStadtmusikanten,S17,Auf ihrem Weg treffen der Esel und der Hund eine Katze. Die Katze sieht sehr traurig aus.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S18,Der Esel fragt die Katze: Warum bist du so traurig?,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S19,Die Katze sagt: Ich bin alt. Und ich bin schwach.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S20,Ich kann keine Mäuse mehr jagen. Deshalb will mein Herr mich töten.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S21,Der Esel sagt zur Katze: Wir gehen nach Bremen. In Bremen werden wir Stadtmusikanten. Willst du mitkommen?,positive,no,positive,no,positive,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S22,Die Katze kommt gerne mit. Und so gehen der Esel und der Hund und die Katze zusammen nach Bremen.,positive,no,positive,no,positive,no,positive,no,positive,no
+7-BremerStadtmusikanten,S23,Auf ihrem Weg kommen die Tiere zu einem Bauernhof. Auf dem Bauernhof treffen die Tiere einen Hahn.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S24,Der Hahn schreit sehr laut. Der Esel fragt den Hahn: Warum schreist du so laut?,neutral,no,neutral,no,negative,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S25,Der Hahn antwortet: Morgen ist ein großes Fest. Dann will mich meine Herrin braten. Und essen.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S26,Aber ich will nicht sterben. Deshalb schreie ich so laut.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S27,Der Esel sagt zum Hahn. Wir gehen nach Bremen. In Bremen werden wir Stadtmusikanten. Willst du mitkommen?,positive,no,positive,no,positive,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S28,Und auch der Hahn kommt gerne mit. Zusammen gehen die 4 Tiere nach Bremen: Der Esel. Der Hund. Die Katze. Und der Hahn.,positive,no,positive,no,positive,no,positive,no,positive,no
+7-BremerStadtmusikanten,S29,Aber der Weg nach Bremen ist sehr weit: Die Tiere gehen den ganzen Tag.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S30,Langsam wird es dunkel. Die Tiere kommen in einen Wald.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S31,Die Tiere sind sehr müde. Die Tiere wollen im Wald schlafen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S32,Die Tiere suchen einen Platz zum Schlafen:,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S33,Der Esel und der Hund legen sich unter einen großen Baum. Die Katze klettert auf den Baum. Und legt sich auf einen Ast. Der Hahn fliegt bis auf die Spitze vom Baum.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S34,Dann schaut sich der Hahn um: In der Nähe sieht der Hahn ein helles Licht brennen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S35,Der Hahn denkt: Das Licht kommt von einem Haus.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S36,Der Hahn sagt zu den anderen Tieren: Ich kann ein Haus sehen. Lasst uns zu dem Haus gehen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S37,Die Tiere finden die Idee vom Hahn gut. Die Tiere machen sich auf den Weg zum Haus.,positive,no,positive,no,neutral,no,neutral,no,multi,yes
+7-BremerStadtmusikanten,S38,Die Tiere folgen dem Licht. Das Licht wird immer heller. Die Tiere kommen zu dem Haus.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S39,Und der Esel schaut durch ein Fenster in das Haus. Der Hahn fragt den Esel: Was siehst du?,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S40,Der Esel antwortet: Ich sehe einen großen Tisch. An dem Tisch sitzen Räuber. Die Räuber essen und trinken.,negative,no,negative,no,neutral,no,neutral,no,multi,yes
+7-BremerStadtmusikanten,S41,Der Hahn sagt zum Esel: Wir wollen auch an dem Tisch sitzen. Der Esel stimmt zu.,positive,no,positive,no,positive,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S42,Und der Esel sagt: Wir müssen die Räuber verjagen.,neutral,no,negative,no,negative,no,neutral,no,multi,yes
+7-BremerStadtmusikanten,S43,Dann können wir auch an dem Tisch sitzen. Und essen und trinken.,positive,no,positive,yes,positive,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S44,Die Tiere überlegen. Dann haben die Tiere eine Idee:,neutral,no,positive,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S45,Der Esel stellt sich vor das Fenster. Der Hund springt auf den Rücken vom Esel. Die Katze klettert auf den Rücken vom Hund. Und der Hahn fliegt auf den Rücken von der Katze.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S46,Dann machen die 4 Tiere zusammen Musik: Der Esel schreit. Der Hund bellt. Die Katze miaut. Und der Hahn kräht.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S47,Die Musik von den 4 Tieren ist laut. Und die Musik ist schrecklich.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S48,Die Räuber denken: Das ist ein Gespenst. Nur Gespenster können so einen schrecklichen Lärm machen.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S49,Die Räuber bekommen Angst. Und die Räuber laufen fort.,positive,no,positive,yes,negative,no,negative,no,multi,yes
+7-BremerStadtmusikanten,S50,Jetzt ist die Tür vom Haus offen. Die 4 Tiere gehen in das Haus.,positive,no,positive,no,positive,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S51,Und setzen sich an den Tisch. Die 4 Tiere essen und trinken. Dann sind die 4 Tiere satt.,positive,no,positive,no,positive,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S52,Und werden müde. Die 4 Tiere suchen sich einen Schlafplatz:,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S53,Der Esel geht vor das Haus. Vor dem Haus ist ein Misthaufen. Der Esel schläft bei dem Misthaufen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S54,Der Hund schläft vor der Tür. Die Katze schläft in der Küche.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S55,Und der Hahn schläft auf einem Balken unter dem Dach. Das Licht ist aus. Und die 4 Tiere schlafen ein.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S56,Aber die Räuber sind noch in der Nähe vom Haus.,negative,no,negative,no,neutral,no,neutral,no,multi,yes
+7-BremerStadtmusikanten,S57,Die Räuber sehen: Das Licht im Haus ist aus. Alles ist ganz still.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S58,Deshalb sagt der Anführer von den Räubern: Wir haben uns geirrt. Vielleicht war es doch kein Gespenst. Lasst uns zurück zum Haus gehen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S59,Aber die Räuber sind vorsichtig: Es geht nur 1 Räuber in das Haus.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S60,Der Räuber will das Licht anmachen. So kann der Räuber besser sehen.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S61,Der Räuber weiß: In der Küche gibt es Kohle.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S62,Die Kohle glüht. Die Kohle macht ein wenig Licht. Also geht der Räuber in die Küche.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S63,In der Küche sieht der Räuber 2 leuchtende Punkte. Der Räuber denkt: Das ist die Kohle.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S64,Der Räuber will nach der Kohle greifen. Aber der Räuber weiß nicht: In der Küche liegt die Katze.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S65,Die Katze schaut den Räuber an. Die Augen von der Katze leuchten im Dunkeln. Die Augen von der Katze leuchten wie 2 Stücken Kohle.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S66,Die Katze springt den Räuber an. Und die Katze zerkratzt das Gesicht vom Räuber.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S67,Jetzt hat der Räuber Angst. Und der Räuber schreit. Der Räuber will schnell aus dem Haus laufen.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S68,Der Räuber rennt zur Tür. Aber vor der Tür liegt noch der Hund.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S69,Der Hund beißt den Räuber ins Bein. Der Räuber schreit noch lauter. Der Räuber rennt aus dem Haus.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S70,Der Räuber rennt an dem Misthaufen vorbei. Am Misthaufen wartet schon der Esel.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S71,Der Esel tritt den Räuber. Und der Räuber schreit. Und schreit.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S72,Und so wird auch der Hahn wach. Der Hahn macht Krach. Und der Räuber läuft davon.,positive,no,positive,yes,negative,no,neutral,no,positive,no
+7-BremerStadtmusikanten,S73,Der Räuber läuft zu den anderen Räubern.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no
+7-BremerStadtmusikanten,S74,Der Räuber erzählt mit einer ängstlichen Stimme: In dem Haus ist eine Hexe. Die Hexe hat mir das Gesicht zerkratzt.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S75,Und vor der Tür steht ein Mann. Der Mann hat ein Messer. Mit dem Messer hat mir der Mann ins Bein gestochen.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S76,Und bei dem Misthaufen ist ein Monster. Das Monster hat mich getreten.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S77,Und auf dem Dach sitzt ein Polizist. Der Polizist wollte mich fangen. Deshalb bin ich fortgelaufen.,negative,no,negative,no,negative,no,negative,no,negative,no
+7-BremerStadtmusikanten,S78,Jetzt haben auch die anderen Räuber Angst. Die Räuber laufen fort.,positive,no,positive,yes,negative,no,negative,no,multi,yes
+7-BremerStadtmusikanten,S79,Und die Räuber kommen nie mehr zu dem Haus zurück. Der Esel und der Hund und die Katze und der Hahn sind froh.,positive,no,positive,no,positive,no,positive,no,positive,no
+7-BremerStadtmusikanten,S80,Und die 4 Tiere bleiben in dem Haus. Die 4 Tiere fühlen sich sehr wohl in dem Haus. Deshalb wollen die 4 Tiere auch nicht mehr nach Bremen gehen.,positive,no,positive,no,positive,no,positive,no,positive,no
+7-BremerStadtmusikanten,S81,Und auch keine Stadtmusikanten werden. Das war das Märchen von den Bremer Stadtmusikanten.,neutral,no,neutral,no,neutral,no,neutral,no,neutral,no

@@ -1,0 +1,93 @@
+id;text_original;Sentiments-GPT5;Multi-GPT5;Sentiments-Perplexity;Multi-Perplexity;Sentiments-Mistral;Multi-Mistral;Sentiments-GPTOSS20B;Multi-GPTOSS20B
+S1;Hänsel und Gretel. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt:  änsel und Gretel. Das Märchen geht so:;neutral;no;neutral;no;neutral;no;neutral;no
+S2;Eine Familie lebt an einem großen Wald. Der Vater hat 2 Kinder: Der Junge heißt Hänsel. Und das Mädchen heißt Gretel.;neutral;no;neutral;no;neutral;no;neutral;no
+S3;Die Mutter von Hänsel und Gretel ist gestorben. Jetzt hat der Vater eine neue Frau. Diese Frau ist die Stiefmutter von Hänsel und Gretel.;negative;no;negative;no;neutral;no;negative;no
+S4;Die Familie ist arm. Und die Familie hat nur wenig zu essen. Deshalb macht sich der Vater große Sorgen.;negative;no;negative;no;negative;no;negative;no
+S5;Der Vater fragt seine neue Frau: Was soll aus uns werden? Wir haben nichts zu essen für meine armen Kinder.;negative;no;negative;no;negative;no;negative;no
+S6;Seine Frau antwortet: Morgen bringen wir Hänsel und Gretel in den Wald. Alleine werden Hänsel und Gretel nicht den Weg nach Hause finden. Dann sind wir Hänsel und Gretel los.;negative;no;negative;no;negative;no;negative;no
+S7;Der Vater antwortet: Ich will meine Kinder nicht im Wald lassen. Die wilden Tiere werden die Kinder fressen.;negative;no;negative;no;negative;no;negative;no
+S8;Seine Frau antwortet: Du Dummkopf. Wir sind arm.;negative;no;negative;no;negative;no;negative;no
+S9;Wir können nicht genug Essen für uns alle kaufen. Hänsel und Gretel müssen weg.;negative;no;negative;no;negative;no;negative;no
+S10;Hänsel und Gretel liegen im Bett. Aber Hänsel und Gretel sind noch wach.;neutral;no;neutral;no;neutral;no;neutral;no
+S11;Deshalb haben Hänsel und Gretel alles gehört. Gretel ist sehr traurig.;negative;no;negative;no;negative;no;negative;no
+S12;Hänsel tröstet Gretel: Mach dir keine Sorgen. Morgen bringen uns Vater und die Stiefmutter in den Wald.;negative-positive;yes;neutral;no;negative-positive;yes;negative;no
+S13;Aber ich nehme kleine weiße Steine vom Hof mit. Die kleinen weißen Steine lasse ich auf den Weg fallen.;neutral;no;neutral;no;neutral;no;neutral;no
+S14;Dann werden uns die kleinen weißen Steine den Weg nach Hause zeigen.;positive;no;positive;no;positive;no;positive;no
+S15;Es ist der nächste Morgen. Die Stiefmutter weckt Hänsel und Gretel: Ihr faulen Kinder!;negative;no;negative;no;negative;no;negative;no
+S16;Steht auf. Wir wollen in den Wald gehen. Und Holz sammeln.;neutral;no;neutral;no;neutral;no;neutral;no
+S17;Die Familie geht in den Wald. Hänsel hat kleine weiße Steine vom Hof in seinen Hosen·taschen.;neutral;no;neutral;no;neutral;no;neutral;no
+S18;Und Hänsel lässt die kleinen weißen Steine auf den Weg fallen. So wie Hänsel es Gretel versprochen hat.;positive;no;positive;no;positive;no;neutral;no
+S19;Im Wald sagt die Stiefmutter zu Hänsel und Gretel: Ihr wartet hier. Wir gehen Holz sammeln. Wir holen euch später ab.;negative;no;neutral;no;negative;no;negative;no
+S20;Aber der Vater und die Stiefmutter gehen ohne Hänsel und Gretel nach Hause.;negative;no;negative;no;negative;no;negative;no
+S21;Jetzt sind Hänsel und Gretel allein im Wald. Hänsel und Gretel sind sehr müde. Und Hänsel und Gretel schlafen ein.;negative;no;negative;no;negative;no;negative;no
+S22;Es ist dunkle Nacht. Hänsel und Gretel wachen auf. Hänsel und Gretel wollen nach Hause.;neutral;no;neutral;no;negative;no;negative;no
+S23;Zum Glück scheint der Mond hell. So können Hänsel und Gretel die kleinen weißen Steine auf dem Weg sehen.;positive;no;positive;no;positive;no;positive;no
+S24;Und Hänsel und Gretel finden den Weg nach Hause. Hänsel und Gretel kommen zu Hause an. Hänsel und Gretel umarmen den Vater.;positive;no;positive;no;positive;no;positive;no
+S25;Der Vater freut sich sehr. Der Vater hat seine 2 Kinder nämlich vermisst. Aber die Stiefmutter ärgert sich.;positive-negative;yes;positive-negative;yes;positive-negative;yes;positive-negative;yes
+S26;Wenige Tage später: Die Familie hat wieder nichts zu essen. Die Stiefmutter will Hänsel und Gretel wieder in den Wald schicken.;negative;no;negative;no;negative;no;negative;no
+S27;Dieses Mal hat Hänsel keine kleinen weißen Steine. Die Stiefmutter hat nämlich abends die Tür zum Hof abgeschlossen.;negative;no;negative;no;negative;no;negative;no
+S28;Deshalb kann Hänsel keine kleinen weißen Steine vom Hof holen.;negative;no;negative;no;negative;no;negative;no
+S29;Aber Hänsel hat Brotkrümel. Die Familie geht in den Wald. Und Hänsel lässt die Brotkrümel auf den Weg fallen.;neutral;no;neutral;no;neutral;no;neutral;no
+S30;Im Wald sagt die Stiefmutter zu Hänsel und Gretel: Ihr wartet hier. Wir gehen Holz sammeln. Wir holen euch später ab.;negative;no;neutral;no;negative;no;negative;no
+S31;Aber der Vater und die Stiefmutter gehen ohne Hänsel und Gretel nach Hause.;negative;no;negative;no;negative;no;negative;no
+S32;Jetzt sind Hänsel und Gretel allein im Wald. Hänsel und Gretel sind sehr müde. Und Hänsel und Gretel schlafen ein.;negative;no;negative;no;negative;no;negative;no
+S33;Es ist dunkle Nacht. Hänsel und Gretel wachen auf. Hänsel und Gretel wollen nach Hause.;neutral;no;neutral;no;negative;no;negative;no
+S34;Zum Glück scheint der Mond hell. So können Hänsel und Gretel vielleicht die Brotkrümel auf dem Weg sehen.;neutral;no;neutral;no;neutral;no;positive;no
+S35;Aber Hänsel und Gretel sehen die Brotkrümel auf dem Weg nicht. Die Brotkrümel sind weg. Vögel haben die Brotkrümel gegessen.;negative;no;negative;no;negative;no;negative;no
+S36;Hänsel und Gretel laufen durch den Wald: Hänsel und Gretel suchen den Weg nach Hause.;neutral;no;neutral;no;negative;no;neutral;no
+S37;Aber Hänsel und Gretel finden den Weg nach Hause nicht. So laufen Hänsel und Gretel 3 Tage lang durch den Wald.;negative;no;negative;no;negative;no;negative;no
+S38;Hänsel und Gretel sind hungrig. Und Hänsel und Gretel frieren.;negative;no;negative;no;negative;no;negative;no
+S39;Nach einer Weile sehen Hänsel und Gretel einen kleinen Vogel auf einem Ast. Der kleine Vogel singt wunderschön.;positive;no;positive;no;positive;no;positive;no
+S40;Dann fliegt der kleine Vogel weiter. Hänsel und Gretel laufen dem kleinen Vogel nach.;neutral;no;neutral;no;neutral;no;positive;no
+S41;Dann kommen Hänsel und Gretel zu einem Häuschen. Ein Häuschen ist ein kleines Haus.;neutral;no;neutral;no;neutral;no;neutral;no
+S42;Das Häuschen ist mitten im Wald. Das Häuschen ist aus Brot. Und Zucker. Und das Dach von dem Häuschen ist mit Leb·kuchen bedeckt.;positive;no;positive;no;positive;no;positive;no
+S43;Hänsel sagt zu Gretel: Das Häuschen sieht lecker aus. Und ich bin sehr hungrig.;positive;no;positive;no;positive;no;positive;no
+S44;Lass uns ein Stück vom Häuschen essen. Ich esse ein Stück vom Dach.;positive;no;positive;no;positive;no;positive;no
+S45;Hänsel und Gretel essen ein Stück vom Häuschen. Plötzlich hören Hänsel und Gretel eine Stimme. Die Stimme kommt aus dem Häuschen:;positive-negative;yes;neutral;yes;neutral;no;neutral;no
+S46;Knusper knusper Knäuschen. Wer knuspert an meinem Häuschen?;negative;no;neutral;no;neutral;no;neutral;no
+S47;Hänsel und Gretel antworten: Der Wind. Der Wind. Das himmlische Kind. Dann essen Hänsel und Gretel weiter.;neutral;no;neutral;no;neutral;no;neutral;no
+S48;Die Tür vom Häuschen geht auf. Und eine alte Frau kommt aus dem Häuschen. Hänsel und Gretel erschrecken sich.;negative;no;negative;no;negative;no;negative;no
+S49;Aber die alte Frau sagt: Liebe Kinder! Kommt herein. Habt keine Angst.;positive;no;positive;no;positive;no;positive;no
+S50;Hänsel und Gretel gehen mit der alten Frau ins Häuschen.;neutral;no;neutral;no;neutral;no;neutral;no
+S51;Die alte Frau ist sehr nett zu Hänsel und Gretel.;positive;no;positive;no;positive;no;positive;no
+S52;Die alte Frau gibt Hänsel und Gretel zu essen: Milch. Und Pfannkuchen. Äpfel. Und Nüsse.;positive;no;positive;no;positive;no;positive;no
+S53;Dann gehen Hänsel und Gretel ins Bett. Hänsel und Gretel sind sehr glücklich. Und denken: Die alte Frau ist nett.;positive;no;positive;no;positive;no;positive;no
+S54;Aber das ist falsch: Die alte Frau ist nämlich eine böse Hexe. Und die böse Hexe will Hänsel und Gretel essen.;negative;no;negative;no;negative;no;negative;no
+S55;Es ist der nächste Tag. Jetzt ist die Hexe nicht mehr nett zu Hänsel und Gretel.;negative;no;negative;no;negative;no;negative;no
+S56;Die Hexe ist böse. Die Hexe packt Hänsel. Und die Hexe sperrt Hänsel in einen Käfig.;negative;no;negative;no;negative;no;negative;no
+S57;Der Käfig hat ein Gitter. Deshalb kann Hänsel nicht aus dem Käfig heraus.;negative;no;negative;no;negative;no;negative;no
+S58;Dann sagt die Hexe zu Gretel: Du faules Mädchen! Mach dich an die Arbeit! Koch Essen!;negative;no;negative;no;negative;no;negative;no
+S59;Hänsel soll nämlich fett werden. Dann kann ich Hänsel essen.;negative;no;negative;no;negative;no;negative;no
+S60;Gretel weint viele Tränen. Aber Gretel muss auf die Hexe hören.;negative;no;negative;no;negative;no;negative;no
+S61;Jeden Morgen kommt die Hexe zu Hänsel. Und die Hexe fragt: Bist du schon fett?;negative;no;negative;no;negative;no;negative;no
+S62;Zeig mir deine Finger. Ich will deine Finger fühlen.;neutral;no;negative;no;negative;no;negative;no
+S63;Aber Hänsel ist schlau: Hänsel steckt nicht seine Finger durch das Gitter. Hänsel steckt einen dünnen Knochen durch das Gitter.;positive;no;positive;no;neutral;no;positive;no
+S64;Die Hexe hat nämlich schlechte Augen. Deshalb sieht die Hexe den Knochen nicht.;neutral;no;neutral;no;neutral;no;neutral;no
+S65;Und die Hexe denkt: Hänsel ist immer noch zu dünn.;neutral;no;neutral;no;negative;no;negative;no
+S66;Die Zeit vergeht: Hänsel und Gretel sind viele Wochen bei der Hexe.;negative;no;negative;no;negative;no;negative;no
+S67;An einem Morgen ruft die Hexe zu Gretel: Morgen will ich Hänsel im Ofen braten.;negative;no;negative;no;negative;no;negative;no
+S68;Gretel denkt: Der liebe Gott soll uns beschützen! Die Hexe darf Hänsel nicht essen.;negative;no;negative;no;negative-positive;yes;positive;no
+S69;Die arme Gretel weint viele Tränen. Aber die Hexe sagt zu Gretel: Sei still. Weinen hilft dir nicht.;negative;no;negative;no;negative;no;negative;no
+S70;Am nächsten Morgen sagt die Hexe zu Gretel: Jetzt brate ich Hänsel im Ofen. Ist der Ofen heiß?;negative;no;negative;no;negative;no;negative;no
+S71;Gretel soll in den Ofen steigen. Die Hexe will Gretel nämlich in den Ofen stoßen. Gretel soll im Ofen braten.;negative;no;negative;no;negative;no;negative;no
+S72;Aber Gretel ist schlau. Gretel kennt den Plan von der Hexe.;positive;no;positive;no;neutral;no;positive;no
+S73;Und deshalb fragt Gretel die Hexe: Wie komme ich in den Ofen?;neutral;no;neutral;no;neutral;no;neutral;no
+S74;Die Hexe ist wütend. Und sagt: Dummes Kind! Geh da weg. Ich zeige es dir.;negative;no;negative;no;negative;no;negative;no
+S75;Und die Hexe macht es Gretel vor: Die Hexe steckt den Kopf in den Ofen.;negative;no;neutral;no;neutral;no;negative;no
+S76;Und sofort gibt Gretel der Hexe einen Stoß: Die Hexe fällt in den Ofen.;positive;no;negative-positive;yes;neutral;no;positive;no
+S77;Gretel macht schnell die Tür vom Ofen zu. Und die böse Hexe verbrennt im Ofen.;positive;no;positive;no;positive;no;positive;no
+S78;Dann läuft Gretel schnell zum Käfig. Gretel befreit Hänsel aus dem Käfig.;positive;no;positive;no;positive;no;positive;no
+S79;Und ruft: Wir sind frei! Die böse Hexe ist im Ofen verbrannt!;positive;no;positive;no;positive;no;positive;no
+S80;Hänsel und Gretel umarmen sich.;positive;no;positive;no;positive;no;positive;no
+S81;Dann gehen Hänsel und Gretel in das Häuschen von der Hexe: In allen Ecken stehen große Kisten.;neutral;no;neutral;no;neutral;no;neutral;no
+S82;In den Kisten sind Edelsteine. Hänsel steckt sich Edelsteine in seine Hosentaschen. Und auch Gretel nimmt einige Edelsteine.;positive;no;positive;no;positive;no;positive;no
+S83;Dann sagt Hänsel zu Gretel: Lass uns den Weg nach Hause suchen. Und Hänsel und Gretel laufen durch den Wald.;neutral;no;neutral;no;neutral;no;positive;no
+S84;Hänsel und Gretel haben Glück: Hänsel und Gretel finden endlich den Weg aus dem Wald.;positive;no;positive;no;positive;no;positive;no
+S85;Nach einer Weile sehen Hänsel und Gretel das Haus vom Vater. Hänsel und Gretel kommen am Haus vom Vater an.;positive;no;positive;no;positive;no;positive;no
+S86;Hänsel und Gretel gehen in das Haus hinein: Der Vater sieht Hänsel und Gretel.;positive;no;positive;no;neutral;no;positive;no
+S87;Und der Vater ist sehr glücklich. Ohne seine Kinder war der Vater sehr traurig.;positive-negative;yes;negative-positive;yes;positive;no;positive;no
+S88;Die Stiefmutter ist nicht mehr da. Die Stiefmutter ist nämlich gestorben.;positive;no;neutral;no;neutral;no;neutral;no
+S89;Hänsel und Gretel umarmen den Vater.;positive;no;positive;no;positive;no;positive;no
+S90;Dann zeigen Hänsel und Gretel dem Vater die Edelsteine.;positive;no;positive;no;positive;no;positive;no
+S91;Jetzt ist die Familie reich. Und die Familie muss nie wieder Hunger leiden.;positive;no;positive;no;positive;no;positive;no
+S92;Hänsel und Gretel und ihr Vater leben glücklich zusammen. Das war das Märchen von Hänsel und Gretel.;positive;no;positive;no;positive;no;positive;no

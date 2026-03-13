@@ -1,0 +1,78 @@
+id,text_original,Sentiments,Multi
+S1,Frau Holle. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Frau Holle. Das Märchen geht so:,neutral,no
+S2,Eine Frau hat 2 Töchter. Die eine Tochter ist schön. Und fleißig. Aber die andere Tochter ist hässlich. Und faul. Beide Töchter heißen Marie.,positive-negative,yes
+S3,Die Frau hat aber die faule Marie viel lieber. Die faule Marie ist nämlich ihr eigenes Kind. Die fleißige Marie hat eine andere Mutter. Die Mutter von der fleißigen Marie ist aber schon gestorben. Die Frau ist also nur die Stiefmutter von der fleißigen Marie.,neutral,no
+S4,Die Frau hat die faule Marie viel lieber. Deshalb muss die fleißige Marie die ganze Arbeit allein machen: Jeden Tag muss die fleißige Marie am Brunnen sitzen. Und mit einem Spinnrad Wolle zu einem Faden machen.,positive-negative,yes
+S5,Die fleißige Marie wickelt den Faden auf eine Spule. Das ist eine sehr anstrengende Arbeit. Aber die fleißige Marie muss diese anstrengende Arbeit trotzdem jeden Tag machen. So will es die Stiefmutter.,neutral,no
+S6,An einem Tag sticht sich die fleißige Marie bei der Arbeit in den Finger. Der Finger blutet. Und auch die Spule mit der Wolle wird dabei blutig.,negative,no
+S7,Marie will die blutige Spule im Brunnen waschen. Aber Marie passt nicht auf. Deshalb fällt die blutige Spule in den Brunnen. Und versinkt.,negative,no
+S8,Jetzt weint Marie viele Tränen: Die Stiefmutter wird nämlich sehr böse darüber sein. Und mit Marie schimpfen. Am Abend geht Marie zur Stiefmutter. Und sagt: Liebe Stiefmutter: Die Spule ist mir in den Brunnen gefallen.,negative,no
+S9,Da wird die Stiefmutter sehr böse. Und sagt: Du dummes Kind. Du hast die Spule in den Brunnen fallen lassen? Dann geh zurück zum Brunnen. Und hol die Spule wieder heraus.,negative,no
+S10,Marie weint. Aber Marie geht zurück zum Brunnen. Marie muss die Spule aus dem Brunnen holen.,neutral,no
+S11,Marie denkt: Was soll ich jetzt tun? Marie hat große Angst vor ihrer Stiefmutter. Deshalb springt Marie in den Brunnen. Der Brunnen ist dunkel. Und sehr tief.,negative,no
+S12,Aber Marie ertrinkt nicht. Marie fällt immer tiefer in den Brunnen. Dabei dreht sich alles. Und plötzlich ist der Brunnen weg.,negative,no
+S13,Marie liegt auf einer Wiese. Die Sonne scheint. Und die Vögel singen.,positive,no
+S14,Marie ist überrascht. Und denkt: Wo bin ich? Dann steht Marie auf. Und geht über die Wiese.,positive,no
+S15,Auf der Wiese steht ein alter Backofen. Der Backofen ist aus Mauersteinen. Der Backofen dampft. Im Backofen ist nämlich Brot. Das Brot ist fertig gebacken.,neutral,no
+S16,Da ruft das Brot: Zieh mich heraus. Zieh mich heraus. Sonst verbrenne ich.,neutral,no
+S17,Marie ist überrascht: Das Brot kann sprechen. Aber Marie geht zu dem Backofen. Und holt das Brot heraus.,neutral,no
+S18,Dann geht Marie weiter. Nach einer Weile kommt Marie zu einem Baum. Am Baum sind viele Äpfel. Die Äpfel sind alle rot,neutral,no
+S19,Da ruft der Baum: Schüttel mich. Schüttel mich. Meine Äpfel sind alle reif.,neutral,no
+S20,Marie ist überrascht: Der Baum kann sprechen. Aber Marie geht zu dem Baum. Marie schüttelt den Baum. Und die Äpfel fallen auf den Boden. Marie legt die Äpfel auf einen Haufen.,neutral,no
+S21,Dann geht Marie weiter. Nach einer Weile kommt Marie zu einem Haus. Das Haus ist klein.,neutral,no
+S22,Und in dem Haus wohnt eine Frau. Die Frau schaut aus dem Fenster. Die Frau ist alt. Und die Frau hat sehr große Zähne.,neutral,no
+S23,Deshalb hat Marie Angst. Und will weglaufen. Aber die alte Frau mit den großen Zähnen ruft: Hab keine Angst.,neutral,no
+S24,Ich bin Frau Holle. Und ich wohne in diesem Haus. Du kannst bei mir bleiben. Und für mich arbeiten.,positive,no
+S25,Du kannst für mich kochen. Und du kannst mir bei der Arbeit im Haus helfen. Und du kannst mein Bett machen. Ich werde mich gut um dich kümmern.,positive,no
+S26,Marie denkt: Frau Holle ist nett. Ich will bei Frau Holle bleiben. Und ich will für Frau Holle arbeiten. Und so bleibt Marie bei Frau Holle.,positive,no
+S27,Marie kocht. Und Marie hilft Frau Holle bei der Arbeit im Haus. Und Marie macht das Bett von Frau Holle.,positive,no
+S28,Jeden Tag muss Marie die Bettdecke von Frau Holle gut ausschütteln. Dann fliegen nämlich die Bettfedern auf die Erde. Und werden zu Schnee. Das freut die Menschen auf der Erde. Es ist nämlich Winter.,positive,no
+S29,Und so vergehen die Tage: Marie macht jeden Tag das Bett von Frau Holle. Und auf der Erde schneit es. Und die Menschen freuen sich über den Schnee.,positive,no
+S30,Das kann Marie vom Fenster aus sehen. Marie macht ihre Arbeit gut. Und Frau Holle ist sehr zufrieden. Frau Holle kümmert sich gut um Marie.,positive,no
+S31,Und die Wochen vergehen. Aber dann wird Marie traurig. Und denkt: Warum bin ich traurig?,negative,no
+S32,Die Arbeit macht mir Spaß. Frau Holle ist sehr nett. Und kümmert sich gut um mich. Marie hat Heimweh. Marie will zurück nach Hause.,positive-negative,yes
+S33,Marie denkt: Zu Hause ist mein Leben nicht so schön. Und trotzdem vermisse ich meine Stiefmutter. Und meine Stiefschwester.,negative,no
+S34,Also geht Marie zu Frau Holle. Und sagt: Liebe Frau Holle: Es geht mir sehr gut bei dir. Aber ich kann nicht länger bei dir bleiben.,negative,no
+S35,Ich will nach Hause. Ich vermisse nämlich meine Stiefmutter. Und meine Stiefschwester. Ich muss gehen.,negative,no
+S36,Frau Holle ist sehr traurig. Aber Frau Holle versteht das. Frau Holle nimmt Marie an die Hand.,negative,no
+S37,Und Frau Holle geht mit Marie zu einem Tor. Dann sagt Frau Holle zu Marie: Stell dich unter das Tor.,neutral,no
+S38,Marie gehorcht. Plötzlich regnet es. Aber der Regen ist kein normaler Regen. Der Regen ist aus Gold. Und das Gold bleibt an Marie kleben.,positive,no
+S39,Frau Holle sagt: Das Gold ist für dich. Du warst sehr fleißig. Und Frau Holle gibt der fleißigen Marie die Spule aus dem Brunnen. Jetzt hat die fleißige Marie ihre Spule wieder. Und auch die Spule ist jetzt aus Gold.,positive,no
+S40,Dann geht Marie durch das Tor. Und plötzlich ist Marie wieder am Brunnen. Jetzt ist Marie zu Hause.,neutral,no
+S41,Auf dem Brunnen sitzt ein Hahn. Der Hahn ruft: So ein Glück. So ein Glück. Unsere Gold-Marie ist zurück.,positive,no
+S42,Marie geht zum Haus von der Stiefmutter. Die Stiefmutter sieht Marie. Und ist überrascht: Marie ist voll mit Gold.,positive,no
+S43,Jetzt ist die Stiefmutter plötzlich sehr nett zu Marie. Und auch die faule Stiefschwester ist plötzlich sehr nett zu Marie.,positive,no
+S44,Marie erzählt von Frau Holle. Da wird die Stiefmutter neidisch.,negative,no
+S45,Und denkt: Meine faule Tochter Marie soll auch so viel Glück haben. Und ein Kleid voll mit Gold haben.,negative,no
+S46,Also sagt die Stiefmutter zu ihrer faulen Tochter Marie: Mach es so wie deine fleißige Stiefschwester:,negative,no
+S47,Setz dich mit der Spule an den Brunnen. Und stich dir in den Finger. Dein Finger blutet? Dann nimm die Spule. Und lass Blut auf die Spule tropfen. Die Spule ist voll mit Blut? Dann wirf die blutige Spule in den Brunnen.,negative,no
+S48,So macht es die faule Marie: Die faule Marie wirft die blutige Spule in den Brunnen.,negative,no
+S49,Und springt dann selbst in den Brunnen hinein. Die faule Marie fällt immer tiefer in den Brunnen. Dabei dreht sich alles. Und plötzlich ist der Brunnen weg.,negative,no
+S50,Die faule Marie liegt auf einer Wiese. Die Sonne scheint. Und die Vögel singen.,positive,no
+S51,Die faule Marie kennt die Wiese. Die faule Marie hat nämlich die Geschichte von ihrer fleißigen Stiefschwester gehört.,neutral,no
+S52,Und weiß von dem Brot im Backofen. Und von den Äpfeln am Apfelbaum. Und von Frau Holle.,neutral,no
+S53,Die faule Marie sieht sich um. Die faule Marie sieht den Backofen.,neutral,no
+S54,Und hört das Brot rufen: Zieh mich heraus. Zieh mich heraus. Sonst verbrenne ich.,negative,no
+S55,Aber die faule Marie antwortet: Nein. Ich mache mich nicht schmutzig.,neutral,no
+S56,Dann geht die faule Marie weiter. Nach einer Weile kommt die faule Marie zu dem Apfelbaum. Am Baum sind viele Äpfel. Die Äpfel sind alle rot.,neutral,no
+S57,Und der Baum ruft: Schüttel mich. Schüttel mich. Meine Äpfel sind alle reif.,neutral,no
+S58,Aber die faule Marie antwortet: Nein. Die Äpfel können mir auf den Kopf fallen. Und mich verletzen. Dann geht die faule Marie weiter.,neutral,no
+S59,Nach einer Weile kommt die faule Marie zu einem Haus. Es ist das Haus von Frau Holle. Die faule Marie erkennt das Haus von Frau Holle gleich.,neutral,no
+S60,Die Frau am Fenster ist nämlich alt. Und die Frau am Fenster hat sehr große Zähne. Das weiß die faule Marie von ihrer fleißigen Stiefschwester.,neutral,no
+S61,Die faule Marie sagt: Liebe Frau Holle: Ich will für dich arbeiten. Frau Holle freut sich sehr darüber. Und bittet die faule Marie in ihr Haus.,positive,no
+S62,Am 1. Tag ist die faule Marie noch sehr fleißig: Die faule Marie kocht. Und die faule Marie macht die Arbeit im Haus. Und die faule Marie macht das Bett von Frau Holle.,positive,no
+S63,Und die faule Marie schüttelt die Bettdecke gut aus. Und wieder fallen die Bettfedern auf die Erde. Und werden zu Schnee. Das freut die Menschen auf der Erde. Es ist nämlich Winter.,positive,no
+S64,Aber schon am 2. Tag hat die faule Marie keine Lust zu arbeiten: Die faule Marie kocht nicht. Und die faule Marie macht die Arbeit im Haus nicht.,negative,no
+S65,Die faule Marie macht nur das Bett von Frau Holle. Und schüttelt die Bettdecke aus. So fallen die Bettfedern auf die Erde. Und werden zu Schnee.,negative,no
+S66,Dann legt sich die faule Marie selbst in das Bett. Und schläft ein.,neutral,no
+S67,Am 3. Tag arbeitet die faule Marie nicht. Und bleibt den ganzen Tag im Bett liegen.,negative,no
+S68,Keiner schüttelt die Bettdecke aus. Und deshalb gibt es auf der Erde keinen Schnee. Und die Menschen sind traurig.,negative,no
+S69,Das merkt Frau Holle. Frau Holle ärgert sich über die faule Marie. Und sagt: Du kannst zurück nach Hause gehen. Du brauchst nicht mehr für mich arbeiten.,negative,no
+S70,Die faule Marie ist zufrieden. Und denkt: Jetzt bekomme ich mein Gold.,positive,no
+S71,Frau Holle nimmt die faule Marie an die Hand. Und Frau Holle geht mit der faulen Marie zu dem Tor. Dann sagt Frau Holle zu der faulen Marie: Stell dich unter das Tor.,neutral,no
+S72,Die faule Marie gehorcht. Plötzlich regnet es. Aber der Regen ist nicht aus Gold. Der Regen ist aus Pech. Das Pech ist schwarz. Und klebrig. Das Pech bleibt an der faulen Marie kleben.,negative,no
+S73,Und Frau Holle sagt: Du warst faul. Deshalb ist das Pech deine Belohnung. Gold ist nur für fleißige Mädchen.,negative,no
+S74,Dann gibt Frau Holle der faulen Marie die Spule aus dem Brunnen. Jetzt hat die faule Marie ihre Spule wieder. Aber auch die Spule ist voll mit Pech. Und schwarz. Und klebrig.,negative,no
+S75,Dann geht die faule Marie durch das Tor. Und plötzlich ist die faule Marie wieder am Brunnen. Jetzt ist die faule Marie zu Hause.,neutral,no
+S76,Auf dem Brunnen sitzt der Hahn. Und ruft: So ein Glück. So ein Glück. Unsere Pech-Marie ist zurück.,negative,no
+S77,Das Pech klebt an der faulen Marie. Und das Pech geht nie mehr ab. Das war das Märchen von Frau Holle.,negative,no

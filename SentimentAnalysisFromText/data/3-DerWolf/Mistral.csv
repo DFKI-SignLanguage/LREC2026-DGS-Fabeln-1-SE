@@ -1,0 +1,74 @@
+Text,Sentiments,Multi
+Der Wolf und die 7 Geißlein. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Der Wolf und die 7 Geißlein. Das Märchen geht so:,neutral,no
+Eine Geiß hat 7 Geißlein. Eine Geiß ist eine Ziege. Und die Geißlein sind die Kinder von der Ziege. Die Ziegenmutter liebt ihre Ziegenkinder sehr.,positive,no
+Es ist ein schöner Morgen. Und die Ziegenmutter sagt zu ihren Ziegenkindern: Ich gehe in den Wald. Und hole Futter.,positive,no
+Passt gut auf euch auf! Vielleicht kommt der Wolf. Der Wolf ist ein böses Tier. Der Wolf will euch fressen.,negative,no
+Deshalb dürft ihr nicht die Tür aufmachen. Der Wolf ist schlau. Und der Wolf kann sich verkleiden. Aber ihr erkennt den Wolf an seiner Stimme:,negative,no
+Die Stimme vom Wolf ist dunkel. Und böse. Und ihr erkennt den Wolf an seinen Pfoten: Die Pfoten vom Wolf sind schwarz.,negative,no
+So erkennt ihr den Wolf. Ihr dürft dem Wolf nicht die Tür aufmachen.,negative,no
+Die Ziegenkinder antworten: Liebe Mutter. Hab keine Angst. Wir passen gut auf uns auf. Wir machen die Tür nicht auf.,positive,no
+Die Ziegenmutter ist beruhigt. Und die Ziegenmutter geht in den Wald. Jetzt sind die Ziegenkinder alleine im Haus. Die Ziegenkinder spielen.,positive,no
+Plötzlich klopft es an der Tür. Eine Stimme ruft: Liebe Kinder. Macht die Tür auf. Ich habe Geschenke für euch.,neutral,no
+Die Stimme ist dunkel. Und böse. Deshalb rufen die Ziegenkinder: Du bist nicht unsere Ziegenmutter. Die Stimme von unserer Ziegenmutter ist hell. Und freundlich.,negative,no
+Aber deine Stimme ist dunkel. Und böse. Du bist der Wolf. Wir machen die Tür nicht auf.,negative,no
+Der Wolf ärgert sich. Und verschwindet. Der Wolf geht in einen Laden. Der Wolf kauft ein großes Stück Kreide.,negative,no
+Der Wolf isst die Kreide. Der Wolf weiß nämlich: Kreide macht die Stimme hell.,neutral,no
+Dann geht der Wolf wieder zum Haus von den Ziegenkindern. Der Wolf klopft an die Tür. Und ruft: Liebe Kinder. Macht die Tür auf. Ich habe Geschenke für euch.,neutral,no
+Die Ziegenkinder denken: Die Stimme ist hell. Und die Stimme ist freundlich. So wie die Stimme von unserer Ziegenmutter.,positive,no
+Aber die Ziegenkinder sind vorsichtig. Die Ziegenkinder gucken aus dem Fenster. Und die Ziegenkinder sehen eine schwarze Pfote.,negative,no
+Deshalb rufen die Ziegenkinder: Du bist nicht unsere Ziegenmutter. Unsere Ziegenmutter hat eine weiße Pfote. Deine Pfote ist schwarz. Du bist der Wolf. Wir machen die Tür nicht auf.,negative,no
+Der Wolf ärgert sich. Und verschwindet. Jetzt hat der Wolf eine Idee: Der Wolf geht zum Bäcker.,negative,no
+Der Wolf sagt zum Bäcker: Meine Pfote tut weh. Mach mir Teig auf meine Pfote. Das kühlt meine Pfote. Dann tut meine Pfote nicht mehr weh.,neutral,no
+Der Bäcker hat Angst vor dem Wolf. Deshalb macht der Bäcker Teig auf die Pfote vom Wolf.,negative,no
+Dann geht der Wolf zum Müller. Der Wolf weiß: Der Müller macht aus Körnern weißes Mehl.,neutral,no
+Also sagt der Wolf zum Müller: Mach weißes Mehl auf meine Pfote.,neutral,no
+Der Müller antwortet: Du bist der böse Wolf. Ich helfe dir nicht.,negative,no
+Der Wolf ärgert sich. Und sagt: Mach weißes Mehl auf meine Pfote. Oder ich fresse dich!,negative,no
+Jetzt hat der Müller Angst. Deshalb macht der Müller weißes Mehl auf die Pfote vom Wolf. Die Pfote vom Wolf ist jetzt auch ganz weiß.,negative,no
+So geht der Wolf wieder zum Haus von den Ziegenkindern. Der Wolf klopft an die Tür.,neutral,no
+Und ruft: Liebe Kinder. Macht die Tür auf. Ich habe Geschenke für euch.,neutral,no
+Die Ziegenkinder rufen: Deine Stimme ist hell. Und freundlich. So wie die Stimme von unserer Ziegenmutter.,positive,no
+Aber zeig uns erst deine Pfote. Der Wolf hält seine Pfote vor das Fenster.,neutral,no
+Die Ziegenkinder sehen eine weiße Pfote. Die Ziegenkinder denken: Das ist unsere Ziegenmutter.,positive,no
+Die Ziegenkinder freuen sich. Und die Ziegenkinder machen die Tür auf. Doch vor der Tür steht der böse Wolf.,negative-positive,yes
+Die Ziegenkinder erschrecken ganz fürchterlich. Und die Ziegenkinder haben große Angst. Die Ziegenkinder verstecken sich im Haus:,negative,no
+Das 1. Ziegenkind versteckt sich unter dem Tisch. Das 2. Ziegenkind versteckt sich im Bett.,neutral,no
+Das 3. Ziegenkind versteckt sich im Ofen. Das 4. Ziegenkind versteckt sich in der Küche.,neutral,no
+Das 5. Ziegenkind versteckt sich im Schrank. Das 6. Ziegenkind versteckt sich in der Waschschüssel.,neutral,no
+Das 7. Ziegenkind versteckt sich in der Wanduhr. Die Wanduhr hat nämlich einen Uhrenkasten. Der Uhrenkasten ist ein sehr gutes Versteck.,neutral,no
+Der Wolf läuft durch das Haus. Und sucht die Ziegenkinder. Der Wolf findet 6 Ziegenkinder.,negative,no
+Aber das 7. Ziegenkind findet der Wolf nicht. Der Wolf guckt nämlich nicht in den Uhrenkasten.,neutral,no
+Der Wolf hat großen Hunger. Also verschluckt der Wolf alle 6 Ziegenkinder. Jetzt ist der Wolf satt. Und müde.,negative,no
+Der Wolf geht hinaus auf die Wiese. Der Wolf legt sich unter einen Baum. Und schläft ein.,neutral,no
+Die Ziegenmutter hat Futter geholt. Jetzt kommt die Ziegenmutter nach Hause.,neutral,no
+Und erschrickt: Die Tür vom Haus ist offen. Die Ziegenmutter geht vorsichtig ins Haus.,negative,no
+Die Ziegenmutter sieht: Der Tisch ist umgefallen. Scherben liegen auf dem Boden. Ein Stuhl ist kaputt.,negative,no
+Die Ziegenmutter sucht ihre Ziegenkinder. Und die Ziegenmutter ruft ihre Ziegenkinder. Aber die Ziegenkinder antworten nicht.,negative,no
+Die Ziegenmutter sucht überall. Aber es ist kein Ziegenkind da.,negative,no
+Plötzlich ruft eine Stimme: Liebe Ziegenmutter. Ich bin hier.,positive,no
+Da guckt die Ziegenmutter in den Uhrenkasten. Und findet das 7. Ziegenkind. Das 7. Ziegenkind weint.,negative-positive,yes
+Und das 7. Ziegenkind sagt: Der Wolf war hier. Und der Wolf hat die anderen Ziegenkinder gefressen.,negative,no
+Jetzt weint auch die Ziegenmutter. Die Ziegenmutter geht nach draußen. Und das 7. Ziegenkind geht mit.,negative,no
+Die Ziegenmutter sieht den Wolf: Der Wolf liegt unter einem Baum. Der Wolf schläft. Und der Wolf schnarcht laut.,neutral,no
+Die Ziegenmutter guckt sich den Wolf genau an: Der Wolf hat einen dicken Bauch. Der Bauch vom Wolf bewegt sich.,neutral,no
+Die Ziegenmutter denkt: Meine Ziegenkinder leben noch.,positive,no
+Die Ziegenmutter sagt zum 7. Ziegenkind: Hol mir eine Schere. Und eine Nadel. Und einen Faden.,neutral,no
+Das 7. Ziegenkind holt diese Dinge. Die Ziegenmutter nimmt jetzt die Schere. Und die Ziegenmutter schneidet den Bauch vom Wolf auf.,neutral,no
+Die Ziegenmutter sieht das 1. Ziegenkind. Das 1. Ziegenkind bewegt sich. Und das 1. Ziegenkind lebt.,positive,no
+Die Ziegenmutter schneidet weiter. Die Ziegenmutter sieht: Alle Ziegenkinder bewegen sich. Und alle Ziegenkinder leben.,positive,no
+Die Ziegenkinder klettern aus dem Bauch vom Wolf. Die Ziegenmutter umarmt ihre Ziegenkinder.,positive,no
+Die Ziegenkinder freuen sich. Und die Ziegenkinder tanzen.,positive,no
+Aber die Ziegenmutter sagt: Holt schnell große Steine. Die Steine legen wir in den Bauch vom Wolf.,neutral,no
+Der Wolf soll denken: Die Steine sind Ziegenkinder. Beeilt euch. Vielleicht wacht der Wolf gleich auf.,neutral,no
+Die Ziegenkinder holen große Steine. Und die Ziegenkinder legen die Steine in den Bauch vom Wolf.,neutral,no
+Die Ziegenmutter nimmt den Faden. Und die Ziegenmutter nimmt die Nadel. Und die Ziegenmutter näht den Bauch vom Wolf zu.,neutral,no
+Der Wolf merkt nichts. Der Wolf schläft weiter.,neutral,no
+Die Ziegenmutter sagt zu ihren Ziegenkindern: Jetzt gehen wir schnell ins Haus. Und wir sehen dem Wolf vom Haus aus zu.,neutral,no
+Nach einer Weile wacht der Wolf auf. Der Wolf hat Durst. Die Steine im Bauch haben den Wolf durstig gemacht. Der Wolf geht zum Brunnen.,neutral,no
+Die Steine bewegen sich im Bauch vom Wolf. Der Wolf denkt: Mein Bauch ist voll mit Ziegenkindern. Die Ziegenkinder sind schwer. So wie Steine.,neutral,no
+Der Wolf will aus dem Brunnen trinken. Deshalb lehnt sich der Wolf über den Rand vom Brunnen. Aber die Steine im Bauch vom Wolf sind schwer.,neutral,no
+Die Steine ziehen den Wolf in den Brunnen. Der Wolf verliert das Gleichgewicht. Der Wolf kann sich nicht festhalten. Der Wolf fällt in den Brunnen. Und ertrinkt.,positive,no
+Die Ziegenkinder sehen das. Und die Ziegenkinder sind sehr froh: Jetzt kann ihnen der böse Wolf nichts mehr tun.,positive,no
+Die Ziegenkinder laufen zum Brunnen. Und die Ziegenmutter läuft mit.,positive,no
+Die Ziegenmutter und die Ziegenkinder tanzen um den Brunnen. Und rufen: Der Wolf ist tot! Der Wolf ist tot!,positive,no
+Das war das Märchen vom Wolf und den 7 Geißlein.,neutral,no

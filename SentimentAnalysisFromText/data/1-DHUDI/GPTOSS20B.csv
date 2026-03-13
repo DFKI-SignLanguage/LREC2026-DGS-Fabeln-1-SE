@@ -1,0 +1,38 @@
+id,text_original,Sentiments,Multi
+S1,Der Hase und der Igel. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Der Hase und der Igel. Das Märchen geht so:,neutral,no
+S2,Es ist Herbst. Der Wind weht über die Felder. Die Sonne scheint hell. Die Vögel singen. Und die Bienen summen.,positive,no
+S3,Es ist Sonntagmorgen. Die Kirchenglocken läuten. Alle sind fröhlich. Auch der Igel ist fröhlich.,positive,no
+S4,Der Igel hat eine Frau. Die Igelfrau ist im Haus beschäftigt. Und der Igel hat nichts zu tun. Also geht der Igel spazieren.,neutral,no
+S5,Auf seinem Weg trifft der Igel einen Hasen. Der Hase geht auch spazieren. Und so sagt der Igel zum Hasen: Guten Morgen!,neutral,no
+S6,Der Hase antwortet nicht. Der Hase ist nämlich nicht nett. Aber der Hase fragt den Igel: Wieso bist du so früh schon wach?,negative,no
+S7,Der Igel antwortet: Ich gehe spazieren. Der Hase lacht. Und sagt: Aber du hast krumme Beine. Mit diesen krummen Beinen kannst du nicht spazieren gehen.,negative,no
+S8,Der Igel ist wütend. Der Hase hat nämlich recht: Die Beine vom Igel sind krumm. Aber deshalb muss der Hase nicht über den Igel lachen.,negative,no
+S9,Also fragt der Igel den Hasen: Findest du deine Beine besser? Der Hase nickt.,neutral,no
+S10,Und so sagt der Igel zum Hasen: Lass uns um die Wette laufen! Ich bin bestimmt schneller als du.,positive,no
+S11,Der Hase lacht wieder. Und denkt: Der Igel kann nicht schneller sein als ich. Der Igel hat krumme Beine. Deshalb werde ich gewinnen.,negative,no
+S12,Der Hase sagt: Der Gewinner soll vom Verlierer einen Preis bekommen. Der Igel antwortet: Der Gewinner bekommt vom Verlierer eine Goldmünze. Und eine Flasche Wein. Der Hase ist einverstanden.,neutral,no
+S13,Der Igel sagt: Ich muss zuerst etwas essen. Ich gehe jetzt nach Hause. Und frühstücke. In einer halben Stunde bin ich zurück. Dann laufen wir um die Wette. Der Hase ist zufrieden.,neutral,no
+S14,Und der Igel geht nach Hause. Auf seinem Weg nach Hause denkt der Igel: Der Hase hat lange Beine. Und der Hase ist schnell. Aber der Hase ist dumm. Ich bin schlau. Deshalb werde ich gewinnen.,negative,no
+S15,Zu Hause sagt der Igel zur Igelfrau: Zieh dich an. Du musst mit mir auf das Feld gehen. Ich will mit dem Hasen um die Wette laufen. Der Gewinner bekommt vom Verlierer eine Goldmünze. Und eine Flasche Wein. Komm mit!,positive,no
+S16,Die Igelfrau antwortet: Bist du dumm? Der Hase ist viel schneller als du. Du kannst nicht gewinnen.,negative,no
+S17,Der Igel ist wütend. Und sagt: Sei still! Ich will mit dem Hasen um die Wette laufen. Zieh dich an. Und komm mit!,negative,no
+S18,Also zieht die Igelfrau sich an. Und der Igel und die Igelfrau gehen zum Feld.,neutral,no
+S19,Auf dem Weg sagt der Igel zur Igelfrau: Siehst du den langen Acker? Auf dem Acker laufen wir um die Wette.,neutral,no
+S20,Der Hase läuft in einer Furche. Und ich laufe in der anderen Furche. Wir laufen oben am Acker los.,neutral,no
+S21,Du musst nur folgende Dinge tun: Du stellst dich unten in die Furche. Dann wartest du auf den Hasen. Du siehst den Hasen kommen? Dann rufst du: Ich bin schon hier.,neutral,no
+S22,Der Igel und die Igelfrau kommen beim Acker an. Der Igel zeigt der Igelfrau ihren Platz. Dann geht der Igel den Acker hinauf. Der Igel geht zu dem Treffpunkt mit dem Hasen. Der Hase wartet schon auf den Igel.,neutral,no
+S23,Der Hase fragt den Igel: Kann es losgehen? Der Igel nickt. Hase und Igel machen sich bereit.,neutral,no
+S24,Der Hase ruft: Auf die Plätze. Fertig. Los! Der Hase rennt los.,positive,no
+S25,Aber der Igel geht nur 3 Schritte. Dann macht der Igel sich klein. Und der Igel bleibt ruhig an seinem Platz sitzen.,negative,no
+S26,Der Hase kommt unten am Acker an. Die Igelfrau sieht den Hasen. Und die Igelfrau ruft: Ich bin schon hier!,neutral,no
+S27,Der Hase ist überrascht. Und denkt: Das ist nicht möglich. Deshalb ruft der Hase: Wir laufen noch einmal!,neutral,no
+S28,Und der Hase rennt wieder los. Der Hase rennt sehr schnell. Und die langen Ohren wehen dem Hasen um den Kopf.,positive,no
+S29,Aber die Igelfrau geht nur 3 Schritte. Dann macht die Igelfrau sich klein. Und die Igelfrau bleibt ruhig an ihrem Platz sitzen.,negative,no
+S30,Der Hase kommt oben am Acker an. Oben am Acker steht der Igel. Der Igel sieht den Hasen. Und der Igel ruft: Ich bin schon hier!,neutral,no
+S31,Der Hase ärgert sich. Und der Hase schreit: Wir laufen noch einmal!,negative,no
+S32,Der Igel nickt. Der Hase läuft den Acker hinauf und hinab. Der Hase will nämlich unbedingt gewinnen.,neutral,no
+S33,Der Igel bleibt die ganze Zeit oben am Acker. Und die Igelfrau bleibt die ganze Zeit unten am Acker.,neutral,no
+S34,Egal an welchem Ende vom Acker der Hase ankommt: Einer von den Igeln ist schon da. Und ruft: Ich bin schon hier!,neutral,no
+S35,Der Hase läuft ein weiteres Mal den Acker hinauf. Aber diesmal kommt der Hase nicht ans Ziel: Der Hase fällt mitten auf dem Acker um. Und bleibt liegen. Der Hase kann nicht mehr weiterlaufen.,negative,no
+S36,Der Igel freut sich. Der Igel hat nämlich die Wette gewonnen. Also nimmt der Igel die Goldmünze. Und die Flasche Wein.,positive,no
+S37,Dann ruft der Igel die Igelfrau zu sich. Und der Igel und die Igelfrau gehen fröhlich nach Hause. Das war das Märchen von Hase und Igel.,positive,no

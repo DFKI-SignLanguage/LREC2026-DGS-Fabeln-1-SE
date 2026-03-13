@@ -1,0 +1,151 @@
+id;text_original;Sentiments-GPT5;Multi-GPT5;Sentiments-Perplexity;Multi-Perplexity;Sentiments-Mistral;Multi-Mistral;Sentiments-GPTOSS20B;Multi-GPTOSS20B
+S1;Schneewittchen und die 7 Zwerge. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Schneewittchen. Das Märchen geht so:;neutral;no;neutral;no;neutral;no;neutral;no
+S2;Ein König und eine Königin leben in einem Schloss. Die Königin bekommt eine Tochter. Die Tochter ist sehr schön:;positive;no;positive;no;positive;no;neutral;no
+S3;Die Tochter hat schwarze Haare. Und rote Lippen. Und ihre Haut ist so weiß wie Schnee. Deshalb bekommt die Tochter den Namen: Schneewittchen. ;positive;no;positive;no;neutral;no;neutral;no
+S4;Schneewittchen ist nur wenige Tage alt. Da stirbt die Königin. Die Geburt war nämlich sehr schwer.;negative;no;negative;no;negative;no;negative;no
+S5;Ein Jahr vergeht. Da heiratet der König eine neue Frau.;neutral;no;neutral;no;neutral;no;neutral;no
+S6;Die neue Frau ist jetzt die Königin. Die neue Königin ist schön. Und auf ihre Schönheit ist die neue Königin sehr stolz. ;neutral;no;neutral;no;positive;no;neutral;no
+S7;Deshalb darf niemand schöner sein als die Königin. Sonst wird die Königin sehr böse.;negative;no;negative;no;negative;no;negative;no
+S8;Die Königin hat einen besonderen Spiegel. Der Spiegel kann sprechen.;neutral;no;neutral;no;neutral;no;neutral;no
+S9;Und so fragt die Königin den Spiegel jeden Tag: Mein lieber Spiegel an der Wand: Wer ist die Schönste im ganzen Land?;neutral;no;neutral;no;neutral;no;neutral;no
+S10;Und der Spiegel antwortet: Frau Königin: Du bist die Schönste im Land. Aber Schneewittchen ist noch viel schöner als du.;neutral - negative;yes;neutral;no;negative;no;neutral;no
+S11;Da wird die Königin wütend. Die Königin ist neidisch auf Schneewittchen. Die Königin will nämlich die Schönste sein.;negative;no;negative;no;negative;no;negative;no
+S12;So ruft die Königin einen Jäger zu sich. Die Königin sagt zum Jäger: Ich kann Schneewittchen nicht mehr sehen. Bring Schneewittchen in den Wald. Und töte Schneewittchen. ;negative;no;negative;no;negative;no;negative;no
+S13;Dann bring mir das Herz von Schneewittchen. Und auch ihre Leber. So weiß ich: Schneewittchen ist tot.;negative;no;negative;no;negative;no;negative;no
+S14;Der Jäger hat Angst vor der Königin. Deshalb gehorcht der Jäger. Der Jäger geht mit Schneewittchen in den Wald. Der Jäger hat ein großes Messer dabei.;negative;no;negative;no;negative;no;negative;no
+S15;Mit dem Messer will der Jäger Schneewittchen töten. Aber Schneewittchen weint viele Tränen.;negative;no;negative;no;negative;no;negative;no
+S16;Und sagt: Lieber Jäger: Bitte tu mir nichts. Ich laufe in den Wald. Und ich komme nie mehr zurück.;negative - neutral;yes;negative;no;negative;no;neutral;no
+S17;Der Jäger mag Schneewittchen sehr. Deshalb antwortet der Jäger: Lauf weg. Aber komm nie zurück.;positive - neutral;yes;positive;no;neutral-positive;yes;neutral;no
+S18;Und so läuft Schneewittchen in den tiefen Wald.;neutral;no;neutral;no;neutral;no;neutral;no
+S19;Der Jäger denkt: Die Königin wird mich bestrafen. Deshalb tötet der Jäger ein Wildschwein. ;negative;no;negative;no;negative;no;negative;no
+S20;Der Jäger nimmt das Herz und die Leber vom Wildschwein. Und bringt es der Königin.;neutral;no;neutral;no;negative;no;neutral;no
+S21;Die Königin will das Herz und die Leber essen. Deshalb muss der Koch das Herz und die Leber kochen. Der Koch bringt das Essen.;negative;no;negative;no;negative;no;negative;no
+S22;Und die Königin denkt: Ich esse das Herz und die Leber von Schneewittchen. Jetzt ist Schneewittchen tot.;negative;no;negative;no;negative;no;negative;no
+S23;Aber Schneewittchen ist nicht tot. Schneewittchen läuft durch den tiefen Wald. Schneewittchen ist ganz allein. Und Schneewittchen hat große Angst.;negative;no;negative;no;negative;no;negative;no
+S24;Schneewittchen kommt zu einem Häuschen. Ein Häuschen ist ein kleines Haus. Schneewittchen geht in das Häuschen.;neutral;no;neutral;no;neutral;no;neutral;no
+S25;Und auch in dem Häuschen ist alles sehr klein. In dem Häuschen wohnen nämlich Zwerge.;neutral;no;neutral;no;neutral;no;neutral;no
+S26;Aber das weiß Schneewittchen nicht. Die Zwerge sind nämlich nicht zu Hause.;neutral;no;neutral;no;neutral;no;neutral;no
+S27;In dem Häuschen ist es sauber. Und es gibt einen kleinen Tisch.;positive;no;positive;no;neutral;no;neutral;no
+S28;Auf dem Tisch stehen 7 kleine Teller. Und 7 kleine Becher. Und unter dem Dach sind 7 kleine Betten.;neutral;no;neutral;no;neutral;no;neutral;no
+S29;Schneewittchen ist sehr hungrig. Und durstig. Deshalb nimmt Schneewittchen von jedem Teller ein bisschen. So nimmt Schneewittchen niemandem zu viel weg.;neutral - positive;yes;neutral;no;neutral;no;neutral;no
+S30;Dann ist Schneewittchen müde. Schneewittchen legt sich in ein kleines Bett. Und schläft sofort ein.;neutral;no;neutral;no;neutral;no;neutral;no
+S31;Draußen ist es schon dunkel. Jetzt kommen die Zwerge nach Hause.;neutral;no;neutral;no;neutral;no;neutral;no
+S32;Die Zwerge machen das Licht an. Und die Zwerge denken: Jemand war in unserem Haus!;neutral;no;neutral;no;neutral;no;neutral;no
+S33;Die Zwerge rufen: Wer hat auf unseren Stühlen gesessen? Und wer hat von unseren Tellern gegessen? Und wer hat aus unseren Bechern getrunken?;neutral;no;neutral;no;neutral;no;neutral;no
+S34;Plötzlich ruft ein Zwerg: In meinem Bett liegt ein Mädchen! Das Mädchen ist sehr schön. Das Mädchen schläft!;positive;no;positive;no;positive;no;neutral;no
+S35;Die Zwerge lassen Schneewittchen schlafen. Am nächsten Morgen wacht Schneewittchen auf. Schneewittchen sieht die 7 Zwerge. Schneewittchen erschreckt sich.;neutral - negative;yes;neutral-negative;yes;neutral;no;neutral;no
+S36;Aber die 7 Zwerge sind sehr nett zu Schneewittchen.;positive;no;positive;no;positive;no;positive;no
+S37;Die 7 Zwerge fragen: Wie heißt du? Schneewittchen antwortet: Ich heiße Schneewittchen.;neutral;no;neutral;no;neutral;no;neutral;no
+S38;Die Zwerge sagen: Wir sind die 7 Zwerge. Und wir wohnen hinter den 7 Bergen.;neutral;no;neutral;no;neutral;no;neutral;no
+S39;Dann fragen die Zwerge: Wie kommst du in unser Häuschen?;neutral;no;neutral;no;neutral;no;neutral;no
+S40;Und Schneewittchen erzählt von der Königin. Schneewittchen sagt: Ich kann nicht ins Schloss zurück.;negative;no;negative;no;negative;no;neutral;no
+S41;Die böse Königin will mich töten. Deshalb bin ich weggelaufen. Dann habe ich euer Häuschen gefunden.;negative - positive;yes;negative-positive;yes;negative;no;negative;no
+S42;Die Zwerge sagen: Du kannst gerne bei uns bleiben. Aber dafür musst du unser Häuschen sauber machen. Und für uns das Essen kochen.;positive;no;positive;no;positive;no;neutral;no
+S43;Und so bleibt Schneewittchen bei den 7 Zwergen. Hinter den 7 Bergen. Die Zwerge arbeiten den ganzen Tag. Deshalb ist Schneewittchen oft alleine.;neutral;no;neutral-negative;yes;neutral;no;neutral;no
+S44;Die Zwerge sagen zu Schneewittchen: Pass gut auf dich auf. Und lass niemanden in das Häuschen.;neutral;no;neutral;no;neutral;no;neutral;no
+S45;Schneewittchen ist bei den 7 Zwergen im Wald. Und die böse Königin ist im Schloss.;neutral;no;neutral;no;neutral;no;neutral;no
+S46;Die Königin denkt: Schneewittchen ist tot. Und ich bin die Schönste im ganzen Land.;negative;no;negative;no;positive;no;neutral;no
+S47;Deshalb fragt die Königin ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land?;neutral;no;neutral;no;neutral;no;neutral;no
+S48;Und der Spiegel antwortet: Frau Königin: Du bist die Schönste im Land.;neutral;no;neutral;no;positive;no;neutral;no
+S49;Aber Schneewittchen wohnt hinter den Bergen. Bei den 7 Zwergen. Und Schneewittchen ist noch viel schöner als du.;neutral - negative;yes;positive-negative;yes;negative;no;neutral;no
+S50;Die Königin ist wütend. Die Königin weiß jetzt: Der Jäger hat gelogen.;negative;no;negative;no;negative;no;negative;no
+S51;Der Jäger hat Schneewittchen nicht getötet. Deshalb will die Königin Schneewittchen jetzt selber töten.;negative;no;negative;no;negative;no;negative;no
+S52;Die Königin verkleidet sich. Das heißt: Die Königin zieht alte Sachen an. Und die Königin malt ihr Gesicht an.;neutral;no;neutral;no;neutral;no;neutral;no
+S53;Jetzt sieht die Königin aus wie eine alte Marktfrau. So kann niemand die Königin erkennen.;neutral;no;neutral;no;neutral;no;neutral;no
+S54;Die Königin geht in den Wald. Die Königin geht zum Haus von den 7 Zwergen. Die Königin klopft an die Tür.;neutral;no;neutral;no;neutral;no;neutral;no
+S55;Und ruft: Liebes Mädchen! Ich verkaufe schöne Dinge!;neutral;no;neutral;no;neutral;no;neutral;no
+S56;Schneewittchen schaut aus dem Fenster. Aber Schneewittchen erkennt die böse Königin nicht.;neutral;no;neutral;no;neutral;no;neutral;no
+S57;Schneewittchen sagt: Was verkaufst du?;neutral;no;neutral;no;neutral;no;neutral;no
+S58;Die Königin antwortet: Ich verkaufe Gürtel. Die Gürtel sind sehr schön. Du kannst einen Gürtel anprobieren!;neutral;no;neutral;no;neutral;no;neutral;no
+S59;Schneewittchen findet die verkleidete Königin nett. Deshalb öffnet Schneewittchen die Tür.;neutral - positive;yes;positive-negative;yes;neutral;no;positive;no
+S60;Die verkleidete Königin zieht Schneewittchen den Gürtel an. Und macht den Gürtel fester.;negative;no;negative;no;negative;no;negative;no
+S61;Schneewittchen bekommt keine Luft mehr. Schneewittchen fällt zu Boden.;negative;no;negative;no;negative;no;negative;no
+S62;Die böse Königin denkt: Endlich ist Schneewittchen tot! Jetzt bin ich wieder die Schönste im Land.;negative;no;negative;no;positive;no;negative;no
+S63;Am Abend kommen die Zwerge nach Hause. Die Zwerge finden Schneewittchen. Und denken: Schneewittchen ist tot!;negative;no;negative;no;negative;no;negative;no
+S64;Dann sehen die Zwerge den Gürtel: Der Gürtel ist viel zu eng.;neutral;no;neutral;no;neutral;no;neutral;no
+S65;Die Zwerge schneiden den Gürtel auf. Jetzt kann Schneewittchen wieder atmen. Schneewittchen öffnet die Augen. ;negative - positive;yes;negative-positive;yes;positive;no;positive;no
+S66;Die Zwerge fragen: Was ist passiert? Und Schneewittchen erzählt von der Marktfrau.;neutral;no;neutral;no;neutral;no;neutral;no
+S67;Die Zwerge sagen: Das war die böse Königin. Die Königin hat sich bestimmt verkleidet.;negative;no;negative;no;negative;no;neutral;no
+S68;Liebes Schneewittchen: Du darfst niemandem die Tür öffnen!;neutral;no;neutral;no;neutral;no;neutral;no
+S69;Die böse Königin geht zurück zum Schloss. Und fragt ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land?;neutral;no;neutral;no;neutral;no;neutral;no
+S70;Und der Spiegel antwortet: Frau Königin: Du bist die Schönste im Land.;neutral;no;positive;no;positive;no;neutral;no
+S71;Aber Schneewittchen wohnt hinter den Bergen. Bei den 7 Zwergen. Und Schneewittchen ist noch viel schöner als du.;neutral - negative;yes;negative;no;negative;no;neutral;no
+S72;Die Königin ist wütend. Jetzt weiß die Königin nämlich: Schneewittchen lebt immer noch. ;negative;no;negative;no;negative;no;negative;no
+S73;Aber Schneewittchen soll sterben. Die Königin will nämlich die Schönste sein.;negative;no;negative;no;negative;no;negative;no
+S74;Deshalb macht die Königin einen neuen Plan: Die Königin nimmt einen Kamm. Die Königin legt den Kamm in einen Topf mit Gift. So wird der Kamm giftig.;negative;no;negative;no;negative;no;negative;no
+S75;Dann verkleidet die Königin sich wieder: Die Königin zieht andere Sachen an. Und die Königin malt ihr Gesicht an.;neutral;no;neutral;no;neutral;no;neutral;no
+S76;So geht die Königin in den Wald. Die Königin geht zum Haus von den Zwergen. Die Königin klopft an die Tür. ;neutral;no;neutral;no;neutral;no;neutral;no
+S77;Und ruft: Liebes Mädchen! Ich verkaufe schöne Dinge.;neutral;no;neutral;no;neutral;no;neutral;no
+S78;Schneewittchen schaut aus dem Fenster. Schneewittchen erkennt die Königin nicht.;neutral;no;neutral;no;neutral;no;neutral;no
+S79;Aber Schneewittchen weiß: Die Zwerge sind nicht zu Hause. Ich darf niemandem die Tür öffnen.;neutral;no;neutral;no;neutral;no;neutral;no
+S80;Schneewittchen sagt zu der verkleideten Königin: Geh weiter. Ich darf niemanden ins Haus lassen.;neutral;no;neutral;no;neutral;no;neutral;no
+S81;Die verkleidete Königin antwortet: Du musst mich nicht ins Haus lassen. Ich verkaufe die Sachen am Fenster.;neutral;no;neutral;no;neutral;no;neutral;no
+S82;Die Königin zeigt Schneewittchen einen Kamm. Der Kamm ist giftig. Aber das weiß Schneewittchen nicht.;negative;no;negative;no;neutral;no;negative;no
+S83;Schneewittchen findet den Kamm sehr schön. Schneewittchen kauft den Kamm. ;neutral;no;positive;no;neutral;no;neutral;no
+S84;Und die verkleidete Königin kämmt Schneewittchen mit dem giftigen Kamm die Haare.;negative;no;negative;no;negative;no;negative;no
+S85;Das Gift wirkt sofort: Schneewittchen fällt zu Boden.;negative;no;negative;no;negative;no;negative;no
+S86;Die Königin denkt: Jetzt ist Schneewittchen endlich tot!;negative;no;negative;no;positive;no;negative;no
+S87;Am Abend kommen die 7 Zwerge nach Hause. Die Zwerge finden Schneewittchen.;negative;no;negative;no;neutral;no;neutral;no
+S88;Die Zwerge denken: Die böse Königin war hier. Aber vielleicht können wir Schneewittchen helfen.;negative - positive;yes;negative-positive;yes;neutral;no;neutral;no
+S89;Die Zwerge suchen alles ab. Die Zwerge finden den Kamm. Die Zwerge ziehen den Kamm aus den Haaren von Schneewittchen.;positive;no;positive;no;neutral;no;neutral;no
+S90;Schneewittchen öffnet die Augen. Und Schneewittchen erzählt von der verkleideten Frau.;positive;no;positive;no;neutral;no;neutral;no
+S91;Die Zwerge sagen: Das war die böse Königin. Du hast die böse Königin wieder nicht erkannt!;negative;no;neutral;no;negative;no;neutral;no
+S92;Du musst besser aufpassen! Und du darfst niemandem die Tür öffnen!;neutral;no;neutral;no;neutral;no;neutral;no
+S93;Die böse Königin geht zurück zum Schloss. Und fragt ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land? ;neutral;no;neutral;no;neutral;no;neutral;no
+S94;Und der Spiegel antwortet: Frau Königin: Du bist die Schönste im Land.;neutral;no;positive;no;positive;no;neutral;no
+S95;Aber Schneewittchen wohnt hinter den Bergen. Bei den 7 Zwergen. Und Schneewittchen ist noch viel schöner als du.;neutral - negative;yes;negative;no;negative;no;neutral;no
+S96;Jetzt wird die Königin wütend. Und schreit: Schneewittchen muss sterben!;negative;no;negative;no;negative;no;negative;no
+S97;Die Königin nimmt einen Apfel. Der Apfel sieht sehr lecker aus. Aber der Apfel ist giftig. Die Königin hat die eine Hälfte vom Apfel vergiftet.;negative;no;negative;no;negative;no;negative;no
+S98;Die Königin verkleidet sich wieder. Die Königin zieht andere Sachen an. Und die Königin malt ihr Gesicht an.;neutral;no;neutral;no;neutral;no;neutral;no
+S99;So geht die Königin in den Wald. Die Königin geht bis zum Haus von den 7 Zwergen. Die Königin klopft an die Tür.;neutral;no;neutral;no;neutral;no;neutral;no
+S100;Aber Schneewittchen sagt: Die Zwerge sind nicht zu Hause. Ich darf die Tür nicht öffnen!;neutral;no;neutral;no;neutral;no;neutral;no
+S101;Die Königin antwortet: Das ist schade. Ich habe nämlich sehr schöne Äpfel. Ich möchte dir einen Apfel schenken.;neutral;no;neutral;no;neutral;no;neutral;no
+S102;Schneewittchen sagt: Ich darf den Apfel nicht nehmen. Die Königin antwortet: Du musst keine Angst haben.;neutral;no;neutral;no;neutral;no;neutral;no
+S103;Der Apfel hat 2 Hälften: Eine Hälfte ist rot. Die andere Hälfte ist weiß;neutral;no;neutral;no;neutral;no;neutral;no
+S104;Ich schneide den Apfel in der Mitte durch. Du kannst die rote Hälfte essen. Und ich esse die weiße Hälfte.;neutral;no;neutral;no;neutral;no;neutral;no
+S105;So weißt du: Der Apfel ist nicht giftig. Ich esse den Apfel nämlich auch.;neutral;no;negative;no;neutral-positive;yes;neutral;no
+S106;Die Königin beißt in die weiße Hälfte vom Apfel. Die weiße Hälfte ist nämlich nicht giftig.;neutral;no;neutral;no;neutral;no;neutral;no
+S107;Aber Schneewittchen beißt in die rote Hälfte vom Apfel. Und nur die rote Hälfte ist giftig. ;negative;no;negative;no;negative;no;negative;no
+S108;Das Gift wirkt sofort: Schneewittchen fällt zu Boden.;negative;no;negative;no;negative;no;negative;no
+S109;Die Königin lacht laut. Und sagt: Die Zwerge können dir nicht helfen. Jetzt bist du für immer tot.;negative;no;negative;no;positive;no;negative;no
+S110;Die Königin geht zurück zum Schloss. Und fragt ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land?;neutral;no;neutral;no;neutral;no;neutral;no
+S111;Der Spiegel antwortet: Frau Königin: Du bist die Schönste im ganzen Land.;neutral;no;positive;no;positive;no;neutral;no
+S112;Jetzt ist die Königin die Schönste von allen. Deshalb ist die Königin sehr glücklich.;positive;no;positive;no;positive;no;positive;no
+S113;Am Abend kommen die Zwerge nach Hause. Die Zwerge finden Schneewittchen auf dem Boden. Schneewittchen atmet nicht mehr.;negative;no;negative;no;negative;no;negative;no
+S114;Die Zwerge denken: Die Königin hat Schneewittchen vergiftet! Wir müssen Schneewittchen helfen!;negative;no;negative;no;negative;no;neutral;no
+S115;Die Zwerge suchen das Gift. Aber die Zwerge können das Gift nicht finden. Deshalb sind die Zwerge sehr traurig.;negative;no;negative;no;negative;no;negative;no
+S116;Jetzt wissen die Zwerge: Schneewittchen ist tot!;negative;no;negative;no;negative;no;negative;no
+S117;Die Zwerge wollen Schneewittchen beerdigen. Aber die Zwerge denken: Schneewittchen ist so schön.;negative - positive;yes;negative-positive;yes;neutral;no;neutral;no
+S118;Wir können Schneewittchen nicht unter die Erde legen. Deshalb bekommt Schneewittchen einen Sarg aus Glas. So können wir Schneewittchen immer sehen.;negative - neutral;yes;positive;no;neutral;no;neutral;no
+S119;Die Zwerge legen Schneewittchen in einen Sarg aus Glas. Und bringen den Sarg mit Schneewittchen in den Wald.;neutral;no;negative;no;neutral;no;neutral;no
+S120;Die Zwerge besuchen Schneewittchen jeden Tag.;neutral;no;positive;no;neutral;no;neutral;no
+S121;Die Tage vergehen. Ein Prinz reitet durch den Wald. Der Prinz sieht den Sarg aus Glas.;neutral;no;neutral;no;neutral;no;neutral;no
+S122;Und der Prinz sieht Schneewittchen in dem Sarg liegen. Der Prinz verliebt sich sofort in das schöne Schneewittchen.;positive;no;positive;no;positive;no;positive;no
+S123;Deshalb reitet der Prinz zu den Zwergen. Und sagt: Bitte gebt mir Schneewittchen. Ich nehme Schneewittchen mit auf mein Schloss.;positive;no;positive;no;positive;no;neutral;no
+S124;Die Zwerge antworten: Wir mögen Schneewittchen so sehr. Wir können dir Schneewittchen nicht geben.;positive - negative;yes;neutral;no;neutral;no;neutral;no
+S125;Der Prinz sagt: Bitte gebt mir Schneewittchen. Oder ich werde für immer traurig sein.;neutral - negative;yes;negative;no;negative;no;neutral;no
+S126;Das wollen die Zwerge nicht. Deshalb entscheiden die Zwerge: Der Prinz darf Schneewittchen mitnehmen.;positive;no;positive;no;positive;no;neutral;no
+S127;Der Prinz möchte Schneewittchen in sein Schloss bringen. Deshalb ruft der Prinz seine Diener.;neutral;no;neutral;no;neutral;no;neutral;no
+S128;Die Diener helfen dem Prinzen den Sarg mit Schneewittchen ins Schloss zu tragen.;neutral;no;neutral;no;neutral;no;neutral;no
+S129;Auf dem Weg stolpert ein Diener über einen Stein. Und lässt den Sarg fallen. Der Sarg fällt auf die Erde.;negative;no;negative;no;neutral;no;negative;no
+S130;Und Schneewittchen bekommt einen Ruck. Plötzlich fällt ein Stück Apfel aus dem Mund von Schneewittchen.;neutral - positive;yes;positive;no;neutral;no;negative;no
+S131;Schneewittchen hat das Apfelstück nicht geschluckt. Und der giftige Apfel hat Schneewittchen nicht getötet.;positive;no;positive;no;positive;no;neutral;no
+S132;Schneewittchen öffnet die Augen. Und fragt: Wo bin ich?;positive;no;positive;no;neutral;no;neutral;no
+S133;Der Prinz antwortet: Du bist bei mir. Ich bin ein Prinz.;positive;no;positive;no;neutral;no;neutral;no
+S134;Und ich nehme dich mit auf mein Schloss. Du sollst meine Prinzessin sein. Willst du mich heiraten?;positive;no;positive;no;positive;no;positive;no
+S135;Schneewittchen ist glücklich. Und Schneewittchen will den Prinzen heiraten. Es gibt ein großes Fest.;positive;no;positive;no;positive;no;positive;no
+S136;Zu dem Fest sind viele Gäste eingeladen. Und auch die böse Königin ist eingeladen. Die böse Königin kennt den Prinzen nämlich nicht.;neutral;no;neutral;no;neutral;no;neutral;no
+S137;Die Königin denkt: Schneewittchen ist tot. Und ich bin die Schönste im ganzen Land.;negative;no;positive;no;positive;no;negative;no
+S138;Auf dem Fest wird keine Frau schöner sein als ich.;negative;no;positive;no;positive;no;negative;no
+S139;Und so fragt die Königin ihren Spiegel: Mein lieber Spiegel an der Wand! Wer ist die Schönste im ganzen Land?;neutral;no;neutral;no;neutral;no;neutral;no
+S140;Und der Spiegel antwortet: Frau Königin: Du bist die schönste im Land. Aber die Prinzessin ist noch viel schöner als du.;neutral - negative;yes;negative;no;negative;no;neutral;no
+S141;Die Königin ist wütend. Und die Königin will diese Prinzessin sehen. Deshalb geht die Königin zu dem Fest.;negative;no;negative;no;negative;no;negative;no
+S142;Auf dem Fest sieht die böse Königin: Schneewittchen ist die schöne Prinzessin.;positive;no;positive;no;neutral;no;neutral;no
+S143;Der Spiegel hat die Wahrheit gesagt. Schneewittchen lebt. Und Schneewittchen ist wunderschön. Die Königin hat verloren.;positive - negative;yes;positive-negative;yes;negative;no;positive;no
+S144;Schneewittchen sieht die böse Königin. Und denkt: Die böse Königin wollte mich töten. Deshalb werde ich die böse Königin bestrafen.;negative;no;negative;no;negative;no;negative;no
+S145;Schneewittchen gibt der bösen Königin schwere Schuhe. Die böse Königin muss mit den schweren Schuhen tanzen.;negative;no;negative;no;negative;no;negative;no
+S146;Die Königin hat große Schmerzen. Die Schuhe sind nämlich sehr schwer;negative;no;negative;no;negative;no;negative;no
+S147;Aber die böse Königin muss immer weiter tanzen. Dann fällt die Königin zu Boden. Die böse Königin ist tot.;negative;no;negative;no;negative;no;positive;no
+S148;Jetzt muss Schneewittchen nie wieder Angst vor der bösen Königin haben.;positive;no;positive;no;positive;no;positive;no
+S149;Schneewittchen ist glücklich. Und der Prinz ist glücklich. Und auch die Zwerge sind glücklich.;positive;no;positive;no;positive;no;positive;no
+S150;Alle leben noch viele Jahre lang. Das war das Märchen von Schneewittchen.;positive;no;positive;no;positive;no;positive;no

@@ -1,0 +1,65 @@
+Text,Sentiments,Multi
+"Dornröschen. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte. Dieses Märchen heißt: Dornröschen. Das Märchen geht so:",neutral,no
+"Ein König und eine Königin wünschen sich ein Kind. An einem Morgen badet die Königin. Da kommt ein Frosch.",neutral,no
+"Der Frosch sagt zur Königin: Du bekommst noch in diesem Jahr ein Kind.",positive,no
+"Und der Frosch hat recht: Die Königin bekommt noch im gleichen Jahr ein Mädchen. Das Mädchen heißt: Dornröschen.",positive,no
+"Der König und die Königin sind sehr glücklich. Deshalb feiern der König und die Königin ein großes Fest.",positive,no
+"Zu diesem Fest lädt der König alle ein: Die Familie. Freunde. Und viele andere Gäste.",positive,no
+"Der König will auch die 13 Feen aus dem Königreich einladen. Feen können Wünsche erfüllen.",positive,no
+"Die 13 Feen sollen Dornröschen gute Dinge wünschen.",positive,no
+"Und die 13 Feen sollen von goldenen Tellern essen.",neutral,no
+"Aber der König hat nur 12 goldene Teller. Deshalb lädt der König nur 12 Feen ein.",neutral,no
+"Das heißt: Die 13. Fee darf nicht zu dem großen Fest kommen.",negative,no
+"Es ist der Tag von dem Fest. Viele Gäste sind gekommen. Und auch die 12 Feen sind auf dem Fest.",positive,no
+"Die Feen sprechen ihre guten Wünsche zu Dornröschen:",positive,no
+"Die Feen wünschen Dornröschen Schönheit. Und Freundlichkeit. Und viele andere Dinge.",positive,no
+"So sprechen 11 Feen ihre guten Wünsche.",positive,no
+"Plötzlich kommt die 13. Fee zur Tür herein. Die 13. Fee ist sehr wütend.",negative,no
+"Der König hat die 13. Fee nämlich nicht eingeladen. Der König hatte ja nur 12 goldene Teller.",neutral,no
+"Jetzt sagt die 13. Fee zum König und zur Königin:",neutral,no
+"An ihrem 15. Geburtstag soll sich Dornröschen an einer Spindel stechen. Und sterben.",negative,no
+"So spricht die 13. Fee ihren bösen Wunsch. Und verschwindet.",negative,no
+"Die Gäste sind erschrocken. Und alle Menschen auf dem Fest haben Angst.",negative,no
+"Aber zum Glück hat die 12. Fee ihren Wunsch noch nicht gesprochen:",positive,no
+"Die 12. Fee kann den bösen Wunsch nicht rückgängig machen. Aber die 12. Fee kann den bösen Wunsch verwandeln.",neutral,no
+"So sagt die 12. Fee: Dornröschen wird an ihrem 15. Geburtstag nicht sterben.",positive,no
+"Aber Dornröschen wird 100 Jahre schlafen. Jetzt hat auch der König Angst.",negative,no
+"Und sagt: Alle Spindeln im Königreich werden verbrannt.",neutral,no
+"So kann sich Dornröschen nicht an einer Spindel stechen. Und Dornröschen muss nicht 100 Jahre schlafen.",positive,no
+"Die Jahre vergehen. Und Dornröschen wird älter.",neutral,no
+"Alle guten Wünsche von den 12 Feen gehen in Erfüllung:",positive,no
+"Dornröschen ist sehr schön. Und Dornröschen ist sehr freundlich. Und alle mögen Dornröschen.",positive,no
+"Es ist der 15. Geburtstag von Dornröschen: Dornröschen ist allein. Und Dornröschen erkundet das Schloss.",neutral,no
+"Dornröschen kommt zu einem alten Turm. Im Turm ist ein kleines Zimmer. Dornröschen geht in das kleine Zimmer:",neutral,no
+"Eine alte Frau sitzt an einem Spinnrad. Die alte Frau arbeitet mit einer Spindel.",neutral,no
+"Dornröschen fragt die alte Frau: Was machst du da?",neutral,no
+"Die alte Frau antwortet: Ich mache Wolle zu einem Faden.",neutral,no
+"Dornröschen ist neugierig. Dornröschen hat noch nie eine Spindel gesehen. Dornröschen nimmt die Spindel in die Hand.",neutral,no
+"Plötzlich geht der böse Wunsch von der 13. Fee in Erfüllung: Dornröschen sticht sich an der Spindel.",negative,no
+"Und Dornröschen fällt in einen tiefen Schlaf. Aber nicht nur Dorn·röschen schläft ein.",negative,no
+"Auch die Menschen im Schloss schlafen ein: Der König und die Königin. Der Koch. Die Diener.",negative,no
+"Und sogar die Tiere schlafen ein: Die Pferde im Stall. Die Tauben auf dem Dach. Und die Fliegen an der Wand.",negative,no
+"Jetzt ist es überall still. Die Jahre vergehen.",neutral,no
+"Und eine Dornenhecke wächst um das Schloss. Die Dornenhecke wird jedes Jahr größer. Bis das ganze Schloss von der Dornenhecke bedeckt ist.",neutral,no
+"Die Menschen im Land erzählen sich die Geschichte von Dornröschen.",neutral,no
+"Und viele Prinzen wollen in das Schloss. Die Prinzen wollen Dornröschen wecken.",positive,no
+"Aber die Dornenhecke bedeckt das ganze Schloss. Und die Dornen sind sehr gefährlich.",negative,no
+"Viele Prinzen stechen sich an den Dornen. Und viele Prinzen sterben.",negative,no
+"Dornröschen schläft jetzt schon 100 Jahre. Aber kein Prinz konnte Dornröschen wecken.",negative,no
+"Da kommt ein besonderer Prinz in das Land. Der Prinz hört die Geschichte von Dornröschen.",neutral,no
+"Der Prinz denkt: Viele Prinzen wollten Dornröschen wecken. Und viele Prinzen sind in der Dornenhecke gestorben.",negative,no
+"Aber ich habe keine Angst. Ich werde Dornröschen wecken.",positive,no
+"Und so reitet der Prinz zum Schloss von Dornröschen. Der Prinz kommt zu dem Schloss von Dornröschen. Und der Prinz sieht die Dornenhecke.",neutral,no
+"Der Prinz entdeckt einen geheimen Weg. Dieser Weg führt durch die Dornenhecke.",neutral,no
+"Der Prinz geht den Weg entlang. Und der Prinz sticht sich nicht an den Dornen.",positive,no
+"So kommt der Prinz bis ins Schloss. Im Schloss ist es ganz still. Alle schlafen nämlich.",neutral,no
+"Der Prinz geht durch das Schloss. Und der Prinz findet den alten Turm.",neutral,no
+"Im Turm liegt Dornröschen auf einem Bett. Und schläft.",neutral,no
+"Der Prinz sieht Dornröschen. Und der Prinz denkt: Dornröschen ist sehr schön.",positive,no
+"Der Prinz bückt sich zu Dornröschen herunter. Und der Prinz küsst Dornröschen.",positive,no
+"Plötzlich öffnet Dornröschen die Augen. Und Dornröschen lächelt den Prinzen an.",positive,no
+"Jetzt erwachen auch die Menschen im Schloss: Der König und die Königin. Der Koch. Die Diener.",positive,no
+"Und auch die Tiere erwachen: Die Pferde im Stall. Die Tauben auf dem Dach. Und die Fliegen an der Wand.",positive,no
+"Das Schloss ist wieder voller Leben.",positive,no
+"Dornröschen und der Prinz heiraten. Und alle Menschen im Land feiern ein großes Fest.",positive,no
+"Und Dornröschen und der Prinz leben für immer glücklich zusammen. Das war das Märchen von Dornröschen.",positive,no

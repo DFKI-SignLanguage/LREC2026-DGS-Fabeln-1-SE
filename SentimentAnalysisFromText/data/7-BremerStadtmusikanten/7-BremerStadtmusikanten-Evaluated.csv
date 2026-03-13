@@ -1,0 +1,82 @@
+id;text_original;Sentiments-GPT5;Multi-GPT5;Sentiments-Perplexity;Multi-Perplexity;Sentiments-Mistral;Multi-Mistral;Sentiments-GPTOSS20B;Multi-GPTOSS20B
+S1;Die Bremer Stadtmusikanten. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte.;neutral;no;neutral;no;neutral;no;neutral;no
+S2;Dieses Märchen heißt: Die Bremer Stadtmusikanten. Das Märchen geht so:;neutral;no;neutral;no;neutral;no;neutral;no
+S3;Ein Mann hat eine Mühle. Der Mann hat auch einen Esel.;neutral;no;neutral;no;neutral;no;neutral;no
+S4;Der Esel trägt viele Jahre lang Getreidesäcke zur Mühle.;neutral;no;neutral;no;neutral;no;neutral;no
+S5;Mit den Jahren wird der Esel alt. Und schwach.;negative;no;negative;no;negative;no;neutral;no
+S6;Aber der Mann möchte keinen alten und schwachen Esel. Deshalb will der Mann den Esel töten.;negative;no;negative;no;negative;no;negative;no
+S7;Das merkt der Esel. Deshalb will der Esel fortlaufen.;negative;no;negative;no;negative;no;neutral;no
+S8;Der Esel will nach Bremen gehen. Bremen ist eine Stadt in Norddeutschland.;neutral;no;neutral;no;neutral;no;neutral;no
+S9;In Bremen will der Esel ein Stadtmusikant werden. Musikant ist ein anderes Wort für Musiker.;positive;no;positive;no;positive;no;neutral;no
+S10;Der Esel will also in Bremen Musik machen.;positive;no;positive;no;positive;no;neutral;no
+S11;So läuft der Esel fort. Nach einer Weile trifft der Esel einen Hund.;neutral;no;neutral;no;neutral;no;neutral;no
+S12;Der Hund sieht sehr traurig aus. Der Esel fragt den Hund: Warum bist du so traurig?;negative;no;negative;no;negative;no;negative;no
+S13;Der Hund antwortet: Ich bin alt. Und ich bin schwach.;negative;no;negative;no;negative;no;negative;no
+S14;Ich kann meinem Herrn nicht mehr beim Jagen helfen. Mein Herr wollte mich töten. Deshalb bin ich fortgelaufen.;negative;no;negative;no;negative;no;negative;no
+S15;Der Esel sagt zum Hund. Ich gehe nach Bremen. In Bremen werde ich Stadtmusikant. Willst du mitkommen?;positive;no;positive;no;positive;no;neutral;no
+S16;Der Hund kommt gerne mit. Und so gehen der Esel und der Hund zusammen nach Bremen.;positive;no;positive;no;positive;no;positive;no
+S17;Auf ihrem Weg treffen der Esel und der Hund eine Katze. Die Katze sieht sehr traurig aus.;negative;no;negative;no;negative;no;negative;no
+S18;Der Esel fragt die Katze: Warum bist du so traurig?;negative;no;negative;no;negative;no;negative;no
+S19;Die Katze sagt: Ich bin alt. Und ich bin schwach.;negative;no;negative;no;negative;no;negative;no
+S20;Ich kann keine Mäuse mehr jagen. Deshalb will mein Herr mich töten.;negative;no;negative;no;negative;no;negative;no
+S21;Der Esel sagt zur Katze: Wir gehen nach Bremen. In Bremen werden wir Stadtmusikanten. Willst du mitkommen?;positive;no;positive;no;positive;no;neutral;no
+S22;Die Katze kommt gerne mit. Und so gehen der Esel und der Hund und die Katze zusammen nach Bremen.;positive;no;positive;no;positive;no;positive;no
+S23;Auf ihrem Weg kommen die Tiere zu einem Bauernhof. Auf dem Bauernhof treffen die Tiere einen Hahn.;neutral;no;neutral;no;neutral;no;neutral;no
+S24;Der Hahn schreit sehr laut. Der Esel fragt den Hahn: Warum schreist du so laut?;neutral;no;neutral;no;negative;no;neutral;no
+S25;Der Hahn antwortet: Morgen ist ein großes Fest. Dann will mich meine Herrin braten. Und essen.;negative;no;negative;no;negative;no;negative;no
+S26;Aber ich will nicht sterben. Deshalb schreie ich so laut.;negative;no;negative;no;negative;no;negative;no
+S27;Der Esel sagt zum Hahn. Wir gehen nach Bremen. In Bremen werden wir Stadtmusikanten. Willst du mitkommen?;positive;no;positive;no;positive;no;neutral;no
+S28;Und auch der Hahn kommt gerne mit. Zusammen gehen die 4 Tiere nach Bremen: Der Esel. Der Hund. Die Katze. Und der Hahn.;positive;no;positive;no;positive;no;positive;no
+S29;Aber der Weg nach Bremen ist sehr weit: Die Tiere gehen den ganzen Tag.;neutral;no;neutral;no;neutral;no;neutral;no
+S30;Langsam wird es dunkel. Die Tiere kommen in einen Wald.;neutral;no;neutral;no;neutral;no;neutral;no
+S31;Die Tiere sind sehr müde. Die Tiere wollen im Wald schlafen.;neutral;no;neutral;no;neutral;no;neutral;no
+S32;Die Tiere suchen einen Platz zum Schlafen:;neutral;no;neutral;no;neutral;no;neutral;no
+S33;Der Esel und der Hund legen sich unter einen großen Baum. Die Katze klettert auf den Baum. Und legt sich auf einen Ast. Der Hahn fliegt bis auf die Spitze vom Baum.;neutral;no;neutral;no;neutral;no;neutral;no
+S34;Dann schaut sich der Hahn um: In der Nähe sieht der Hahn ein helles Licht brennen.;neutral;no;neutral;no;neutral;no;neutral;no
+S35;Der Hahn denkt: Das Licht kommt von einem Haus.;neutral;no;neutral;no;neutral;no;neutral;no
+S36;Der Hahn sagt zu den anderen Tieren: Ich kann ein Haus sehen. Lasst uns zu dem Haus gehen.;neutral;no;neutral;no;neutral;no;neutral;no
+S37;Die Tiere finden die Idee vom Hahn gut. Die Tiere machen sich auf den Weg zum Haus.;positive;no;positive;no;neutral;no;neutral;no
+S38;Die Tiere folgen dem Licht. Das Licht wird immer heller. Die Tiere kommen zu dem Haus.;neutral;no;neutral;no;neutral;no;neutral;no
+S39;Und der Esel schaut durch ein Fenster in das Haus. Der Hahn fragt den Esel: Was siehst du?;neutral;no;neutral;no;neutral;no;neutral;no
+S40;Der Esel antwortet: Ich sehe einen großen Tisch. An dem Tisch sitzen Räuber. Die Räuber essen und trinken.;negative;no;negative;no;neutral;no;neutral;no
+S41;Der Hahn sagt zum Esel: Wir wollen auch an dem Tisch sitzen. Der Esel stimmt zu.;positive;no;positive;no;positive;no;neutral;no
+S42;Und der Esel sagt: Wir müssen die Räuber verjagen.;neutral;no;negative;no;negative;no;neutral;no
+S43;Dann können wir auch an dem Tisch sitzen. Und essen und trinken.;positive;no;positive;yes;positive;no;neutral;no
+S44;Die Tiere überlegen. Dann haben die Tiere eine Idee:;neutral;no;positive;no;neutral;no;neutral;no
+S45;Der Esel stellt sich vor das Fenster. Der Hund springt auf den Rücken vom Esel. Die Katze klettert auf den Rücken vom Hund. Und der Hahn fliegt auf den Rücken von der Katze.;neutral;no;neutral;no;neutral;no;neutral;no
+S46;Dann machen die 4 Tiere zusammen Musik: Der Esel schreit. Der Hund bellt. Die Katze miaut. Und der Hahn kräht.;neutral;no;neutral;no;neutral;no;neutral;no
+S47;Die Musik von den 4 Tieren ist laut. Und die Musik ist schrecklich.;negative;no;negative;no;negative;no;negative;no
+S48;Die Räuber denken: Das ist ein Gespenst. Nur Gespenster können so einen schrecklichen Lärm machen.;negative;no;negative;no;negative;no;negative;no
+S49;Die Räuber bekommen Angst. Und die Räuber laufen fort.;positive;no;positive;yes;negative;no;negative;no
+S50;Jetzt ist die Tür vom Haus offen. Die 4 Tiere gehen in das Haus.;positive;no;positive;no;positive;no;neutral;no
+S51;Und setzen sich an den Tisch. Die 4 Tiere essen und trinken. Dann sind die 4 Tiere satt.;positive;no;positive;no;positive;no;neutral;no
+S52;Und werden müde. Die 4 Tiere suchen sich einen Schlafplatz:;neutral;no;neutral;no;neutral;no;neutral;no
+S53;Der Esel geht vor das Haus. Vor dem Haus ist ein Misthaufen. Der Esel schläft bei dem Misthaufen.;neutral;no;neutral;no;neutral;no;neutral;no
+S54;Der Hund schläft vor der Tür. Die Katze schläft in der Küche.;neutral;no;neutral;no;neutral;no;neutral;no
+S55;Und der Hahn schläft auf einem Balken unter dem Dach. Das Licht ist aus. Und die 4 Tiere schlafen ein.;neutral;no;neutral;no;neutral;no;neutral;no
+S56;Aber die Räuber sind noch in der Nähe vom Haus.;negative;no;negative;no;neutral;no;neutral;no
+S57;Die Räuber sehen: Das Licht im Haus ist aus. Alles ist ganz still.;neutral;no;neutral;no;neutral;no;neutral;no
+S58;Deshalb sagt der Anführer von den Räubern: Wir haben uns geirrt. Vielleicht war es doch kein Gespenst. Lasst uns zurück zum Haus gehen.;neutral;no;neutral;no;neutral;no;neutral;no
+S59;Aber die Räuber sind vorsichtig: Es geht nur 1 Räuber in das Haus.;neutral;no;neutral;no;neutral;no;neutral;no
+S60;Der Räuber will das Licht anmachen. So kann der Räuber besser sehen.;neutral;no;neutral;no;neutral;no;neutral;no
+S61;Der Räuber weiß: In der Küche gibt es Kohle.;neutral;no;neutral;no;neutral;no;neutral;no
+S62;Die Kohle glüht. Die Kohle macht ein wenig Licht. Also geht der Räuber in die Küche.;neutral;no;neutral;no;neutral;no;neutral;no
+S63;In der Küche sieht der Räuber 2 leuchtende Punkte. Der Räuber denkt: Das ist die Kohle.;neutral;no;neutral;no;neutral;no;neutral;no
+S64;Der Räuber will nach der Kohle greifen. Aber der Räuber weiß nicht: In der Küche liegt die Katze.;neutral;no;neutral;no;neutral;no;neutral;no
+S65;Die Katze schaut den Räuber an. Die Augen von der Katze leuchten im Dunkeln. Die Augen von der Katze leuchten wie 2 Stücken Kohle.;neutral;no;neutral;no;neutral;no;neutral;no
+S66;Die Katze springt den Räuber an. Und die Katze zerkratzt das Gesicht vom Räuber.;negative;no;negative;no;negative;no;negative;no
+S67;Jetzt hat der Räuber Angst. Und der Räuber schreit. Der Räuber will schnell aus dem Haus laufen.;negative;no;negative;no;negative;no;negative;no
+S68;Der Räuber rennt zur Tür. Aber vor der Tür liegt noch der Hund.;neutral;no;neutral;no;neutral;no;neutral;no
+S69;Der Hund beißt den Räuber ins Bein. Der Räuber schreit noch lauter. Der Räuber rennt aus dem Haus.;negative;no;negative;no;negative;no;negative;no
+S70;Der Räuber rennt an dem Misthaufen vorbei. Am Misthaufen wartet schon der Esel.;neutral;no;neutral;no;neutral;no;neutral;no
+S71;Der Esel tritt den Räuber. Und der Räuber schreit. Und schreit.;negative;no;negative;no;negative;no;negative;no
+S72;Und so wird auch der Hahn wach. Der Hahn macht Krach. Und der Räuber läuft davon.;positive;no;positive;yes;negative;no;neutral;no
+S73;Der Räuber läuft zu den anderen Räubern.;neutral;no;neutral;no;neutral;no;neutral;no
+S74;Der Räuber erzählt mit einer ängstlichen Stimme: In dem Haus ist eine Hexe. Die Hexe hat mir das Gesicht zerkratzt.;negative;no;negative;no;negative;no;negative;no
+S75;Und vor der Tür steht ein Mann. Der Mann hat ein Messer. Mit dem Messer hat mir der Mann ins Bein gestochen.;negative;no;negative;no;negative;no;negative;no
+S76;Und bei dem Misthaufen ist ein Monster. Das Monster hat mich getreten.;negative;no;negative;no;negative;no;negative;no
+S77;Und auf dem Dach sitzt ein Polizist. Der Polizist wollte mich fangen. Deshalb bin ich fortgelaufen.;negative;no;negative;no;negative;no;negative;no
+S78;Jetzt haben auch die anderen Räuber Angst. Die Räuber laufen fort.;positive;no;positive;yes;negative;no;negative;no
+S79;Und die Räuber kommen nie mehr zu dem Haus zurück. Der Esel und der Hund und die Katze und der Hahn sind froh.;positive;no;positive;no;positive;no;positive;no
+S80;Und die 4 Tiere bleiben in dem Haus. Die 4 Tiere fühlen sich sehr wohl in dem Haus. Deshalb wollen die 4 Tiere auch nicht mehr nach Bremen gehen.;positive;no;positive;no;positive;no;positive;no
+S81;Und auch keine Stadtmusikanten werden. Das war das Märchen von den Bremer Stadtmusikanten.;neutral;no;neutral;no;neutral;no;neutral;no

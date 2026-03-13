@@ -1,0 +1,82 @@
+Text,Sentiments,Multi
+"Die Bremer Stadtmusikanten. Es war einmal: So fangen Märchen an. Ein Märchen ist eine sehr alte Geschichte.",neutral,no
+"Dieses Märchen heißt: Die Bremer Stadtmusikanten. Das Märchen geht so:",neutral,no
+"Ein Mann hat eine Mühle. Der Mann hat auch einen Esel.",neutral,no
+"Der Esel trägt viele Jahre lang Getreidesäcke zur Mühle.",neutral,no
+"Mit den Jahren wird der Esel alt. Und schwach.",negative,no
+"Aber der Mann möchte keinen alten und schwachen Esel. Deshalb will der Mann den Esel töten.",negative,no
+"Das merkt der Esel. Deshalb will der Esel fortlaufen.",negative,no
+"Der Esel will nach Bremen gehen. Bremen ist eine Stadt in Norddeutschland.",neutral,no
+"In Bremen will der Esel ein Stadtmusikant werden. Musikant ist ein anderes Wort für Musiker.",positive,no
+"Der Esel will also in Bremen Musik machen.",positive,no
+"So läuft der Esel fort. Nach einer Weile trifft der Esel einen Hund.",neutral,no
+"Der Hund sieht sehr traurig aus. Der Esel fragt den Hund: Warum bist du so traurig?",negative,no
+"Der Hund antwortet: Ich bin alt. Und ich bin schwach.",negative,no
+"Ich kann meinem Herrn nicht mehr beim Jagen helfen. Mein Herr wollte mich töten. Deshalb bin ich fortgelaufen.",negative,no
+"Der Esel sagt zum Hund. Ich gehe nach Bremen. In Bremen werde ich Stadtmusikant. Willst du mitkommen?",positive,no
+"Der Hund kommt gerne mit. Und so gehen der Esel und der Hund zusammen nach Bremen.",positive,no
+"Auf ihrem Weg treffen der Esel und der Hund eine Katze. Die Katze sieht sehr traurig aus.",negative,no
+"Der Esel fragt die Katze: Warum bist du so traurig?",negative,no
+"Die Katze sagt: Ich bin alt. Und ich bin schwach.",negative,no
+"Ich kann keine Mäuse mehr jagen. Deshalb will mein Herr mich töten.",negative,no
+"Der Esel sagt zur Katze: Wir gehen nach Bremen. In Bremen werden wir Stadtmusikanten. Willst du mitkommen?",positive,no
+"Die Katze kommt gerne mit. Und so gehen der Esel und der Hund und die Katze zusammen nach Bremen.",positive,no
+"Auf ihrem Weg kommen die Tiere zu einem Bauernhof. Auf dem Bauernhof treffen die Tiere einen Hahn.",neutral,no
+"Der Hahn schreit sehr laut. Der Esel fragt den Hahn: Warum schreist du so laut?",neutral,no
+"Der Hahn antwortet: Morgen ist ein großes Fest. Dann will mich meine Herrin braten. Und essen.",negative,no
+"Aber ich will nicht sterben. Deshalb schreie ich so laut.",negative,no
+"Der Esel sagt zum Hahn. Wir gehen nach Bremen. In Bremen werden wir Stadtmusikanten. Willst du mitkommen?",positive,no
+"Und auch der Hahn kommt gerne mit. Zusammen gehen die 4 Tiere nach Bremen: Der Esel. Der Hund. Die Katze. Und der Hahn.",positive,no
+"Aber der Weg nach Bremen ist sehr weit: Die Tiere gehen den ganzen Tag.",neutral,no
+"Langsam wird es dunkel. Die Tiere kommen in einen Wald.",neutral,no
+"Die Tiere sind sehr müde. Die Tiere wollen im Wald schlafen.",neutral,no
+"Die Tiere suchen einen Platz zum Schlafen:",neutral,no
+"Der Esel und der Hund legen sich unter einen großen Baum. Die Katze klettert auf den Baum. Und legt sich auf einen Ast. Der Hahn fliegt bis auf die Spitze vom Baum.",neutral,no
+"Dann schaut sich der Hahn um: In der Nähe sieht der Hahn ein helles Licht brennen.",neutral,no
+"Der Hahn denkt: Das Licht kommt von einem Haus.",neutral,no
+"Der Hahn sagt zu den anderen Tieren: Ich kann ein Haus sehen. Lasst uns zu dem Haus gehen.",neutral,no
+"Die Tiere finden die Idee vom Hahn gut. Die Tiere machen sich auf den Weg zum Haus.",positive,no
+"Die Tiere folgen dem Licht. Das Licht wird immer heller. Die Tiere kommen zu dem Haus.",neutral,no
+"Und der Esel schaut durch ein Fenster in das Haus. Der Hahn fragt den Esel: Was siehst du?",neutral,no
+"Der Esel antwortet: Ich sehe einen großen Tisch. An dem Tisch sitzen Räuber. Die Räuber essen und trinken.",negative,no
+"Der Hahn sagt zum Esel: Wir wollen auch an dem Tisch sitzen. Der Esel stimmt zu.",positive,no
+"Und der Esel sagt: Wir müssen die Räuber verjagen.",neutral,no
+"Dann können wir auch an dem Tisch sitzen. Und essen und trinken.",positive,no
+"Die Tiere überlegen. Dann haben die Tiere eine Idee:",neutral,no
+"Der Esel stellt sich vor das Fenster. Der Hund springt auf den Rücken vom Esel. Die Katze klettert auf den Rücken vom Hund. Und der Hahn fliegt auf den Rücken von der Katze.",neutral,no
+"Dann machen die 4 Tiere zusammen Musik: Der Esel schreit. Der Hund bellt. Die Katze miaut. Und der Hahn kräht.",neutral,no
+"Die Musik von den 4 Tieren ist laut. Und die Musik ist schrecklich.",negative,no
+"Die Räuber denken: Das ist ein Gespenst. Nur Gespenster können so einen schrecklichen Lärm machen.",negative,no
+"Die Räuber bekommen Angst. Und die Räuber laufen fort.",positive,no
+"Jetzt ist die Tür vom Haus offen. Die 4 Tiere gehen in das Haus.",positive,no
+"Und setzen sich an den Tisch. Die 4 Tiere essen und trinken. Dann sind die 4 Tiere satt.",positive,no
+"Und werden müde. Die 4 Tiere suchen sich einen Schlafplatz:",neutral,no
+"Der Esel geht vor das Haus. Vor dem Haus ist ein Misthaufen. Der Esel schläft bei dem Misthaufen.",neutral,no
+"Der Hund schläft vor der Tür. Die Katze schläft in der Küche.",neutral,no
+"Und der Hahn schläft auf einem Balken unter dem Dach. Das Licht ist aus. Und die 4 Tiere schlafen ein.",neutral,no
+"Aber die Räuber sind noch in der Nähe vom Haus.",negative,no
+"Die Räuber sehen: Das Licht im Haus ist aus. Alles ist ganz still.",neutral,no
+"Deshalb sagt der Anführer von den Räubern: Wir haben uns geirrt. Vielleicht war es doch kein Gespenst. Lasst uns zurück zum Haus gehen.",neutral,no
+"Aber die Räuber sind vorsichtig: Es geht nur 1 Räuber in das Haus.",neutral,no
+"Der Räuber will das Licht anmachen. So kann der Räuber besser sehen.",neutral,no
+"Der Räuber weiß: In der Küche gibt es Kohle.",neutral,no
+"Die Kohle glüht. Die Kohle macht ein wenig Licht. Also geht der Räuber in die Küche.",neutral,no
+"In der Küche sieht der Räuber 2 leuchtende Punkte. Der Räuber denkt: Das ist die Kohle.",neutral,no
+"Der Räuber will nach der Kohle greifen. Aber der Räuber weiß nicht: In der Küche liegt die Katze.",neutral,no
+"Die Katze schaut den Räuber an. Die Augen von der Katze leuchten im Dunkeln. Die Augen von der Katze leuchten wie 2 Stücken Kohle.",neutral,no
+"Die Katze springt den Räuber an. Und die Katze zerkratzt das Gesicht vom Räuber.",negative,no
+"Jetzt hat der Räuber Angst. Und der Räuber schreit. Der Räuber will schnell aus dem Haus laufen.",negative,no
+"Der Räuber rennt zur Tür. Aber vor der Tür liegt noch der Hund.",neutral,no
+"Der Hund beißt den Räuber ins Bein. Der Räuber schreit noch lauter. Der Räuber rennt aus dem Haus.",negative,no
+"Der Räuber rennt an dem Misthaufen vorbei. Am Misthaufen wartet schon der Esel.",neutral,no
+"Der Esel tritt den Räuber. Und der Räuber schreit. Und schreit.",negative,no
+"Und so wird auch der Hahn wach. Der Hahn macht Krach. Und der Räuber läuft davon.",positive,no
+"Der Räuber läuft zu den anderen Räubern.",neutral,no
+"Der Räuber erzählt mit einer ängstlichen Stimme: In dem Haus ist eine Hexe. Die Hexe hat mir das Gesicht zerkratzt.",negative,no
+"Und vor der Tür steht ein Mann. Der Mann hat ein Messer. Mit dem Messer hat mir der Mann ins Bein gestochen.",negative,no
+"Und bei dem Misthaufen ist ein Monster. Das Monster hat mich getreten.",negative,no
+"Und auf dem Dach sitzt ein Polizist. Der Polizist wollte mich fangen. Deshalb bin ich fortgelaufen.",negative,no
+"Jetzt haben auch die anderen Räuber Angst. Die Räuber laufen fort.",positive,no
+"Und die Räuber kommen nie mehr zu dem Haus zurück. Der Esel und der Hund und die Katze und der Hahn sind froh.",positive,no
+"Und die 4 Tiere bleiben in dem Haus. Die 4 Tiere fühlen sich sehr wohl in dem Haus. Deshalb wollen die 4 Tiere auch nicht mehr nach Bremen gehen.",positive,no
+"Und auch keine Stadtmusikanten werden. Das war das Märchen von den Bremer Stadtmusikanten.",neutral,no
