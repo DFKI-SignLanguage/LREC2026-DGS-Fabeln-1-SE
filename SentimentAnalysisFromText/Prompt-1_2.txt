@@ -1,0 +1,17 @@
+Consider the task of Sentiment analysis (also called opinion mining) in the field of Natural Language Processing (NLP).
+I will give you a list of German text chunks.
+For each chunk, evaluate its "sentiment" on a 3 levels scale: negative, neutral, positive.
+Also, for each chunk, mark if there is more than one sentiment that can be applied (for example, if a long text chunk changes sentiment), and report the sentiments separated by a dash (-)
+
+Format the output as a three-column comma-separated values (CSV), using the comma as separator.
+The first column will contain the original text chunk.
+The second column will contain the (list of) sentiment(s) that you evaluated.
+The third column will contain "yes" if multiple sentiments were found, "no" otherwise.
+Also, output a header with column names: "Text", "Sentiments", "Multi".
+
+As a consequence, the number of output rows must be the same as the number of input text chunks.
+
+In the output, omit any kind of preamble and explanation. Output only the CSV data.
+Do not use double quotes in the output CSV.
+
+Here is the list of chunks:
