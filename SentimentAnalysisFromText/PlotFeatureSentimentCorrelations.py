@@ -5,15 +5,17 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
-FEATURES = ["mouthSmileRight_mean",
-            "pose_LEFT_HIP_x_mean", "pose_LEFT_HIP_y_std",
-            "pose_LEFT_HIP_y_velocity_std",
-            "pose_RIGHT_HIP_y_velocity_std", "pose_RIGHT_HIP_y_acceleration_std",
-            "pose_LEFT_ELBOW_z_mean", "pose_RIGHT_ELBOW_y_std",
-            "pose_LEFT_SHOULDER_z_mean",
-            "torso_yaw_mean",
-            "eyeLookDownLeft_mean",
-            "jawRight_mean"]
+FEATURES = ["dist_elbows_lr_avg",
+    # "mouthSmileRight_mean",
+    #         "pose_LEFT_HIP_x_mean", "pose_LEFT_HIP_y_std",
+    #         "pose_LEFT_HIP_y_velocity_std",
+    #         "pose_RIGHT_HIP_y_velocity_std", "pose_RIGHT_HIP_y_acceleration_std",
+    #         "pose_LEFT_ELBOW_z_mean", "pose_RIGHT_ELBOW_y_std",
+    #         "pose_LEFT_SHOULDER_z_mean",
+    #         "torso_yaw_mean",
+    #         "eyeLookDownLeft_mean",
+            "jawRight_mean"
+            ]
 
 def plot_correlations(in_df: pd.DataFrame, out_folder: Path) -> None:
     """For each of the FEATURES, take the column from the input dataframe and plot a a graph where:
@@ -25,11 +27,11 @@ def plot_correlations(in_df: pd.DataFrame, out_folder: Path) -> None:
         print("Feature: ", feature)
 
         # Map sentiment labels to numbers
-        sentiment_mapping = {"Negative": 0, "Neutral": 1, "Positive": 2}
-        in_df["SentimentNum"] = in_df["Sentiments-Aggregated"].map(sentiment_mapping)
-        x_values = in_df["SentimentNum"]
+        sentiment_mapping = {"negative": 0, "neutral": 1, "positive": 2}
+        in_df["SentimentNum"] = in_df["Sentiments-Aggregated"].str.lower().map(sentiment_mapping)
+        x_values = in_df["SentimentNum"].to_numpy(dtype=np.float64)
+        y_values = in_df[feature].to_numpy(dtype=np.float64)
         print("x_values", len(x_values), x_values.min(), x_values.max(), x_values.mean())
-        y_values = in_df[feature]
         print("y_values", len(y_values), y_values.min(), y_values.max(), y_values.mean())
 
         #
@@ -72,9 +74,9 @@ def plot_correlations(in_df: pd.DataFrame, out_folder: Path) -> None:
         # Three histograms must be overlapped, with different color according to the associated sentiment (x_values) and the mapping {"Negative": 0, "Neutral": 1, "Positive": 2}
         plt.figure(figsize=(6, 4))
         bins = 30
-        plt.hist(y_values[x_values == 0], bins=bins, alpha=0.5, label='Negative', color='red')
-        plt.hist(y_values[x_values == 1], bins=bins, alpha=0.5, label='Neutral', color='gray')
-        plt.hist(y_values[x_values == 2], bins=bins, alpha=0.5, label='Positive', color='green')
+        plt.hist(y_values[x_values == 0], bins=bins, alpha=0.5, label='negative', color='red')
+        plt.hist(y_values[x_values == 1], bins=bins, alpha=0.5, label='neutral', color='gray')
+        plt.hist(y_values[x_values == 2], bins=bins, alpha=0.5, label='positive', color='green')
         # plt.xlabel(feature)
         # plt.ylabel("Count")
         plt.title(f"{feature}")
@@ -94,22 +96,47 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description='Plot correlations between a feature and the sentiment values')
-    parser.add_argument('--in-dataframe', '-i', type=str, help="Input dataframe with all segment-level sentiments and features.")
+    parser.add_argument('--labels-dataframe', '-l', type=str, help="Input dataframe with all segment-level sentiments.")
+    parser.add_argument('--features-dataframe', '-f', type=str, help="Input dataframe with all segment-level motion features.")
     parser.add_argument('--out-dir', '-o', required=True, help="The output directory for all stats and plots")
 
     args = parser.parse_args()
 
-    in_path = Path(args.in_dataframe)
+    labels_path = Path(args.labels_dataframe)
+    features_path = Path(args.features_dataframe)
     out_path = Path(args.out_dir)
 
-    if not in_path.exists():
-        raise ValueError(f"Input dataframe file does not exist: {in_path}")
-    
+    if not labels_path.exists():
+        raise ValueError(f"Input dataframe file does not exist: {labels_path}")
+
+    if not features_path.exists():
+        raise ValueError(f"Input dataframe file does not exist: {features_path}")
+
     if not out_path.exists():
         out_path.mkdir(parents=True, exist_ok=True)
 
-    df = pd.read_csv(in_path)
+    labels_df = pd.read_csv(labels_path)
+    print("Labels shape:", labels_df.shape)
+    features_df = pd.read_csv(features_path)
+    print("Features shape:", features_df.shape)
 
-    plot_correlations(in_df=df, out_folder=out_path)
+    # Drop rows where the aggregated sentiment is "multi"
+    labels_df = labels_df[~ (labels_df["Sentiments-Aggregated"] == "multi")]
+    print("Labels no-multi shape:", labels_df.shape)
+
+    # Merge the two datasets using jointly Story and id columns as key
+    merged_df = pd.merge(labels_df, features_df, on=["Story", "id"], how="inner")
+    dropped_labels = len(labels_df) - len(merged_df)
+    dropped_features = len(features_df) - len(merged_df)
+    if dropped_labels > 0:
+        print(f"WARNING: {dropped_labels} row(s) from labels had no match in features.")
+    if dropped_features > 0:
+        print(f"WARNING: {dropped_features} row(s) from features had no match in labels.")
+    print(f"Merged rows: {len(merged_df)}")
+
+    print("Merged DF shape: ", merged_df.shape)
+    print(merged_df.head(5))
+
+    plot_correlations(in_df=merged_df, out_folder=out_path)
 
     print("All done.")

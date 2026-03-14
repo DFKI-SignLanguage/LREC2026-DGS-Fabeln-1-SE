@@ -22,8 +22,8 @@ For GPTOSS20B we used a local ollama installation and the script `PredictSentime
 
 ## Test: predict sentiments with the Guhr library
 
-    python PredictSentimentGuhr.py -i ../1-DHUDI/1-DHUDI-Sentences.csv -o testguhr.csv
-    python PredictSentimentGuhr.py -i ../2-FrauHolle/2-FrauHolle-Sentences.csv -o testguhr.csv
+    python PredictSentimentGuhr.py -i data/1-DHUDI/1-DHUDI-Sentences.csv -o testguhr.csv
+    python PredictSentimentGuhr.py -i data/2-FrauHolle/2-FrauHolle-Sentences.csv -o testguhr.csv
 
 This library was dropped because it was predicting mostly "Neutral". Likely, this library is not appropriate for simplified German text.
 
@@ -59,7 +59,7 @@ Plot the stats for the aggregated votes:
 
 Plot the correlations between features and predicted sentiment:
 
-    python PlotFeatureSentimentCorrelations.py -i DGS-Fabeln-1-SE-Labels.csv -o Correlations
+    python PlotFeatureSentimentCorrelations.py -l DGS-Fabeln-1-SE-Labels.csv -f DGS-Fabeln-1-SE-MotionFeatures.csv -o Correlation
 
 # Stats
 
