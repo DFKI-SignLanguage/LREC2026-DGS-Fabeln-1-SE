@@ -1,10 +1,8 @@
 # Video Data Preparation — MediaPipe Feature Extraction
 
-
 Extracts facial, pose, and hand features from frontal videos using **MediaPipe FaceLandmarker v2** and aggregates them into a single CSV per dataset.
 
 ---
-
 
 ## Setup
 
@@ -24,13 +22,11 @@ Run `mediapipe.ipynb`. Update `root_folder` inside the notebook to point to your
 
 The notebook finds every `Front.mp4` nested in subfolders and produces three files per video under `Output/`:
 
-
 | File | Contents |
 |---|---|
 | `*_mediapipe_data.csv` | Raw per-frame landmarks |
 | `*_mediapipe_data_interpolated.csv` | Interpolated, with rotation angles, distances, and peak indicators |
 | `*_features.csv` | Single-row summary (mean, std, peaks/sec) for ML |
-
 
 ### 2. Aggregate
 Run:
@@ -41,8 +37,6 @@ Update `root_folder` in `aggregate.py` to match your dataset path. Merges all `*
 ```
 Output/Aggregated/<tale_name>/AllFront_features.csv
 ```
-
- 
 
 ---
 
@@ -70,3 +64,7 @@ Each video goes through these steps in order:
 | Distances | `dist_wrist_lr`, `dist_left_wrist_to_nose`, … |
 | Cumulative motion | `L_WRIST_accum_dist`, `NOSE_accum_dist`, … |
 | Summaries | `*_mean`, `*_std`, `*_peaks_per_s` |
+
+## Reference
+
+> Nunnari, F., Jain, S., & Gebhard, P. (2026). *Sentiment Analysis of German Sign Language Fairy Tales*. arXiv:2604.16138.
