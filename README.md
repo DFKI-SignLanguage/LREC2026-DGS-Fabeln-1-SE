@@ -10,8 +10,18 @@ Folders:
 
 ## Reference
 
+Nunnari, F., Jain, S. and Gebhard, P. (2026) “Sentiment Analysis of German Sign Language Fairy Tales.” The Fifteenth Language Resources and Evaluation Conference (LREC 2026), Palma, Mallorca, Spain, pp. 9525–9534. Available at: https://doi.org/10.63317/3cyfzw6vs9oe.
+
 ```
-Nunnari, Fabrizio, Siddhant Jain, Patrick Gebhard. 2026. “Sentiment Analysis of German Sign Language Fairy Tales.”
-Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC 2026) (Palma, Mallorca, Spain), May.
-URL: <https://lrec.elra.info/lrec2026-main-748>.
+@inproceedings{nunnari_sentiment_2026,
+	address = {Palma, Mallorca, Spain},
+	title = {Sentiment {Analysis} of {German} {Sign} {Language} {Fairy} {Tales}},
+	url = {https://lrec.elra.info/lrec2026-main-748},
+	doi = {10.63317/3cyfzw6vs9oe},
+	urldate = {2026-05-11},
+	author = {Nunnari, Fabrizio and Jain, Siddhant and Gebhard, Patrick},
+	month = may,
+	year = {2026},
+	pages = {9525--9534},
+}
 ```
