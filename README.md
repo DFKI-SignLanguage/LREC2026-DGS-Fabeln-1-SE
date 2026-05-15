@@ -13,5 +13,5 @@ Folders:
 ```
 Nunnari, Fabrizio, Siddhant Jain, Patrick Gebhard. 2026. “Sentiment Analysis of German Sign Language Fairy Tales.”
 Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC 2026) (Palma, Mallorca, Spain), May.
-URL: https://lrec.elra.info/lrec2026-main-748
+URL: <https://lrec.elra.info/lrec2026-main-748>.
 ```
